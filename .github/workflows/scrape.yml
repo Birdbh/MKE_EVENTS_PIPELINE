@@ -5,6 +5,10 @@ on:
     - cron: '0 8 * * 0' # 8 AM UTC every Sunday
   workflow_dispatch: # Allow manual triggering
 
+# Add necessary permissions for the GITHUB_TOKEN
+permissions:
+  contents: write
+
 jobs:
   scrape-and-publish:
     runs-on: ubuntu-latest
