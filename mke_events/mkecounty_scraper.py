@@ -61,8 +61,8 @@ class MilwaukeeCountyScraper(BaseScraper):
                     url = "https://county.milwaukee.gov" + url
                 
                 # Date & Time from the item details if available, otherwise use header
-                date_val = item.find("div", class_=lambda x: x and "Date" in x)
-                time_val = item.find("div", class_=lambda x: x and "Time" in x)
+                date_val = item.find("div", class_="Date")
+                time_val = item.find("div", class_="Time")
                 
                 event_datetime = current_date_header
                 
@@ -73,17 +73,30 @@ class MilwaukeeCountyScraper(BaseScraper):
                 if time_val and time_val.find("span", class_="value"):
                     time_str = time_val.find("span", class_="value").text.strip()
                 
-                # Try to parse the specific date/time if we have it
                 try:
-                    if date_str and not "-" in date_str: # avoid parsing ranges like "March 1st - Oct 25th" simply
-                        if time_str and not "-" in time_str:
-                            event_datetime = parser.parse(f"{date_str} {time_str}", fuzzy=True)
+                    if date_str or time_str:
+                        d_clean = date_str.split("-")[0].strip() if date_str else ""
+                        t_clean = time_str.split("-")[0].strip() if time_str else ""
+                        
+                        # If date_str is missing, fallback to current_date_header
+                        if not d_clean and current_date_header:
+                            d_clean = current_date_header.strftime("%Y-%m-%d")
+                            
+                        # If t_clean is missing, fallback to midnight
+                        if not t_clean:
+                            t_clean = "00:00"
+                            
+                        parsed_dt = parser.parse(f"{d_clean} {t_clean}", fuzzy=True)
+                        
+                        # Ensure year is correct
+                        if current_date_header and str(current_date_header.year) not in d_clean:
+                            event_datetime = parsed_dt.replace(year=current_date_header.year)
                         else:
-                            # if time has a range, grab the first part
-                            first_time = time_str.split("-")[0].strip() if time_str else ""
-                            event_datetime = parser.parse(f"{date_str} {first_time}", fuzzy=True)
-                except Exception:
-                    pass
+                            event_datetime = parsed_dt
+                            
+                except Exception as e:
+                    print(f"Failed to parse date '{date_str}' time '{time_str}' - clean: '{d_clean}' '{t_clean}': {e}")
+                    # Keep fallback to current_date_header
                 
                 # Fallback if no valid date found at all
                 if not event_datetime:
