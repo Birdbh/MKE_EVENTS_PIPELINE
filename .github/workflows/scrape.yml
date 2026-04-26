@@ -1,0 +1,38 @@
+name: Scrape Milwaukee Events
+
+on:
+  schedule:
+    - cron: '0 8 * * 0' # 8 AM UTC every Sunday
+  workflow_dispatch: # Allow manual triggering
+
+jobs:
+  scrape-and-publish:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.12'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r mke_events/requirements.txt
+
+    - name: Run Scraper
+      env:
+        GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      run: |
+        cd mke_events
+        python main.py
+
+    - name: Deploy to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./mke_events
+        publish_branch: gh-pages

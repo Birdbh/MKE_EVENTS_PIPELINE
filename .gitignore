@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+env/
+test_html.txt
+test_scraper.py
+raw_page.html
+mke_county.html
+mke_mag.html
+mke_mag_cloud.html
+test_mke_scraper/
+mke_events/mke_events.ics
