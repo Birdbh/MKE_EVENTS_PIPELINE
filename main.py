@@ -1,5 +1,6 @@
 import os
 import json
+import hashlib
 from datetime import datetime
 from collections import defaultdict
 from zoneinfo import ZoneInfo
@@ -89,6 +90,10 @@ def main():
         for ev in final_events:
             c_event = Event()
             c_event.name = ev['title']
+            
+            # Deterministic UID based on title and date so calendars don't duplicate events if the script runs twice
+            uid_string = f"{ev['title']}-{ev['date_time']}".encode('utf-8')
+            c_event.uid = hashlib.md5(uid_string).hexdigest() + "@mke_events.local"
             
             dt = ev['date_time']
             
