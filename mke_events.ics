@@ -2,141 +2,205 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260426
-DESCRIPTION:Source: Milwaukee Record\n...\n\nLink: https://milwaukeerecord.com/music/milwaukee-record-recommended-events-april-20-26-2026/
-LOCATION:Shank Hall
-SUMMARY:Pat McCurdy
-UID:3d50942fc7e64af30825b4f3a90b27cc@mke_events.local
-URL:https://milwaukeerecord.com/music/milwaukee-record-recommended-events-april-20-26-2026/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260426
-DESCRIPTION:Source: Milwaukee Record\n...\n\nLink: https://milwaukeerecord.com/music/milwaukee-record-recommended-events-april-20-26-2026/
-LOCATION:Ope! Brewing Co.
-SUMMARY:Leroy Airmaster
-UID:8ebd0dea1194764cc08f613d8672240f@mke_events.local
-URL:https://milwaukeerecord.com/music/milwaukee-record-recommended-events-april-20-26-2026/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee County\nMCSO will be at the MATC Criminal Justice Career Fair recruiting for all jobs. If you are not able to attend\, click on our Recruitment Interest Form link\, and a recruiter will reach out to you....\n\nLink: https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=467889&Occurrence=2026-04-28T11:30:00
+DESCRIPTION:Source: Milwaukee County\nEnjoy a Sunday morning (or one evening) guided hike to explore and discover the secrets of our natural world. Events are led by professional field guides. Every other Sunday\, explore a new topic. Each program lasts about 2 hours. Events are held rain or shine -- dress accordingly and wear......\n\nLink: https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=316722&Occurrence=2026-05-03T08:00:00
 DURATION:PT2H
-LOCATION:MATC Oak Creek Campus\r\n6665 S. Howell Ave\r\nOak Creek\, WI 53154
-DTSTART:20260428T163000Z
-SUMMARY:MCSORecruitmentEventMATCCareerFair
-UID:1f80ed92ea3b6e30b34503ad6a2bb874@mke_events.local
-URL:https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=467889&Occurrence=2026-04-28T11:30:00
+LOCATION:Grant Park\, 100 E. Hawthorne Ave.\, South Milwaukee\, WI 53172 \nCheck the schedule for starting location & time (Program start times are split between 8 a.m. and 10 a.m.\, with one evening walk also available)
+DTSTART:20260503T130000Z
+SUMMARY:Suburban Soles: Guided Nature Hikes
+UID:15830d06347214cf84a5ed9455bbafe7@mke_events.local
+URL:https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=316722&Occurrence=2026-05-03T08:00:00
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee County\nBeginner and experienced birders alike are invited to learn to identify birds by their songs and calls. We’ll use tips and tricks from the field to learn about 10 species at Wehr\, and we'll test new skills with live birds on the trails. Your reservation guarantees your spot....\n\nLink: https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=426252&Occurrence=2026-05-02T09:30:00
+DESCRIPTION:Source: Milwaukee County\nEnjoy a Sunday morning (or one evening) guided hike to explore and discover the secrets of our natural world. Events are led by professional field guides. Every other Sunday\, explore a new topic. Each program lasts about 2 hours. Events are held rain or shine -- dress accordingly and wear......\n\nLink: https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=316722&Occurrence=2026-05-17T08:00:00
+DURATION:PT2H
+LOCATION:Grant Park\, 100 E. Hawthorne Ave.\, South Milwaukee\, WI 53172 \nCheck the schedule for starting location & time (Program start times are split between 8 a.m. and 10 a.m.\, with one evening walk also available)
+DTSTART:20260503T130000Z
+SUMMARY:Suburban Soles: Guided Nature Hikes
+UID:15830d06347214cf84a5ed9455bbafe7@mke_events.local
+URL:https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=316722&Occurrence=2026-05-17T08:00:00
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee County\nEnjoy a Sunday morning (or one evening) guided hike to explore and discover the secrets of our natural world. Events are led by professional field guides. Every other Sunday\, explore a new topic. Each program lasts about 2 hours. Events are held rain or shine -- dress accordingly and wear......\n\nLink: https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=316722&Occurrence=2026-05-31T08:00:00
+DURATION:PT2H
+LOCATION:Grant Park\, 100 E. Hawthorne Ave.\, South Milwaukee\, WI 53172 \nCheck the schedule for starting location & time (Program start times are split between 8 a.m. and 10 a.m.\, with one evening walk also available)
+DTSTART:20260503T130000Z
+SUMMARY:Suburban Soles: Guided Nature Hikes
+UID:15830d06347214cf84a5ed9455bbafe7@mke_events.local
+URL:https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=316722&Occurrence=2026-05-31T08:00:00
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260503
+DESCRIPTION:Source: Milwaukee Record\n...\n\nLink: https://milwaukeerecord.com/music/milwaukee-record-recommended-events-april-27-may-3-2026/
+LOCATION:Cactus Club
+SUMMARY:The Cribs + Trolley\, Known Moons
+UID:15d81642d1f7da3d3184aaa11ce9d052@mke_events.local
+URL:https://milwaukeerecord.com/music/milwaukee-record-recommended-events-april-27-may-3-2026/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee County\nLast year\, more than 1.8 million birders in 204 countries saw or heard 7931 species\, in the world’s largest bird count and research project. "Every bird counts\," so join the naturalists at Wehr or do the count in your own backyard! No fee or registration....\n\nLink: https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=308224&Occurrence=2026-05-09T08:00:00
+DURATION:PT2H
+LOCATION:at Wehr with the naturalists  (9701 W College Ave\, Franklin\, WI 53132)\r\nor on your own in a park\, your backyard or anywhere you find birds!
+DTSTART:20260509T130000Z
+SUMMARY:Global Big Day - Bird Count
+UID:d2d647f7410b35ad286aeef6da4dc35b@mke_events.local
+URL:https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=308224&Occurrence=2026-05-09T08:00:00
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee County\nSupport the monarchs and other pollinators--and support the Monarch Trail! This 2-day event features single plants. (Open Saturday until 4 p.m.\; Sunday\, until 2 p.m.) Pre-order for best selection\, including special collections\, bags\, and flats....\n\nLink: https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=382685&Occurrence=2026-05-09T11:00:00
+DURATION:PT2H
+LOCATION:Greenfield Park\, Pavilion\, 2028 S 124th St\, West Allis\, WI 53227
+DTSTART:20260509T160000Z
+SUMMARY:Milkweed Plant Sale
+UID:1b58311bb942035477208a4ef13d124d@mke_events.local
+URL:https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=382685&Occurrence=2026-05-09T11:00:00
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee County\nSupport the monarchs and other pollinators--and support the Monarch Trail! This 2-day event features single plants. (Open Saturday until 4 p.m.\; Sunday\, until 2 p.m.) Pre-order for best selection\, including special collections\, bags\, and flats....\n\nLink: https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=382685&Occurrence=2026-05-10T11:00:00
+DURATION:PT2H
+LOCATION:Greenfield Park\, Pavilion\, 2028 S 124th St\, West Allis\, WI 53227
+DTSTART:20260509T160000Z
+SUMMARY:Milkweed Plant Sale
+UID:1b58311bb942035477208a4ef13d124d@mke_events.local
+URL:https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=382685&Occurrence=2026-05-10T11:00:00
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee County\nRally your friends and family to walk the 2-mile route along the Oak Leaf Trail and help the Lupus Foundation of America\, Wisconsin Chapter raise funds for critically needed research to find better treatments and a cure....\n\nLink: https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=275451&Occurrence=2026-05-09T08:00:00
+DURATION:PT2H
+LOCATION:Hoyt Park\, 1800 N Swan Blvd\, Wauwatosa\, WI 53226
+DTSTART:20260509T130000Z
+SUMMARY:Walk to End Lupus Now
+UID:ab979e81f0d5757a5ff6479986c7edef@mke_events.local
+URL:https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=275451&Occurrence=2026-05-09T08:00:00
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee County\nThe New Day 5K returns! With the Kids Dash kicking off the event\, the whole family can participate! This fundraiser supports Great Lakes Adult and Teen Challenge\, a one-year\, live-in Christian discipleship program for adults struggling with life-controlling problems\, such as drugs and alcohol. The g...\n\nLink: https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=382950&Occurrence=2026-05-09T09:00:00
+DURATION:PT2H
+LOCATION:Lake Park\, 2975 North Lake Park Road\, Milwaukee\, WI 53211
+DTSTART:20260509T140000Z
+SUMMARY:New Day 5K
+UID:02eb6dd5df72757b8593b930628cfa38@mke_events.local
+URL:https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=382950&Occurrence=2026-05-09T09:00:00
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260503
+DESCRIPTION:Source: Milwaukee Record\n...\n\nLink: https://milwaukeerecord.com/music/milwaukee-record-recommended-events-april-27-may-3-2026/
+LOCATION:Anodyne Walker’s Point Roastery
+SUMMARY:Flake + Mizzy\, Crash House\, Steal Salvage
+UID:ac6e8a3fbbd9df58d1f643271b7d3814@mke_events.local
+URL:https://milwaukeerecord.com/music/milwaukee-record-recommended-events-april-27-may-3-2026/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee County\nA free gardening program created for people with dementia and their care partners. This is a casual program that focuses on learning and having fun. No gardening experience or green thumb required! Enjoy light refreshments while you dig into gardening activities....\n\nLink: https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=471776&Occurrence=2026-05-06T15:00:00
+DURATION:PT2H
+LOCATION:Washington Park Urban Ecology Center\r\n1859 N 40th St. Milwaukee
+DTSTART:20260506T200000Z
+SUMMARY:Growing Connections
+UID:687115c4510f7c8006df8fe45450ddb4@mke_events.local
+URL:https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=471776&Occurrence=2026-05-06T15:00:00
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee County\nA program for two-year-olds and their favorite adults. During the one-hour program\, tots and their caregivers delve into a fun nature topic\, listen to a related story\, take part in a themed activity\, and spend some time outdoors\, if Mother Nature cooperates....\n\nLink: https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=426207&Occurrence=2026-05-04T09:30:00
 DURATION:PT2H
 LOCATION:Wehr Nature Center\, 9701 W College Ave\, Franklin\, WI 53132
-DTSTART:20260502T143000Z
-SUMMARY:Birding Beyond the Feeder: Birding by Ear
-UID:feef94416b4e217505d2b70634a39cd9@mke_events.local
-URL:https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=426252&Occurrence=2026-05-02T09:30:00
+DTSTART:20260504T143000Z
+SUMMARY:Little Wonders for Two-year-olds
+UID:45fd7f3d1609db9d95938cb082c100f1@mke_events.local
+URL:https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=426207&Occurrence=2026-05-04T09:30:00
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260426
-DESCRIPTION:Source: Milwaukee Record\n...\n\nLink: https://milwaukeerecord.com/music/milwaukee-record-recommended-events-april-20-26-2026/
-LOCATION:Shank Hall
-SUMMARY:James McMurtry And the Martial Law Review + BettySoo
-UID:4773a6c3f6c0ffe1dbb43ec2f077a8c0@mke_events.local
-URL:https://milwaukeerecord.com/music/milwaukee-record-recommended-events-april-20-26-2026/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee County\nAre you concerned about your memory?...\n\nLink: https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=471770&Occurrence=2026-04-29T10:00:00
+DESCRIPTION:Source: Milwaukee County\nCelebrate the love for your Sweet Home in Milwaukee! All registrants\, whether in-person or virtual participants\, receive great race swag -- AND. . . Fred's frozen custard\, a celebration Bloody Mary at nearby Brunch It Up\, and donation to Hunger Task Force!...\n\nLink: https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=275066&Occurrence=2026-05-03T09:00:00
 DURATION:PT2H
-LOCATION:9151 W Loomis Rd. Franklin
-DTSTART:20260429T150000Z
-SUMMARY:Community Memory Screening
-UID:27e87f38d550b613c6a062276ee839a9@mke_events.local
-URL:https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=471770&Occurrence=2026-04-29T10:00:00
+LOCATION:Veterans Park\, 1010 Lincoln Memorial Drive\, Milwaukee\, WI 53202
+DTSTART:20260503T140000Z
+SUMMARY:Sweet Home Milwaukee 5K
+UID:2ceb0feca74a5b210cfd9da7ae315661@mke_events.local
+URL:https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=275066&Occurrence=2026-05-03T09:00:00
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260426
-DESCRIPTION:Source: Milwaukee Record\nFollowing five successful installments\, Turner Hall Tiki Takedown will once again bring warm vibes and cool cocktails back to the eponymous downtown ballroom. From 1-4 p.m.\, Turner Hall will host mixologists from a variety of local bars and restaurants\, each of whom will be serving up their own uniq...\n\nLink: https://milwaukeerecord.com/music/milwaukee-record-recommended-events-april-20-26-2026/
-LOCATION:Turner Hall Ballroom
-SUMMARY:Turner Hall Tiki Takedown
-UID:28e5572eb22b4bbf0e3497f39483e0a5@mke_events.local
-URL:https://milwaukeerecord.com/music/milwaukee-record-recommended-events-april-20-26-2026/
+DTSTART;VALUE=DATE:20260503
+DESCRIPTION:Source: Milwaukee Record\nLegendary Talking Heads frontman and solo artist David Byrne is bringing his Who Is The Sky? Tour to the Miller High Life Theatre on Sunday. What more needs to be said? This will be Byrne’s first performance in Milwaukee since coming to The Riverside Theater in May 2018. DON’T MISS IT....\n\nLink: https://www.pabsttheatergroup.com/events/detail/david-byrne-2026
+LOCATION:Miller High Life Theatre
+SUMMARY:David Byrne
+UID:11b1ee510814f6bf9478ce8fe2332ae1@mke_events.local
+URL:https://www.pabsttheatergroup.com/events/detail/david-byrne-2026
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee County\nThe June 14 program runs from 9 to 11 a.m. Unplug\, slow down and de-stress. Inspired by the Japanese practice of Shinrin-yoku\, this session\, led by a certified forest-bathing guide\, takes you through sensory-based explorations designed to relax\, restore\, and deepen your relationship with the natural...\n\nLink: https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=400621&Occurrence=2026-04-26T13:00:00
+DESCRIPTION:Source: Milwaukee County\nSavvy Caregiver helps family caregivers acquire and strengthen their knowledge\, skills and attitudes to empower them to be more intentional\, strategic and responsive in their caregiving role....\n\nLink: https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=471777&Occurrence=2026-05-07T10:30:00
 DURATION:PT2H
-LOCATION:Wehr Nature Center\, 9701 W. College Ave.\, Franklin\, WI 53132
-DTSTART:20260426T180000Z
-SUMMARY:Guided Forest-Bathing Walk
-UID:799c16faa41ad2ce0816a807945943e5@mke_events.local
-URL:https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=400621&Occurrence=2026-04-26T13:00:00
+LOCATION:MPL Martin Luther King Branch\r\n2901 N Doctor M.L.K Jr. Drive\r\nMilwaukee WI 53212
+DTSTART:20260507T153000Z
+SUMMARY:Savvy Caregiver® Program
+UID:008e33396098cf87a66b791603644619@mke_events.local
+URL:https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=471777&Occurrence=2026-05-07T10:30:00
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee County\nJoin the 5K run / walk! Enjoy your run along the beautiful lakefront. All event proceeds go to UW-Milwaukee's chapter of Engineers Without Borders (EWB) to build projects in rural Guatemala\, bringing potable water to communities that lack access to it. Join EWB to Run 4 Water so they don't......\n\nLink: https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=275084&Occurrence=2026-04-26T09:00:00
+DESCRIPTION:Source: Milwaukee County\nEthics Board meets on a semi-regular quarterly basis to discuss business that includes\, but is not limited to\, administrative reports\, advisory opinions and policy changes....\n\nLink: https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=466025&Occurrence=2026-05-07T09:00:00
 DURATION:PT2H
-LOCATION:Veterans Park\, 1010 N. Lincoln Memorial Drive\, Milwaukee\, WI 53202
-DTSTART:20260426T140000Z
-SUMMARY:Run 4 Water\, 5K Run/Walk
-UID:6be398c4e28d1e8a935599c9dabb8dfd@mke_events.local
-URL:https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=275084&Occurrence=2026-04-26T09:00:00
+LOCATION:Milwaukee County Courthouse\r\nRoom 308 A-1\r\n901 North 9th Street\r\nMilwaukee\, WI 53233
+DTSTART:20260507T140000Z
+SUMMARY:Ethics Board Meeting
+UID:03002b5ed172dfe122b88cf967fb8b69@mke_events.local
+URL:https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=466025&Occurrence=2026-05-07T09:00:00
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee County\nThe June 14 program runs from 9 to 11 a.m. Unplug\, slow down and de-stress. Inspired by the Japanese practice of Shinrin-yoku\, this session\, led by a certified forest-bathing guide\, takes you through sensory-based explorations designed to relax\, restore\, and deepen your relationship with the natural...\n\nLink: https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=400621&Occurrence=2026-05-03T13:00:00
+DESCRIPTION:Source: Milwaukee County\n¿Le preocupa su memoria?...\n\nLink: https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=471771&Occurrence=2026-05-05T08:30:00
 DURATION:PT2H
-LOCATION:Wehr Nature Center\, 9701 W. College Ave.\, Franklin\, WI 53132
-DTSTART:20260426T180000Z
-SUMMARY:Guided Forest-Bathing Walk
-UID:799c16faa41ad2ce0816a807945943e5@mke_events.local
-URL:https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=400621&Occurrence=2026-05-03T13:00:00
+LOCATION:906 W. Mitchell St. Milwaukee
+DTSTART:20260505T133000Z
+SUMMARY:Evaluación Comunitaria de la Memoria
+UID:36a091955f8c8ec014b003219dabacd6@mke_events.local
+URL:https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=471771&Occurrence=2026-05-05T08:30:00
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee County\nReceive a free rain barrel! (One per owner-occupied property.) Learn about the uses and benefits of owning a rain barrel\, and how to install one. Registration through MMSD required....\n\nLink: https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=311962&Occurrence=2026-04-26T13:00:00
+DESCRIPTION:Source: Milwaukee County\nExperience the artistry and tradition of bonsai at the World Bonsai Day Exhibit\, hosted by Boerner Botanical Gardens and the Milwaukee Bonsai Society....\n\nLink: https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=449671&Occurrence=2026-05-09T09:00:00
+DURATION:PT2H
+LOCATION:Boerner Botanical Gardens\, 9400 Boerner Drive\, Hales Corners\, WI
+DTSTART:20260509T140000Z
+SUMMARY:World Bonsai Day\, at Boerner Botanical Gardens
+UID:8c408ff78200f3f3bae6770241979afd@mke_events.local
+URL:https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=449671&Occurrence=2026-05-09T09:00:00
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260503
+DESCRIPTION:Source: Milwaukee Record\n...\n\nLink: https://milwaukeerecord.com/music/milwaukee-record-recommended-events-april-27-may-3-2026/
+LOCATION:X-Ray Arcade
+SUMMARY:Blood Club + Stare Away\, BLOOD
+UID:b55ab4c871cc940c922e67c6ef6cb115@mke_events.local
+URL:https://milwaukeerecord.com/music/milwaukee-record-recommended-events-april-27-may-3-2026/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee County\nExperience the 2026 Blind Birder Birdathon\, a global celebration that invites people who are blind or have low vision to listen for bird species over a 24-hour period. No experience is necessary. A designated sit-spot will be available\, and volunteers will be on hand to lead trail birding walks. Thi...\n\nLink: https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=472106&Occurrence=2026-05-03T09:30:00
 DURATION:PT2H
 LOCATION:Wehr Nature Center\, 9701 W College Ave\, Franklin\, WI 53132
-DTSTART:20260426T180000Z
-SUMMARY:Rain Barrel Workshop
-UID:214b4e37d39257d4f8e934291a0a6879@mke_events.local
-URL:https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=311962&Occurrence=2026-04-26T13:00:00
+DTSTART:20260503T143000Z
+SUMMARY:Birdathon for Birders with Vision Loss
+UID:2c80615323cfc58c4e3dca630784f6a1@mke_events.local
+URL:https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=472106&Occurrence=2026-05-03T09:30:00
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee County\nHonor those who lost their lives or were injured in the workplace in 2025. This commemoration and speaking program celebrate the victories won by working people and commits to fighting until all workers have safe working conditions and the freedom to form unions without the threat of retaliation....\n\nLink: https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=306735&Occurrence=2026-04-28T17:00:00
+DESCRIPTION:Source: Milwaukee County\nJoin MCSO\, MPD and our community partners for our first Brat With A Cop event of 2026. Food\, fun\, and fellowship to reactivate our community parks and promote safety through community engagement....\n\nLink: https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=474271&Occurrence=2026-05-06T16:30:00
 DURATION:PT2H
-LOCATION:Zeidler Union Square\, 301 W. Michigan St.\, Milwaukee\, WI 53203
-DTSTART:20260428T220000Z
-SUMMARY:Workers Memorial Day
-UID:01cde116eb063f7f0cb245136f3c647f@mke_events.local
-URL:https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=306735&Occurrence=2026-04-28T17:00:00
+LOCATION:Smith Park\r\n5462 N 33rd St\r\nMilwaukee\, WI 53209
+DTSTART:20260506T213000Z
+SUMMARY:MCSO & MPD Brat With A Cop - Smith Park
+UID:85942a756ad13e0f460d52db72426a8a@mke_events.local
+URL:https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=474271&Occurrence=2026-05-06T16:30:00
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee County\nJoin the Cudahy Health Department and Sheridan Park Friends for the first Community Walking Map Event. Be ready to step off at 5 p.m. for an informative walk through Sheridan Park. Be sure to pick up some of the other walking maps!...\n\nLink: https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=472421&Occurrence=2026-04-30T16:30:00
+DTSTART;VALUE=DATE:20260503
+DESCRIPTION:Source: Milwaukee Record\n...\n\nLink: https://milwaukeerecord.com/music/milwaukee-record-recommended-events-april-27-may-3-2026/
+LOCATION:Falcon Hall
+SUMMARY:Big Richard + Bitch Creek
+UID:504d74e765cdd4bc4c1b90712da9855d@mke_events.local
+URL:https://milwaukeerecord.com/music/milwaukee-record-recommended-events-april-27-may-3-2026/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee County\nA program for three-year-olds and their favorite adults. During the one-hour program\, tots and their caregivers delve into a fun nature topic\, listen to a related story\, take part in a themed activity\, and spend some time outdoors\, if Mother Nature cooperates....\n\nLink: https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=426230&Occurrence=2026-05-04T11:00:00
 DURATION:PT2H
-LOCATION:Sheridan Park\, at the Patrick Cudahy statue\, 5400 S Lake Dr\, Cudahy\, WI 53110
-DTSTART:20260430T213000Z
-SUMMARY:Cudahy Walking Map Kickoff
-UID:e3ee629d34af1311a89e3d27944a9927@mke_events.local
-URL:https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=472421&Occurrence=2026-04-30T16:30:00
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee County\nRun or walk the 5K through scenic Grant Park and raise funds to serve foster children in the community. Royal Family Kids Milwaukee provides camping experiences and mentoring programs for foster children and teens. Your participation provides funds necessary to sustain these programs. Help make a di...\n\nLink: https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=275093&Occurrence=2026-05-02T09:00:00
-DURATION:PT2H
-LOCATION:Grant Park\, Picnic Area #5A\, 100 Hawthorne Ave\, South Milwaukee\, WI 53172
-DTSTART:20260502T140000Z
-SUMMARY:Starfish Walk/5K Run
-UID:6152044a1a213e0ba807b2f0bb478cf2@mke_events.local
-URL:https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=275093&Occurrence=2026-05-02T09:00:00
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260426
-DESCRIPTION:Source: Milwaukee Record\nAfter a lengthy\, body-busting tenure in professional wrestling\, Mick Foley (f.k.a. “Mankind”) made the move from the ring to the stage. Foley—who’s now an author\, comedian\, spoken word artist\, and storyteller—will come to Milwaukee Improv in nearby Brookfield to share tales and humorous musings from...\n\nLink: https://improv.com/milwaukee/comic/mick+foley/
-LOCATION:Milwaukee Improv
-SUMMARY:Mick Foley
-UID:d30740c34fc2c52d27c191b19803450c@mke_events.local
-URL:https://improv.com/milwaukee/comic/mick+foley/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260426
-DESCRIPTION:Source: Milwaukee Record\n...\n\nLink: https://milwaukeerecord.com/music/milwaukee-record-recommended-events-april-20-26-2026/
-LOCATION:Landmark Credit Union Live
-SUMMARY:Puscifer + Dave Hill
-UID:30213a28629214200484b1faa9a21c58@mke_events.local
-URL:https://milwaukeerecord.com/music/milwaukee-record-recommended-events-april-20-26-2026/
+LOCATION:Wehr Nature Center\, 9701 W College Ave\, Franklin\, WI 53132
+DTSTART:20260504T160000Z
+SUMMARY:Little Wonders for Three-year-olds
+UID:82354d9794c12e967f49dccc7e95c18a@mke_events.local
+URL:https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=426230&Occurrence=2026-05-04T11:00:00
 END:VEVENT
 END:VCALENDAR
