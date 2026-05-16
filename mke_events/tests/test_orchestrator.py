@@ -10,7 +10,7 @@ from orchestrator import load_scrapers
 def test_load_scrapers_dynamically():
     config = {
         "scrapers": [
-            "mkerecord_scraper.MilwaukeeRecordScraper"
+            "scrapers.mke.mkecounty_scraper.MilwaukeeCountyScraper"
         ]
     }
     
@@ -19,5 +19,5 @@ def test_load_scrapers_dynamically():
     
     # Assert
     assert len(scrapers) == 1
-    assert scrapers[0].__class__.__name__ == "MilwaukeeRecordScraper"
+    assert scrapers[0].__class__.__name__ == "MilwaukeeCountyScraper"
     assert hasattr(scrapers[0], 'scrape')
