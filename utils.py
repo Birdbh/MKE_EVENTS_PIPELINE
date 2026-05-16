@@ -3,16 +3,13 @@ import json
 from datetime import datetime, timedelta
 
 def get_next_week_date_range():
-    """Returns the start and end dates for the upcoming week (Sunday to Saturday)."""
+    """Returns the start and end dates for the upcoming 7 days."""
     today = datetime.now()
-    # Find next Sunday (if today is Sunday, it starts today)
-    days_ahead = 6 - today.weekday() if today.weekday() != 6 else 0
-    next_sunday = today + timedelta(days=days_ahead)
-    next_saturday = next_sunday + timedelta(days=6)
     
-    # Set times
-    start_time = datetime(next_sunday.year, next_sunday.month, next_sunday.day, 0, 0, 0)
-    end_time = datetime(next_saturday.year, next_saturday.month, next_saturday.day, 23, 59, 59)
+    # Set times to start of today and end of today + 7 days
+    start_time = datetime(today.year, today.month, today.day, 0, 0, 0)
+    end_date = today + timedelta(days=7)
+    end_time = datetime(end_date.year, end_date.month, end_date.day, 23, 59, 59)
     
     return start_time, end_time
 
