@@ -2,71 +2,74 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee County\nChild Support Services will be holding Child Support in Your Neighborhood (CSYN) at the Bay View Library on Monday\, May 18\, 2026 from 5 pm to 7 pm. This after-hours program assists custodial and non-custodial parents with reviewing of cases for settlements\, alternative payment plans and enforcement....\n\nLink: https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=466048&Occurrence=2026-05-18T17:00:00
+DESCRIPTION:Source: Milwaukee Public Library\nJoin us at the beautiful Central Library for yoga and fellowship. Registration is encouraged. Walk-ins welcome....\n\nLink: https://mpl.libnet.info/event/16250644
 DURATION:PT2H
-LOCATION:2566 S Kinnickinnic Ave\, Milwaukee WI\, 53207
-DTSTART:20260518T220000Z
-SUMMARY:Child Support In Your Neighborhood - May
-UID:c5bada3ce1abc7a308b7d7998472c570@mke_events.local
-URL:https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=466048&Occurrence=2026-05-18T17:00:00
+LOCATION:Central Library - Rotary Club of Milwaukee Community Room
+DTSTART:20260521T153000Z
+SUMMARY:Chair Yoga - Yoga Class Suitable For People Of All Abilities
+UID:c517ae96f4ab547fd5af68dca30c14b0@mke_events.local
+URL:https://mpl.libnet.info/event/16250644
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260516
-DESCRIPTION:Source: Milwaukee Record\n“Bravery in Bloom: A Queer Arts Festival is a vibrant\, community-driven celebration hosted by Courage+ that transforms Milwaukee’s South Side into a living canvas of creativity\, expression\, and belonging. An outdoor street festival set along 21st Street and Pierce\, the festival uplifts emerging LGBT...\n\nLink: https://courageplus.org/events/
-LOCATION:National\, 21st and Pierce to 22nd
-SUMMARY:Bravery In Bloom: A Queer Arts Festival
-UID:3270fffa2e75571919d43e25601893e9@mke_events.local
-URL:https://courageplus.org/events/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260516
-DESCRIPTION:Source: Milwaukee Record\n...\n\nLink: https://milwaukeerecord.com/music/milwaukee-record-recommended-events-may-11-17-2026/
-LOCATION:Club Garibaldi
-SUMMARY:Wisconsin Blues Hall Of Fame Spring Induction Ceremony
-UID:f08af0f6624700bc9790adf1d664302e@mke_events.local
-URL:https://milwaukeerecord.com/music/milwaukee-record-recommended-events-may-11-17-2026/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee County\nThe annual kite festival\, which features giant-sized kites and precision kite-flying\, runs May 23 from 10 a.m. to 6 p.m. and May 24 from 10 a.m. to 5 p.m. Don't miss the Grand Launch of more than 600 kites\, professional kite-flying\, and the Kids Mad Dash! Free fun for the......\n\nLink: https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=308216&Occurrence=2026-05-23T10:00:00
+DESCRIPTION:Source: Milwaukee Public Library\nThis drop-in session with Your Move MKE combines chess with hip-hop instrumentals\, music production\, pad-drumming\, freestyling...and lunch! Swing through and make moves....\n\nLink: https://mpl.libnet.info/event/15780900
 DURATION:PT2H
-LOCATION:Veterans Park\, 1300 N Lincoln Memorial Drive\, Milwaukee\, WI 53202
-DTSTART:20260523T150000Z
-SUMMARY:IKEA Family Kite Festival
-UID:8d7f9bd6436a76ba5e273053f01f3ef4@mke_events.local
-URL:https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=308216&Occurrence=2026-05-23T10:00:00
+LOCATION:Mitchell Street Branch - Cargill Community Kitchen\,Northwestern Mutual Foundation Studio M Makerspace
+DTSTART:20260516T190000Z
+SUMMARY:Hip-Hop Chess Club
+UID:95d429560bfa2ca83c4b80b9d310960a@mke_events.local
+URL:https://mpl.libnet.info/event/15780900
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee County\nThe annual kite festival\, which features giant-sized kites and precision kite-flying\, runs May 23 from 10 a.m. to 6 p.m. and May 24 from 10 a.m. to 5 p.m. Don't miss the Grand Launch of more than 600 kites\, professional kite-flying\, and the Kids Mad Dash! Free fun for the......\n\nLink: https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=308216&Occurrence=2026-05-24T10:00:00
+DESCRIPTION:Source: Milwaukee County\nCome with family and friends for an afternoon of games\, music\, kickball\, volleyball\, basketball\, an obstable course\, food\, conversations around mental health/self-care and more! This is a free event\, open to the community!...\n\nLink: https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=406166&Occurrence=2026-05-16T12:00:00
 DURATION:PT2H
-LOCATION:Veterans Park\, 1300 N Lincoln Memorial Drive\, Milwaukee\, WI 53202
-DTSTART:20260523T150000Z
-SUMMARY:IKEA Family Kite Festival
-UID:8d7f9bd6436a76ba5e273053f01f3ef4@mke_events.local
-URL:https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=308216&Occurrence=2026-05-24T10:00:00
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260516
-DESCRIPTION:Source: Milwaukee Record\nJoey\, do you like endlessly quotable and ridiculously absurd movies from 1980? What about movies that were written and directed by Milwaukee natives David and Jerry Zucker? If you answered YES to these questions\, you’ll surely want to check out this special screening of comedy classic Airplane! at T...\n\nLink: https://milwaukeerecord.com/music/milwaukee-record-recommended-events-may-11-17-2026/
-LOCATION:The Pabst Theater
-SUMMARY:Airplane! Live With Julie Hagerty And Robert Hays!
-UID:0362b90252ad2d39b49bc4ddd0f732c5@mke_events.local
-URL:https://milwaukeerecord.com/music/milwaukee-record-recommended-events-may-11-17-2026/
+LOCATION:Carver Park\, 911 W Brown St.\, Milwaukee\, WI
+DTSTART:20260516T170000Z
+SUMMARY:Wellness in the Park
+UID:62e2b633ed416c9107d1e4c6ff1fef63@mke_events.local
+URL:https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=406166&Occurrence=2026-05-16T12:00:00
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260517
-DESCRIPTION:Source: Milwaukee Record\n...\n\nLink: https://milwaukeerecord.com/music/milwaukee-record-recommended-events-may-11-17-2026/
-LOCATION:Cactus Club
-SUMMARY:Sunday Afternoon Dance Party: Toast & Jams
-UID:a86ef1bb9a45de9c23c91cb42e1817ca@mke_events.local
-URL:https://milwaukeerecord.com/music/milwaukee-record-recommended-events-may-11-17-2026/
+DESCRIPTION:Source: Discover the North Shore\n\nLink: https://discoverthenorthshoremke.com/event/mahjong-for-memories/
+LOCATION:the DAILY DOSE Juice Bar
+SUMMARY:Mahjong for Memories
+UID:e36cc20784e83ead511186e96867d5d1@mke_events.local
+URL:https://discoverthenorthshoremke.com/event/mahjong-for-memories/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260517
-DESCRIPTION:Source: Milwaukee Record\nNow celebrating its fifth installment\, Maifest is a celebration of all things gluten-free. In addition to highlighting Lakefront Brewery’s groundbreaking and award-winning gluten-free beers\, the event taking place at Lakefront and its brewery-adjacent lot will also host more than 40 gluten-free food...\n\nLink: https://lakefrontbrewery.com/events/maifest
-LOCATION:Lakefront Brewery
-SUMMARY:Maifest: A Gluten-Free Festival
-UID:df819197e4063d610c3e55046fd1e8af@mke_events.local
-URL:https://lakefrontbrewery.com/events/maifest
+DESCRIPTION:Source: Milwaukee County\nRun or walk to end the cycle of foster care. Run or walk as many 1/3-mile laps as you can\, and along the route\, you'll come upon "disruption zones\," where the obstacles you face remind you of the challenges and setbacks experienced by children in foster care. At the end......\n\nLink: https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=427263&Occurrence=2026-05-16T09:00:00
+DURATION:PT2H
+LOCATION:Gordon Park\, Shelter #1\, 2828 N Humboldt Blvd\, Milwaukee\, WI 53212
+DTSTART:20260516T140000Z
+SUMMARY:Break the Cycle Run Walk
+UID:372ca15f5073a18dd61444a580a29198@mke_events.local
+URL:https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=427263&Occurrence=2026-05-16T09:00:00
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260522
+DESCRIPTION:Source: Discover the North Shore\n\nLink: https://discoverthenorthshoremke.com/event/line-dancing-night-w-redds-line-up/
+LOCATION:The Argo
+SUMMARY:Line Dancing Night w/ Redd's Line Up
+UID:84eafb02283f1840a57a0b29e1026a43@mke_events.local
+URL:https://discoverthenorthshoremke.com/event/line-dancing-night-w-redds-line-up/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee Public Library\nCome build with us! We'll supply a variety of building materials and you'll bring the creativity. Meet friends and see what you can create together....\n\nLink: https://mpl.libnet.info/event/15650628
+DURATION:PT2H
+LOCATION:Central Library - Children's Room - Back Area
+DTSTART:20260520T210000Z
+SUMMARY:Builders' Club
+UID:ca37dbacb371275390b3552a4e9d36e4@mke_events.local
+URL:https://mpl.libnet.info/event/15650628
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee Public Library\nGet comfy\, craft\, and meet up with friends and neighbors at Central Library!...\n\nLink: https://mpl.libnet.info/event/16258635
+DURATION:PT2H
+LOCATION:Central Library - Art\, Music & Recreation Room
+DTSTART:20260518T223000Z
+SUMMARY:Cozy Crafting
+UID:c8f7ec669d68625b32439347df322ac1@mke_events.local
+URL:https://mpl.libnet.info/event/16258635
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: Milwaukee County\nGather the family for the largest inflatable-fun experience around! Live entertainment\, face-painting\, great food! Donate a "baby essentials" item and receive a discount on the all-day VIP pass!...\n\nLink: https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=474934&Occurrence=2026-05-23T10:00:00
@@ -87,21 +90,47 @@ UID:79e79f6440e7bb52060366f17c186ae5@mke_events.local
 URL:https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=474934&Occurrence=2026-05-24T10:00:00
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260517
-DESCRIPTION:Source: Milwaukee Record\nMilwaukee Record has partnered with Cactus Club and WYNK to bring you multi-faceted monthly WNBA watch parties. Once a month\, we’re highlighting a specific game that will be shown (with sound on) at Cactus Club\, both on the bar’s televisions and on a projector in the back room. There will be special...\n\nLink: https://milwaukeerecord.com/music/milwaukee-record-recommended-events-may-11-17-2026/
-LOCATION:Cactus Club
-SUMMARY:WNBA Watch Party (Indiana vs. Seattle): Ellie Jackson
-UID:5e840b629feacb79cc8b5e3e482fdd3a@mke_events.local
-URL:https://milwaukeerecord.com/music/milwaukee-record-recommended-events-may-11-17-2026/
+DESCRIPTION:Source: Milwaukee County\nGather the family for the largest inflatable-fun experience around! Live entertainment\, face-painting\, great food! Donate a "baby essentials" item and receive a discount on the all-day VIP pass!...\n\nLink: https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=474934&Occurrence=2026-05-25T10:00:00
+DURATION:PT2H
+LOCATION:Sheridan Park\, 4800 S Lake Dr.\, Cudahy\, WI 53110
+DTSTART:20260523T150000Z
+SUMMARY:Bouncing Circus World Airlift Festival
+UID:79e79f6440e7bb52060366f17c186ae5@mke_events.local
+URL:https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=474934&Occurrence=2026-05-25T10:00:00
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee County\nJoin MCSO\, MPD\, and our community partners for a community pop-up event. Food\, fun\, and fellowship promoting a safe summer through community engagement....\n\nLink: https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=474275&Occurrence=2026-05-20T16:00:00
+DTSTART;VALUE=DATE:20260523
+DESCRIPTION:Source: Discover the North Shore\n\nLink: https://discoverthenorthshoremke.com/event/throwback-prom-night-w-night-fever-5-card-studs/
+LOCATION:The Argo
+SUMMARY:Throwback Prom Night w/ Night Fever & 5 Card Studs
+UID:a32015bade8478f14c789731b8fc3d21@mke_events.local
+URL:https://discoverthenorthshoremke.com/event/throwback-prom-night-w-night-fever-5-card-studs/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260516
+DESCRIPTION:Source: Discover the North Shore\n\nLink: https://discoverthenorthshoremke.com/event/ladies-night-paint-sip/
+LOCATION:Vibez Creative Art Space
+SUMMARY:Ladies Night Paint & Sip
+UID:99b3020464bdd01b91bc14975cc2a97d@mke_events.local
+URL:https://discoverthenorthshoremke.com/event/ladies-night-paint-sip/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee Public Library\nExplore and create at You Build It! We'll supply a variety of building materials\, and you'll bring the creativity!...\n\nLink: https://mpl.libnet.info/event/14834862
 DURATION:PT2H
-LOCATION:Sherman Park\r\n3000 N Sherman Blvd\r\nMilwaukee\, WI 53210
-DTSTART:20260520T210000Z
-SUMMARY:MCSO & MPD Community Pop Up - Sherman Park
-UID:dd256bdc11ea0aa0010500e6a96b3b33@mke_events.local
-URL:https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=474275&Occurrence=2026-05-20T16:00:00
+LOCATION:Capitol Branch - Children's Area
+DTSTART:20260519T230000Z
+SUMMARY:You Build It!
+UID:998938256c3aa0d1751ebd49017ccdda@mke_events.local
+URL:https://mpl.libnet.info/event/14834862
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee Public Library\nBuild\, create and play at the Zablocki Library every Wednesday afternoon!...\n\nLink: https://mpl.libnet.info/event/15374043
+DURATION:PT2H
+LOCATION:Zablocki Branch - Children's Area
+DTSTART:20260520T193000Z
+SUMMARY:Midweek Makers
+UID:276b83850309e5e7ea805198870f047a@mke_events.local
+URL:https://mpl.libnet.info/event/15374043
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: Milwaukee County\nA fun day for the family--food\, face-painting\, bounce houses\, free haircuts\, DJs spinning the latest tunes\, and more! Meet police officers\, fire department cadets\, and representatives of community resources....\n\nLink: https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=474915&Occurrence=2026-05-23T10:00:00
@@ -113,61 +142,57 @@ UID:fcaac5a03f4867de3b659e741afd2620@mke_events.local
 URL:https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=474915&Occurrence=2026-05-23T10:00:00
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee County\nEthics Board meets on a semi-regular quarterly basis to discuss business that includes\, but is not limited to\, administrative reports\, advisory opinions and policy changes....\n\nLink: https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=473711&Occurrence=2026-05-20T14:00:00
+DESCRIPTION:Source: Milwaukee County\nEnjoy a family-friendly 5k walk designed to create awareness and raise funds for the Cystic Fibrosis Foundation....\n\nLink: https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=308211&Occurrence=2026-05-17T10:00:00
 DURATION:PT2H
-LOCATION:Milwaukee County Courthouse\r\nRoom 308 A-1\r\n901 North 9th Street\r\nMilwaukee\, WI 53233
-DTSTART:20260520T190000Z
-SUMMARY:Ethics Board Special Meeting
-UID:ffdc832ec306b734f208facd782e7775@mke_events.local
-URL:https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=473711&Occurrence=2026-05-20T14:00:00
+LOCATION:Start: 931 E Wisconsin Ave\, Milwaukee\, WI 53202
+DTSTART:20260517T150000Z
+SUMMARY:Great Strides Milwaukee 5K Walk
+UID:03ce2efa84e78b359f507900513353f6@mke_events.local
+URL:https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=308211&Occurrence=2026-05-17T10:00:00
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260516
-DESCRIPTION:Source: Milwaukee Record\n...\n\nLink: https://milwaukeerecord.com/music/milwaukee-record-recommended-events-may-11-17-2026/
-LOCATION:Vivarium
-SUMMARY:Alex Lambert + Max Niemann
-UID:a6ba8c62cbf7c353e16f881999ad2cd6@mke_events.local
-URL:https://milwaukeerecord.com/music/milwaukee-record-recommended-events-may-11-17-2026/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee County\nThe Civil Service Commission meets on a monthly basis (or as needed) to discuss business that includes\, but is not limited to\, Behavioral Health Services employee disciplinary matters\, classified service position transfers\, and exercising administrative control over the merit system\, including promu...\n\nLink: https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=466194&Occurrence=2026-05-21T15:45:00
+DESCRIPTION:Source: Milwaukee Public Library\nLooking for something to do on a Sunday afternoon? Come to the Tippecanoe Branch and find a game to play!...\n\nLink: https://mpl.libnet.info/event/15828732
 DURATION:PT2H
-LOCATION:None. Meeting Cancelled
-DTSTART:20260521T204500Z
-SUMMARY:Civil Service Commission Meeting
-UID:25a31fda64d6291fbdf0d1bafef2ba39@mke_events.local
-URL:https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=466194&Occurrence=2026-05-21T15:45:00
+LOCATION:Tippecanoe Branch - Community Room\, Gift of Heather Hurley
+DTSTART:20260517T170000Z
+SUMMARY:Games On Sundays at Tippe - Come In And Play!
+UID:7735e75795b626c4b21a7d902e29c1a9@mke_events.local
+URL:https://mpl.libnet.info/event/15828732
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260516
-DESCRIPTION:Source: Milwaukee Record\nIn 2023\, Dethklok and Babymetal teamed up for a night of metal mastery at The Rave during their Babyklok Tour. This time around Dethklok will team up with Amon Amarth for “The Amonklok Conquest\,” a tour that will stop by the newly opened Landmark Credit Union Live for what’s sure to be an excellent ...\n\nLink: https://www.ticketmaster.com/dethklok-amon-amarth-the-amonklok-conquest-milwaukee-wisconsin-05-16-2026/event/07006383B9E96F84?_gl=1*zw1r0e*_ga*ODk2MjI3Mzg5LjE3NzIyMzg2NDQ.*_ga_H1KKSGW33X*czE3NzM2OTg2ODAkbzIkZzEkdDE3NzM2OTg2ODQkajU2JGwwJGgw*_ga_C1T806G4DF*czE3NzIyMzg2OTEkbzEkZzAkdDE3NzIyMzg2OTEkajYwJGwwJGgw
-LOCATION:Landmark Credit Union Live
-SUMMARY:Dethklok + Amon Amarth
-UID:a3dc8286ca9dfafe6e616353243418c4@mke_events.local
-URL:https://www.ticketmaster.com/dethklok-amon-amarth-the-amonklok-conquest-milwaukee-wisconsin-05-16-2026/event/07006383B9E96F84?_gl=1*zw1r0e*_ga*ODk2MjI3Mzg5LjE3NzIyMzg2NDQ.*_ga_H1KKSGW33X*czE3NzM2OTg2ODAkbzIkZzEkdDE3NzM2OTg2ODQkajU2JGwwJGgw*_ga_C1T806G4DF*czE3NzIyMzg2OTEkbzEkZzAkdDE3NzIyMzg2OTEkajYwJGwwJGgw
+DESCRIPTION:Source: Milwaukee Public Library\nJoin us once a month for an evening of crafting! This month we will creating CD Suncatchers!...\n\nLink: https://mpl.libnet.info/event/15789815
+DURATION:PT2H
+LOCATION:Zablocki Branch - Community Room
+DTSTART:20260518T230000Z
+SUMMARY:Crafty Adults @ Zablocki - CD Suncatchers
+UID:a761c1270b4fe1243d159f9e2a1bf7dc@mke_events.local
+URL:https://mpl.libnet.info/event/15789815
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260519
-DESCRIPTION:Source: Milwaukee County\nThis year marks the 40th Annual Wisconsin State Conference. This years conference theme is Power of Connection- Purpose\, Partners and Progress. This years event is entirely in person and will be held over the span of 2 days. It features keynote speakers\, panels\, workshops and their annual caregiver ...\n\nLink: https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=471775&Occurrence=2026-05-19T00:00:00
-LOCATION:Kalahari Resort | Wisconsin Dells
-SUMMARY:Alzheimer’s Association's 40th Annual Wisconsin State Conference
-UID:8653751c8444873a4df4edb9de8bb9ed@mke_events.local
-URL:https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=471775&Occurrence=2026-05-19T00:00:00
+DESCRIPTION:Source: Milwaukee Public Library\nCome play\, create\, and compete using LEGO® bricks at the Zablocki Library! Budding builders and expert architects alike are welcome. Bring or make a friend as we build together at LEGO® League!...\n\nLink: https://mpl.libnet.info/event/16425123
+DURATION:PT2H
+LOCATION:Zablocki Branch - Children's Area
+DTSTART:20260516T190000Z
+SUMMARY:LEGO® League
+UID:d931a0125aa116c72e38e856c44a05cd@mke_events.local
+URL:https://mpl.libnet.info/event/16425123
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260517
-DESCRIPTION:Source: Milwaukee Record\n“There’s no hippocratic oath in the punditry biz / When no one is a doctor\, then everyone is!” That’s a key line in “Everyone’s A Doctor\,” a standout track from IfIHadAHiFi’s EP Paws In The Bacon Grease. The veteran Milwaukee noise-rock outfit doesn’t mince words in the song: we’re living in a post-...\n\nLink: https://milwaukeerecord.com/music/milwaukee-record-recommended-events-may-11-17-2026/
-LOCATION:MKeUltra
-SUMMARY:IfIHadAHiFi + Minibeast\, Primitive Broadcast Service
-UID:ddd3f84f6b8f0c7f2adc9048b601382e@mke_events.local
-URL:https://milwaukeerecord.com/music/milwaukee-record-recommended-events-may-11-17-2026/
+DESCRIPTION:Source: Milwaukee Public Library\nTeens are invited to play the Switch\, hang out with friends\, and snack....\n\nLink: https://mpl.libnet.info/event/16144751
+DURATION:PT2H
+LOCATION:Tippecanoe Branch - Community Room\, Gift of Heather Hurley
+DTSTART:20260522T193000Z
+SUMMARY:Fabulous Fridays! - Teens can play the Switch & hang out with friends.
+UID:1cf45da51367483e3d745a3f6c086edd@mke_events.local
+URL:https://mpl.libnet.info/event/16144751
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260517
-DESCRIPTION:Source: Milwaukee Record\n...\n\nLink: https://milwaukeerecord.com/music/milwaukee-record-recommended-events-may-11-17-2026/
-LOCATION:The Argo
-SUMMARY:Yellowcard
-UID:e2891363c795e55fa510285296aa3c83@mke_events.local
-URL:https://milwaukeerecord.com/music/milwaukee-record-recommended-events-may-11-17-2026/
+DESCRIPTION:Source: Milwaukee Public Library\nIncrease flexibility while decreasing stress through a guided gentle sequence of stretches. Focus on range of motion\, balance and body awareness. Unwind and restore your wellbeing....\n\nLink: https://mpl.libnet.info/event/16132147
+DURATION:PT2H
+LOCATION:Bay View Branch - Llewellyn Community Room
+DTSTART:20260519T190000Z
+SUMMARY:Gentle Stretch and Movement
+UID:7ea9c1b3eb55e5fbf3a7d2bc920c3e78@mke_events.local
+URL:https://mpl.libnet.info/event/16132147
 END:VEVENT
 END:VCALENDAR

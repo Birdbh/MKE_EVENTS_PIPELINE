@@ -1,8 +1,10 @@
 {
   "mke": {
     "scrapers": [
-      "scrapers.mke.mkerecord_scraper.MilwaukeeRecordScraper",
-      "scrapers.mke.mkecounty_scraper.MilwaukeeCountyScraper"
+      "scrapers.mke.mkecounty_scraper.MilwaukeeCountyScraper",
+      "scrapers.mke.northshore_scraper.NorthShoreScraper",
+      "scrapers.mke.mpl_scraper.MplScraper",
+      "scrapers.mke.mpm_scraper.MPMScraper"
     ]
   }
 }
