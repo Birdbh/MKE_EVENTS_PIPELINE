@@ -1,21 +1,25 @@
 import os
-import json
 import hashlib
-from datetime import datetime
-from collections import defaultdict
 from zoneinfo import ZoneInfo
 from ics import Calendar, Event
 
-from mkerecord_scraper import MilwaukeeRecordScraper
-from mkecounty_scraper import MilwaukeeCountyScraper
-from utils import filter_events_with_llm, is_valid_time, get_next_week_date_range
+from orchestrator import get_city_config, load_scrapers
+from utils import filter_events_with_llm, limit_events_per_day, is_valid_time, get_next_week_date_range
 
 def main():
-    print("Starting Milwaukee Event Scraper...")
-    scrapers = [
-        MilwaukeeRecordScraper(),
-        MilwaukeeCountyScraper()
-    ]
+    print("Starting Multi-City Event Scraper...")
+    # Read the city from environment variable or default to 'mke'
+    city = os.environ.get("TARGET_CITY", "mke")
+    print(f"Targeting city: {city}")
+    
+    config_path = os.path.join(os.path.dirname(__file__), "cities.json")
+    try:
+        city_config = get_city_config(config_path, city)
+    except Exception as e:
+        print(f"Error loading config for {city}: {e}")
+        return
+
+    scrapers = load_scrapers(city_config)
     
     all_events = []
     for scraper in scrapers:
@@ -57,30 +61,13 @@ def main():
             
     print(f"Events matching time filter (Weekend or > 5 PM): {len(time_filtered_events)}")
     
-    # 3. LLM Filtering 
-    approved_events = filter_events_with_llm(base_filtered_events)
-    print(f"Events approved by LLM filter: {len(approved_events)}")
+    # 3. LLM Filtering and Scoring
+    scored_events = filter_events_with_llm(base_filtered_events)
+    print(f"Events approved by LLM filter: {len(scored_events)}")
     
-    # 4. Limit to max 2 events on a weekday
-    final_events = []
-    events_by_date = defaultdict(list)
-    for ev in approved_events:
-        dt = ev['date_time']
-        date_key = dt.date()
-        events_by_date[date_key].append(ev)
-        
-    for date_key in sorted(events_by_date.keys()):
-        day_events = events_by_date[date_key]
-        # Weekday (0-4 is Mon-Fri)
-        if date_key.weekday() < 5:
-            # We want at most 2 events on a weekday
-            selected = day_events[:2]
-        else:
-            # Keep all on weekends
-            selected = day_events
-        final_events.extend(selected)
-            
-    print(f"Final events after weekday limits applied: {len(final_events)}")
+    # 4. Limit events based on day of week
+    final_events = limit_events_per_day(scored_events)
+    print(f"Final events after weekday/weekend limits applied: {len(final_events)}")
 
     # Generate ICS Calendar
     if final_events:
@@ -93,7 +80,7 @@ def main():
             
             # Deterministic UID based on title and date so calendars don't duplicate events if the script runs twice
             uid_string = f"{ev['title']}-{ev['date_time']}".encode('utf-8')
-            c_event.uid = hashlib.md5(uid_string).hexdigest() + "@mke_events.local"
+            c_event.uid = hashlib.md5(uid_string).hexdigest() + f"@{city}_events.local"
             
             dt = ev['date_time']
             
@@ -117,7 +104,7 @@ def main():
             
             cal.events.add(c_event)
             
-        output_file = "mke_events.ics"
+        output_file = f"{city}_events.ics"
         with open(output_file, 'w', encoding='utf-8') as f:
             f.writelines(cal.serialize())
             
