@@ -2,117 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nJoin us at the beautiful Central Library for yoga and fellowship. Registration is encouraged. Walk-ins welcome....\n\nLink: https://mpl.libnet.info/event/16250644
-DURATION:PT2H
-LOCATION:Central Library - Rotary Club of Milwaukee Community Room
-DTSTART:20260521T153000Z
-SUMMARY:Chair Yoga - Yoga Class Suitable For People Of All Abilities
-UID:c517ae96f4ab547fd5af68dca30c14b0@mke_events.local
-URL:https://mpl.libnet.info/event/16250644
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nThis drop-in session with Your Move MKE combines chess with hip-hop instrumentals\, music production\, pad-drumming\, freestyling...and lunch! Swing through and make moves....\n\nLink: https://mpl.libnet.info/event/15780900
-DURATION:PT2H
-LOCATION:Mitchell Street Branch - Cargill Community Kitchen\,Northwestern Mutual Foundation Studio M Makerspace
-DTSTART:20260516T190000Z
-SUMMARY:Hip-Hop Chess Club
-UID:95d429560bfa2ca83c4b80b9d310960a@mke_events.local
-URL:https://mpl.libnet.info/event/15780900
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee County\nCome with family and friends for an afternoon of games\, music\, kickball\, volleyball\, basketball\, an obstable course\, food\, conversations around mental health/self-care and more! This is a free event\, open to the community!...\n\nLink: https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=406166&Occurrence=2026-05-16T12:00:00
-DURATION:PT2H
-LOCATION:Carver Park\, 911 W Brown St.\, Milwaukee\, WI
-DTSTART:20260516T170000Z
-SUMMARY:Wellness in the Park
-UID:62e2b633ed416c9107d1e4c6ff1fef63@mke_events.local
-URL:https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=406166&Occurrence=2026-05-16T12:00:00
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260517
-DESCRIPTION:Source: Discover the North Shore\n\nLink: https://discoverthenorthshoremke.com/event/mahjong-for-memories/
-LOCATION:the DAILY DOSE Juice Bar
-SUMMARY:Mahjong for Memories
-UID:e36cc20784e83ead511186e96867d5d1@mke_events.local
-URL:https://discoverthenorthshoremke.com/event/mahjong-for-memories/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee County\nRun or walk to end the cycle of foster care. Run or walk as many 1/3-mile laps as you can\, and along the route\, you'll come upon "disruption zones\," where the obstacles you face remind you of the challenges and setbacks experienced by children in foster care. At the end......\n\nLink: https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=427263&Occurrence=2026-05-16T09:00:00
-DURATION:PT2H
-LOCATION:Gordon Park\, Shelter #1\, 2828 N Humboldt Blvd\, Milwaukee\, WI 53212
-DTSTART:20260516T140000Z
-SUMMARY:Break the Cycle Run Walk
-UID:372ca15f5073a18dd61444a580a29198@mke_events.local
-URL:https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=427263&Occurrence=2026-05-16T09:00:00
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260522
 DESCRIPTION:Source: Discover the North Shore\n\nLink: https://discoverthenorthshoremke.com/event/line-dancing-night-w-redds-line-up/
 LOCATION:The Argo
 SUMMARY:Line Dancing Night w/ Redd's Line Up
 UID:84eafb02283f1840a57a0b29e1026a43@mke_events.local
 URL:https://discoverthenorthshoremke.com/event/line-dancing-night-w-redds-line-up/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nCome build with us! We'll supply a variety of building materials and you'll bring the creativity. Meet friends and see what you can create together....\n\nLink: https://mpl.libnet.info/event/15650628
-DURATION:PT2H
-LOCATION:Central Library - Children's Room - Back Area
-DTSTART:20260520T210000Z
-SUMMARY:Builders' Club
-UID:ca37dbacb371275390b3552a4e9d36e4@mke_events.local
-URL:https://mpl.libnet.info/event/15650628
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nGet comfy\, craft\, and meet up with friends and neighbors at Central Library!...\n\nLink: https://mpl.libnet.info/event/16258635
-DURATION:PT2H
-LOCATION:Central Library - Art\, Music & Recreation Room
-DTSTART:20260518T223000Z
-SUMMARY:Cozy Crafting
-UID:c8f7ec669d68625b32439347df322ac1@mke_events.local
-URL:https://mpl.libnet.info/event/16258635
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee County\nGather the family for the largest inflatable-fun experience around! Live entertainment\, face-painting\, great food! Donate a "baby essentials" item and receive a discount on the all-day VIP pass!...\n\nLink: https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=474934&Occurrence=2026-05-23T10:00:00
-DURATION:PT2H
-LOCATION:Sheridan Park\, 4800 S Lake Dr.\, Cudahy\, WI 53110
-DTSTART:20260523T150000Z
-SUMMARY:Bouncing Circus World Airlift Festival
-UID:79e79f6440e7bb52060366f17c186ae5@mke_events.local
-URL:https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=474934&Occurrence=2026-05-23T10:00:00
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee County\nGather the family for the largest inflatable-fun experience around! Live entertainment\, face-painting\, great food! Donate a "baby essentials" item and receive a discount on the all-day VIP pass!...\n\nLink: https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=474934&Occurrence=2026-05-24T10:00:00
-DURATION:PT2H
-LOCATION:Sheridan Park\, 4800 S Lake Dr.\, Cudahy\, WI 53110
-DTSTART:20260523T150000Z
-SUMMARY:Bouncing Circus World Airlift Festival
-UID:79e79f6440e7bb52060366f17c186ae5@mke_events.local
-URL:https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=474934&Occurrence=2026-05-24T10:00:00
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee County\nGather the family for the largest inflatable-fun experience around! Live entertainment\, face-painting\, great food! Donate a "baby essentials" item and receive a discount on the all-day VIP pass!...\n\nLink: https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=474934&Occurrence=2026-05-25T10:00:00
-DURATION:PT2H
-LOCATION:Sheridan Park\, 4800 S Lake Dr.\, Cudahy\, WI 53110
-DTSTART:20260523T150000Z
-SUMMARY:Bouncing Circus World Airlift Festival
-UID:79e79f6440e7bb52060366f17c186ae5@mke_events.local
-URL:https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=474934&Occurrence=2026-05-25T10:00:00
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260523
-DESCRIPTION:Source: Discover the North Shore\n\nLink: https://discoverthenorthshoremke.com/event/throwback-prom-night-w-night-fever-5-card-studs/
-LOCATION:The Argo
-SUMMARY:Throwback Prom Night w/ Night Fever & 5 Card Studs
-UID:a32015bade8478f14c789731b8fc3d21@mke_events.local
-URL:https://discoverthenorthshoremke.com/event/throwback-prom-night-w-night-fever-5-card-studs/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260516
-DESCRIPTION:Source: Discover the North Shore\n\nLink: https://discoverthenorthshoremke.com/event/ladies-night-paint-sip/
-LOCATION:Vibez Creative Art Space
-SUMMARY:Ladies Night Paint & Sip
-UID:99b3020464bdd01b91bc14975cc2a97d@mke_events.local
-URL:https://discoverthenorthshoremke.com/event/ladies-night-paint-sip/
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: Milwaukee Public Library\nExplore and create at You Build It! We'll supply a variety of building materials\, and you'll bring the creativity!...\n\nLink: https://mpl.libnet.info/event/14834862
@@ -124,42 +19,6 @@ UID:998938256c3aa0d1751ebd49017ccdda@mke_events.local
 URL:https://mpl.libnet.info/event/14834862
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nBuild\, create and play at the Zablocki Library every Wednesday afternoon!...\n\nLink: https://mpl.libnet.info/event/15374043
-DURATION:PT2H
-LOCATION:Zablocki Branch - Children's Area
-DTSTART:20260520T193000Z
-SUMMARY:Midweek Makers
-UID:276b83850309e5e7ea805198870f047a@mke_events.local
-URL:https://mpl.libnet.info/event/15374043
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee County\nA fun day for the family--food\, face-painting\, bounce houses\, free haircuts\, DJs spinning the latest tunes\, and more! Meet police officers\, fire department cadets\, and representatives of community resources....\n\nLink: https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=474915&Occurrence=2026-05-23T10:00:00
-DURATION:PT2H
-LOCATION:Atkinson Triangle\, 936 W Atkinson Ave\, Milwaukee\, WI 53206
-DTSTART:20260523T150000Z
-SUMMARY:Community Cleanup\, Resource Fair\, Barbeque
-UID:fcaac5a03f4867de3b659e741afd2620@mke_events.local
-URL:https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=474915&Occurrence=2026-05-23T10:00:00
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee County\nEnjoy a family-friendly 5k walk designed to create awareness and raise funds for the Cystic Fibrosis Foundation....\n\nLink: https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=308211&Occurrence=2026-05-17T10:00:00
-DURATION:PT2H
-LOCATION:Start: 931 E Wisconsin Ave\, Milwaukee\, WI 53202
-DTSTART:20260517T150000Z
-SUMMARY:Great Strides Milwaukee 5K Walk
-UID:03ce2efa84e78b359f507900513353f6@mke_events.local
-URL:https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=308211&Occurrence=2026-05-17T10:00:00
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nLooking for something to do on a Sunday afternoon? Come to the Tippecanoe Branch and find a game to play!...\n\nLink: https://mpl.libnet.info/event/15828732
-DURATION:PT2H
-LOCATION:Tippecanoe Branch - Community Room\, Gift of Heather Hurley
-DTSTART:20260517T170000Z
-SUMMARY:Games On Sundays at Tippe - Come In And Play!
-UID:7735e75795b626c4b21a7d902e29c1a9@mke_events.local
-URL:https://mpl.libnet.info/event/15828732
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Source: Milwaukee Public Library\nJoin us once a month for an evening of crafting! This month we will creating CD Suncatchers!...\n\nLink: https://mpl.libnet.info/event/15789815
 DURATION:PT2H
 LOCATION:Zablocki Branch - Community Room
@@ -169,13 +28,40 @@ UID:a761c1270b4fe1243d159f9e2a1bf7dc@mke_events.local
 URL:https://mpl.libnet.info/event/15789815
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nCome play\, create\, and compete using LEGO® bricks at the Zablocki Library! Budding builders and expert architects alike are welcome. Bring or make a friend as we build together at LEGO® League!...\n\nLink: https://mpl.libnet.info/event/16425123
+DESCRIPTION:Source: Milwaukee Public Library\nJoin us at the beautiful Central Library for yoga and fellowship. Registration is encouraged. Walk-ins welcome....\n\nLink: https://mpl.libnet.info/event/16250644
+DURATION:PT2H
+LOCATION:Central Library - Rotary Club of Milwaukee Community Room
+DTSTART:20260521T153000Z
+SUMMARY:Chair Yoga - Yoga Class Suitable For People Of All Abilities
+UID:c517ae96f4ab547fd5af68dca30c14b0@mke_events.local
+URL:https://mpl.libnet.info/event/16250644
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee Public Library\nBuild\, create and play at the Zablocki Library every Wednesday afternoon!...\n\nLink: https://mpl.libnet.info/event/15374043
 DURATION:PT2H
 LOCATION:Zablocki Branch - Children's Area
-DTSTART:20260516T190000Z
-SUMMARY:LEGO® League
-UID:d931a0125aa116c72e38e856c44a05cd@mke_events.local
-URL:https://mpl.libnet.info/event/16425123
+DTSTART:20260520T193000Z
+SUMMARY:Midweek Makers
+UID:276b83850309e5e7ea805198870f047a@mke_events.local
+URL:https://mpl.libnet.info/event/15374043
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee Public Library\nThey say birds of a feather flock together\, but can you build the most beautiful bower out of found baubles?...\n\nLink: https://mpl.libnet.info/event/14768546
+DURATION:PT2H
+LOCATION:Central Library - Children's Herzfeld Activity Center
+DTSTART:20260518T210000Z
+SUMMARY:Bowerbird Scavenger Hunt
+UID:53082d6434f4e90f80b906a1481ac097@mke_events.local
+URL:https://mpl.libnet.info/event/14768546
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee Public Library\nLearn how to install and care for a rain barrel at a rain barrel workshop. Participants will learn about water conservation and the many benefits of using rain barrels....\n\nLink: https://mpl.libnet.info/event/15967801
+DURATION:PT2H
+LOCATION:Tippecanoe Branch - Community Room\, Gift of Heather Hurley
+DTSTART:20260519T230000Z
+SUMMARY:Rain Barrel Workshop - With Milwaukee Metropolitan Sewerage District
+UID:48e23c12663227837422e0d62d2a1d7b@mke_events.local
+URL:https://mpl.libnet.info/event/15967801
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: Milwaukee Public Library\nTeens are invited to play the Switch\, hang out with friends\, and snack....\n\nLink: https://mpl.libnet.info/event/16144751
@@ -187,12 +73,19 @@ UID:1cf45da51367483e3d745a3f6c086edd@mke_events.local
 URL:https://mpl.libnet.info/event/16144751
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nIncrease flexibility while decreasing stress through a guided gentle sequence of stretches. Focus on range of motion\, balance and body awareness. Unwind and restore your wellbeing....\n\nLink: https://mpl.libnet.info/event/16132147
-DURATION:PT2H
-LOCATION:Bay View Branch - Llewellyn Community Room
-DTSTART:20260519T190000Z
-SUMMARY:Gentle Stretch and Movement
-UID:7ea9c1b3eb55e5fbf3a7d2bc920c3e78@mke_events.local
-URL:https://mpl.libnet.info/event/16132147
+DTSTART;VALUE=DATE:20260520
+DESCRIPTION:Source: Discover the North Shore\n\nLink: https://discoverthenorthshoremke.com/event/coffee-connection-north-shore-chamber-3/
+LOCATION:Hawaii Fluid Art
+SUMMARY:Coffee Connection: North Shore Chamber
+UID:2a03cc805e90b3e95398486c862b2a72@mke_events.local
+URL:https://discoverthenorthshoremke.com/event/coffee-connection-north-shore-chamber-3/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260523
+DESCRIPTION:Source: Discover the North Shore\n\nLink: https://discoverthenorthshoremke.com/event/throwback-prom-night-w-night-fever-5-card-studs/
+LOCATION:The Argo
+SUMMARY:Throwback Prom Night w/ Night Fever & 5 Card Studs
+UID:a32015bade8478f14c789731b8fc3d21@mke_events.local
+URL:https://discoverthenorthshoremke.com/event/throwback-prom-night-w-night-fever-5-card-studs/
 END:VEVENT
 END:VCALENDAR
