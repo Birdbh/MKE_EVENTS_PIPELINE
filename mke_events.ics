@@ -2,12 +2,22 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260529
-DESCRIPTION:Source: Discover the North Shore\n\nLink: https://discoverthenorthshoremke.com/event/acrylic-pouring-with-chrishella-roche/
-LOCATION:Vibez Creative Art Space
-SUMMARY:Acrylic Pouring with Chrishella Roche
-UID:500bf3248b59acb74f0b2f968318915b@mke_events.local
-URL:https://discoverthenorthshoremke.com/event/acrylic-pouring-with-chrishella-roche/
+DESCRIPTION:Source: Milwaukee Public Library\nWalk together through Washington Park....\n\nLink: https://mpl.libnet.info/event/15848063
+DURATION:PT2H
+LOCATION:Washington Park
+DTSTART:20260527T151500Z
+SUMMARY:Stepping Out Walking Club
+UID:a84c034d55ab3cee9be36bd9eebe6484@mke_events.local
+URL:https://mpl.libnet.info/event/15848063
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee Public Library\nHave a passion for geek media and culture? Come to Geek Out! a monthly program for teens who are enthusiastic for learning\, creating and enjoying all things in geek\, nerd or pop culture!...\n\nLink: https://mpl.libnet.info/event/15923167
+DURATION:PT2H
+LOCATION:Central Library - Children's Herzfeld Activity Center
+DTSTART:20260528T210000Z
+SUMMARY:Geek Out!
+UID:5c8602750b4371c0b778571ba670c2eb@mke_events.local
+URL:https://mpl.libnet.info/event/15923167
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: Milwaukee Public Library\nDiscover the joy of connection with family and friends while solving a jigsaw puzzle. Light refreshments will be provided....\n\nLink: https://mpl.libnet.info/event/15844329
@@ -17,14 +27,6 @@ DTSTART:20260530T190000Z
 SUMMARY:Family and Friends Jigsaw Puzzle Time
 UID:23d61e88c2ee006753016342b845b84c@mke_events.local
 URL:https://mpl.libnet.info/event/15844329
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260528
-DESCRIPTION:Source: Discover the North Shore\n\nLink: https://discoverthenorthshoremke.com/event/meditate-paint/
-LOCATION:Vibez Creative Art Space
-SUMMARY:Meditate & Paint
-UID:ca4899c236945e0246b18d742f656f31@mke_events.local
-URL:https://discoverthenorthshoremke.com/event/meditate-paint/
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: Milwaukee Public Library\nA monthly craft program for older adults. Come for the crafts\, stay for the community!...\n\nLink: https://mpl.libnet.info/event/16144645
@@ -72,30 +74,22 @@ UID:8faa8c5640ceacabec329631eee05a88@mke_events.local
 URL:https://mpl.libnet.info/event/15500065
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nIncrease flexibility while decreasing stress through a guided gentle sequence of stretches. Focus on range of motion\, balance and body awareness. Unwind and restore your wellbeing....\n\nLink: https://mpl.libnet.info/event/16132148
+DESCRIPTION:Source: Milwaukee Public Library\n"You are what you eat!" This food literacy program is designed for children\, youth\, and families to explore the world of food....\n\nLink: https://mpl.libnet.info/event/15855679
 DURATION:PT2H
-LOCATION:Bay View Branch - Llewellyn Community Room
-DTSTART:20260526T190000Z
-SUMMARY:Gentle Stretch and Movement
-UID:f82abeffd53d034a00b9360c8b52d621@mke_events.local
-URL:https://mpl.libnet.info/event/16132148
+LOCATION:Mitchell Street Branch - Cargill Community Kitchen\,Northwestern Mutual Foundation Studio M Makerspace
+DTSTART:20260526T210000Z
+SUMMARY:Snack Hack: Kids Kitchen
+UID:965294446fa377dc88c903a0924c25a5@mke_events.local
+URL:https://mpl.libnet.info/event/15855679
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nBuild\, create and play at the Zablocki Library every Wednesday afternoon!...\n\nLink: https://mpl.libnet.info/event/15374044
+DESCRIPTION:Source: Milwaukee Public Library\nJoin us at Central library for a weekly walk. We will meet under the dome of the Central Library and take a two-mile loop through this historic neighborhood. The club meets rain or shine....\n\nLink: https://mpl.libnet.info/event/15705562
 DURATION:PT2H
-LOCATION:Zablocki Branch - Children's Area
-DTSTART:20260527T193000Z
-SUMMARY:Midweek Makers
-UID:dac5a83fa3060f9c7615b9bcaf291093@mke_events.local
-URL:https://mpl.libnet.info/event/15374044
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260531
-DESCRIPTION:Source: Discover the North Shore\n\nLink: https://discoverthenorthshoremke.com/event/dash-for-down-syndrome/
-LOCATION:Lake Park
-SUMMARY:Dash for Down Syndrome
-UID:3cce9a6277ceb49cbcc868c40d3ca29e@mke_events.local
-URL:https://discoverthenorthshoremke.com/event/dash-for-down-syndrome/
+LOCATION:Central Library
+DTSTART:20260527T153000Z
+SUMMARY:Central Library Walking Club
+UID:b902022fcaccd27295058504fb530466@mke_events.local
+URL:https://mpl.libnet.info/event/15705562
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: Milwaukee Public Library\nPractice mindfulness through a variety of physical yoga poses\, breath practices\, stories and games. For ages 2-7 with caregiver....\n\nLink: https://mpl.libnet.info/event/16308965
@@ -105,23 +99,6 @@ DTSTART:20260530T150000Z
 SUMMARY:Family Yoga with Cultivate Yoga MKE
 UID:6136ec105eb77a16aa3f12b62738cc35@mke_events.local
 URL:https://mpl.libnet.info/event/16308965
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nTurn your spark into something real with Ideas to Income\, a two-part journey for new and emerging entrepreneurs....\n\nLink: https://mpl.libnet.info/event/16415215
-DURATION:PT2H
-LOCATION:Central Library - Innovation and Learning Lab
-DTSTART:20260601T153000Z
-SUMMARY:Ideas to Income - Take Your Business Idea to the Next Level
-UID:09e45de241c0df685158b70fd41023a0@mke_events.local
-URL:https://mpl.libnet.info/event/16415215
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260527
-DESCRIPTION:Source: Discover the North Shore\n\nLink: https://discoverthenorthshoremke.com/event/cancer-awareness-paint-sip/
-LOCATION:Vibez Creative Art Space
-SUMMARY:Cancer Awareness Paint & Sip
-UID:fcbfe1af55f6431502a2e86b19e233b2@mke_events.local
-URL:https://discoverthenorthshoremke.com/event/cancer-awareness-paint-sip/
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: Milwaukee Public Library\nLooking for something to do on a Sunday afternoon? Come to the Tippecanoe Branch and find a game to play!...\n\nLink: https://mpl.libnet.info/event/15828733
