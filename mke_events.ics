@@ -2,90 +2,134 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260522
-DESCRIPTION:Source: Discover the North Shore\n\nLink: https://discoverthenorthshoremke.com/event/line-dancing-night-w-redds-line-up/
-LOCATION:The Argo
-SUMMARY:Line Dancing Night w/ Redd's Line Up
-UID:84eafb02283f1840a57a0b29e1026a43@mke_events.local
-URL:https://discoverthenorthshoremke.com/event/line-dancing-night-w-redds-line-up/
+DTSTART;VALUE=DATE:20260529
+DESCRIPTION:Source: Discover the North Shore\n\nLink: https://discoverthenorthshoremke.com/event/acrylic-pouring-with-chrishella-roche/
+LOCATION:Vibez Creative Art Space
+SUMMARY:Acrylic Pouring with Chrishella Roche
+UID:500bf3248b59acb74f0b2f968318915b@mke_events.local
+URL:https://discoverthenorthshoremke.com/event/acrylic-pouring-with-chrishella-roche/
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nExplore and create at You Build It! We'll supply a variety of building materials\, and you'll bring the creativity!...\n\nLink: https://mpl.libnet.info/event/14834862
+DESCRIPTION:Source: Milwaukee Public Library\nDiscover the joy of connection with family and friends while solving a jigsaw puzzle. Light refreshments will be provided....\n\nLink: https://mpl.libnet.info/event/15844329
 DURATION:PT2H
-LOCATION:Capitol Branch - Children's Area
-DTSTART:20260519T230000Z
-SUMMARY:You Build It!
-UID:998938256c3aa0d1751ebd49017ccdda@mke_events.local
-URL:https://mpl.libnet.info/event/14834862
+LOCATION:Villard Square Branch - Community Room
+DTSTART:20260530T190000Z
+SUMMARY:Family and Friends Jigsaw Puzzle Time
+UID:23d61e88c2ee006753016342b845b84c@mke_events.local
+URL:https://mpl.libnet.info/event/15844329
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nJoin us once a month for an evening of crafting! This month we will creating CD Suncatchers!...\n\nLink: https://mpl.libnet.info/event/15789815
+DTSTART;VALUE=DATE:20260528
+DESCRIPTION:Source: Discover the North Shore\n\nLink: https://discoverthenorthshoremke.com/event/meditate-paint/
+LOCATION:Vibez Creative Art Space
+SUMMARY:Meditate & Paint
+UID:ca4899c236945e0246b18d742f656f31@mke_events.local
+URL:https://discoverthenorthshoremke.com/event/meditate-paint/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee Public Library\nA monthly craft program for older adults. Come for the crafts\, stay for the community!...\n\nLink: https://mpl.libnet.info/event/16144645
 DURATION:PT2H
-LOCATION:Zablocki Branch - Community Room
-DTSTART:20260518T230000Z
-SUMMARY:Crafty Adults @ Zablocki - CD Suncatchers
-UID:a761c1270b4fe1243d159f9e2a1bf7dc@mke_events.local
-URL:https://mpl.libnet.info/event/15789815
+LOCATION:Bay View Branch - Llewellyn Community Room
+DTSTART:20260601T180000Z
+SUMMARY:Crafting Connections - Decorative Beehives
+UID:806304b83e968b8b9f9c024ac141a342@mke_events.local
+URL:https://mpl.libnet.info/event/16144645
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nJoin us at the beautiful Central Library for yoga and fellowship. Registration is encouraged. Walk-ins welcome....\n\nLink: https://mpl.libnet.info/event/16250644
+DESCRIPTION:Source: Milwaukee Public Library\nJoin us at the beautiful Central Library for yoga and fellowship. Registration is encouraged. Walk-ins welcome....\n\nLink: https://mpl.libnet.info/event/16250645
 DURATION:PT2H
 LOCATION:Central Library - Rotary Club of Milwaukee Community Room
-DTSTART:20260521T153000Z
+DTSTART:20260528T153000Z
 SUMMARY:Chair Yoga - Yoga Class Suitable For People Of All Abilities
-UID:c517ae96f4ab547fd5af68dca30c14b0@mke_events.local
-URL:https://mpl.libnet.info/event/16250644
+UID:e57b415fbfd5948c499bcb360ac59f96@mke_events.local
+URL:https://mpl.libnet.info/event/16250645
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nBuild\, create and play at the Zablocki Library every Wednesday afternoon!...\n\nLink: https://mpl.libnet.info/event/15374043
+DESCRIPTION:Source: Milwaukee Public Library\nCome make and enjoy a quick mug meal! All materials provided....\n\nLink: https://mpl.libnet.info/event/14953181
+DURATION:PT2H
+LOCATION:Martin Luther King Branch
+DTSTART:20260529T213000Z
+SUMMARY:Mini Mug Meals!
+UID:611d30530f7415c006ddd7b95df0740c@mke_events.local
+URL:https://mpl.libnet.info/event/14953181
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee Public Library\nGather the whole family to kick off a summer of learning with hands-on activities for kids & teens\, special exhibits for all to enjoy\, and early registration for the summer reading program....\n\nLink: https://mpl.libnet.info/event/16070227
+DURATION:PT2H
+LOCATION:Central Library - Children's Herzfeld Activity Center\,Children's Room\,Children's Room - Back Area\,Children's Story Steps\,Grand Staircase Area\,Main Street - First Floor\,Main Street - Second Floor\,Mozart's Grove\,Paul Gottfried Krikelas Technology Conference Room\,Rotunda
+DTSTART:20260530T150000Z
+SUMMARY:MPL Summer Reading Kickoff
+UID:31c3608c832dcf076395da37d2fc7662@mke_events.local
+URL:https://mpl.libnet.info/event/16070227
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee Public Library\nJoin us for an evening of gaming at the library....\n\nLink: https://mpl.libnet.info/event/15500065
+DURATION:PT2H
+LOCATION:Center Street Branch - Other - See description for location
+DTSTART:20260526T220000Z
+SUMMARY:Game Night
+UID:8faa8c5640ceacabec329631eee05a88@mke_events.local
+URL:https://mpl.libnet.info/event/15500065
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee Public Library\nIncrease flexibility while decreasing stress through a guided gentle sequence of stretches. Focus on range of motion\, balance and body awareness. Unwind and restore your wellbeing....\n\nLink: https://mpl.libnet.info/event/16132148
+DURATION:PT2H
+LOCATION:Bay View Branch - Llewellyn Community Room
+DTSTART:20260526T190000Z
+SUMMARY:Gentle Stretch and Movement
+UID:f82abeffd53d034a00b9360c8b52d621@mke_events.local
+URL:https://mpl.libnet.info/event/16132148
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee Public Library\nBuild\, create and play at the Zablocki Library every Wednesday afternoon!...\n\nLink: https://mpl.libnet.info/event/15374044
 DURATION:PT2H
 LOCATION:Zablocki Branch - Children's Area
-DTSTART:20260520T193000Z
+DTSTART:20260527T193000Z
 SUMMARY:Midweek Makers
-UID:276b83850309e5e7ea805198870f047a@mke_events.local
-URL:https://mpl.libnet.info/event/15374043
+UID:dac5a83fa3060f9c7615b9bcaf291093@mke_events.local
+URL:https://mpl.libnet.info/event/15374044
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nThey say birds of a feather flock together\, but can you build the most beautiful bower out of found baubles?...\n\nLink: https://mpl.libnet.info/event/14768546
-DURATION:PT2H
-LOCATION:Central Library - Children's Herzfeld Activity Center
-DTSTART:20260518T210000Z
-SUMMARY:Bowerbird Scavenger Hunt
-UID:53082d6434f4e90f80b906a1481ac097@mke_events.local
-URL:https://mpl.libnet.info/event/14768546
+DTSTART;VALUE=DATE:20260531
+DESCRIPTION:Source: Discover the North Shore\n\nLink: https://discoverthenorthshoremke.com/event/dash-for-down-syndrome/
+LOCATION:Lake Park
+SUMMARY:Dash for Down Syndrome
+UID:3cce9a6277ceb49cbcc868c40d3ca29e@mke_events.local
+URL:https://discoverthenorthshoremke.com/event/dash-for-down-syndrome/
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nLearn how to install and care for a rain barrel at a rain barrel workshop. Participants will learn about water conservation and the many benefits of using rain barrels....\n\nLink: https://mpl.libnet.info/event/15967801
-DURATION:PT2H
-LOCATION:Tippecanoe Branch - Community Room\, Gift of Heather Hurley
-DTSTART:20260519T230000Z
-SUMMARY:Rain Barrel Workshop - With Milwaukee Metropolitan Sewerage District
-UID:48e23c12663227837422e0d62d2a1d7b@mke_events.local
-URL:https://mpl.libnet.info/event/15967801
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nTeens are invited to play the Switch\, hang out with friends\, and snack....\n\nLink: https://mpl.libnet.info/event/16144751
+DESCRIPTION:Source: Milwaukee Public Library\nPractice mindfulness through a variety of physical yoga poses\, breath practices\, stories and games. For ages 2-7 with caregiver....\n\nLink: https://mpl.libnet.info/event/16308965
 DURATION:PT2H
 LOCATION:Tippecanoe Branch - Community Room\, Gift of Heather Hurley
-DTSTART:20260522T193000Z
-SUMMARY:Fabulous Fridays! - Teens can play the Switch & hang out with friends.
-UID:1cf45da51367483e3d745a3f6c086edd@mke_events.local
-URL:https://mpl.libnet.info/event/16144751
+DTSTART:20260530T150000Z
+SUMMARY:Family Yoga with Cultivate Yoga MKE
+UID:6136ec105eb77a16aa3f12b62738cc35@mke_events.local
+URL:https://mpl.libnet.info/event/16308965
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260520
-DESCRIPTION:Source: Discover the North Shore\n\nLink: https://discoverthenorthshoremke.com/event/coffee-connection-north-shore-chamber-3/
-LOCATION:Hawaii Fluid Art
-SUMMARY:Coffee Connection: North Shore Chamber
-UID:2a03cc805e90b3e95398486c862b2a72@mke_events.local
-URL:https://discoverthenorthshoremke.com/event/coffee-connection-north-shore-chamber-3/
+DESCRIPTION:Source: Milwaukee Public Library\nTurn your spark into something real with Ideas to Income\, a two-part journey for new and emerging entrepreneurs....\n\nLink: https://mpl.libnet.info/event/16415215
+DURATION:PT2H
+LOCATION:Central Library - Innovation and Learning Lab
+DTSTART:20260601T153000Z
+SUMMARY:Ideas to Income - Take Your Business Idea to the Next Level
+UID:09e45de241c0df685158b70fd41023a0@mke_events.local
+URL:https://mpl.libnet.info/event/16415215
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260523
-DESCRIPTION:Source: Discover the North Shore\n\nLink: https://discoverthenorthshoremke.com/event/throwback-prom-night-w-night-fever-5-card-studs/
-LOCATION:The Argo
-SUMMARY:Throwback Prom Night w/ Night Fever & 5 Card Studs
-UID:a32015bade8478f14c789731b8fc3d21@mke_events.local
-URL:https://discoverthenorthshoremke.com/event/throwback-prom-night-w-night-fever-5-card-studs/
+DTSTART;VALUE=DATE:20260527
+DESCRIPTION:Source: Discover the North Shore\n\nLink: https://discoverthenorthshoremke.com/event/cancer-awareness-paint-sip/
+LOCATION:Vibez Creative Art Space
+SUMMARY:Cancer Awareness Paint & Sip
+UID:fcbfe1af55f6431502a2e86b19e233b2@mke_events.local
+URL:https://discoverthenorthshoremke.com/event/cancer-awareness-paint-sip/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee Public Library\nLooking for something to do on a Sunday afternoon? Come to the Tippecanoe Branch and find a game to play!...\n\nLink: https://mpl.libnet.info/event/15828733
+DURATION:PT2H
+LOCATION:Tippecanoe Branch - Community Room\, Gift of Heather Hurley
+DTSTART:20260531T170000Z
+SUMMARY:Games On Sundays at Tippe - Come In And Play!
+UID:6de003aa5c075147ed8936cc2a060faf@mke_events.local
+URL:https://mpl.libnet.info/event/15828733
 END:VEVENT
 END:VCALENDAR
