@@ -2,31 +2,65 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nWalk together through Washington Park....\n\nLink: https://mpl.libnet.info/event/15848063
+DESCRIPTION:Source: Milwaukee Public Library\nDrop into the Makerspace to work on your next project. Get hands on with creative activities and explore your interests....\n\nLink: https://mpl.libnet.info/event/16538111
 DURATION:PT2H
-LOCATION:Washington Park
-DTSTART:20260527T151500Z
-SUMMARY:Stepping Out Walking Club
-UID:a84c034d55ab3cee9be36bd9eebe6484@mke_events.local
-URL:https://mpl.libnet.info/event/15848063
+LOCATION:Good Hope Branch - Makerspace
+DTSTART:20260608T183000Z
+SUMMARY:Open Maker Time
+UID:6091bc405d2712e3d1431863056db00a@mke_events.local
+URL:https://mpl.libnet.info/event/16538111
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nHave a passion for geek media and culture? Come to Geek Out! a monthly program for teens who are enthusiastic for learning\, creating and enjoying all things in geek\, nerd or pop culture!...\n\nLink: https://mpl.libnet.info/event/15923167
+DESCRIPTION:Source: Milwaukee Public Library\nEnjoy a chance to visit and be crafty with other adults. This summer the focus will be on using recycled materials to create arts and crafts\, but you can always bring your own projects....\n\nLink: https://mpl.libnet.info/event/16033691
 DURATION:PT2H
-LOCATION:Central Library - Children's Herzfeld Activity Center
-DTSTART:20260528T210000Z
-SUMMARY:Geek Out!
-UID:5c8602750b4371c0b778571ba670c2eb@mke_events.local
-URL:https://mpl.libnet.info/event/15923167
+LOCATION:Capitol Branch - Conference Room
+DTSTART:20260604T180000Z
+SUMMARY:Crafting Club
+UID:855e24d79f0fae124ec94a05dd0eb4b8@mke_events.local
+URL:https://mpl.libnet.info/event/16033691
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nDiscover the joy of connection with family and friends while solving a jigsaw puzzle. Light refreshments will be provided....\n\nLink: https://mpl.libnet.info/event/15844329
+DESCRIPTION:Source: Milwaukee Public Library\nLet your imagination bloom! Join us at the East Branch Summer Reading kick-off event. Sign up for summer reading and participate in garden-related crafts and activities....\n\nLink: https://mpl.libnet.info/event/16376766
 DURATION:PT2H
-LOCATION:Villard Square Branch - Community Room
-DTSTART:20260530T190000Z
-SUMMARY:Family and Friends Jigsaw Puzzle Time
-UID:23d61e88c2ee006753016342b845b84c@mke_events.local
-URL:https://mpl.libnet.info/event/15844329
+LOCATION:East Branch - Community Room\, Gift of Lucile Krug
+DTSTART:20260606T140000Z
+SUMMARY:Summer Reading Kick-Off
+UID:d3bd788c379eb19121d930a492a41df7@mke_events.local
+URL:https://mpl.libnet.info/event/16376766
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260606
+DESCRIPTION:Source: Discover the North Shore\n\nLink: https://discoverthenorthshoremke.com/event/made-in-the-usa-5k-10k-15k-half-marathon/
+LOCATION:Richard E Maslowski Community Park
+SUMMARY:Made in the USA 5K/10K/15K/Half Marathon
+UID:277243519f22f29fb4ea21b2be41722e@mke_events.local
+URL:https://discoverthenorthshoremke.com/event/made-in-the-usa-5k-10k-15k-half-marathon/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee County\nThis 5K run (and walk) is a Badgerland Striders Classic. The beautiful course winds through Lake Park\, continues along the Lakefront\, takes you up the challenging "St. Mary's Hill\," and into the park for the party....\n\nLink: https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=310366&Occurrence=2026-06-03T18:30:00
+DURATION:PT2H
+LOCATION:Lake Park\, Picnic Area 5\, just west of Bartolotta's Lake Park Bistro\, 3133 East Newberry Blvd\, Milwaukee\, WI 53211
+DTSTART:20260603T233000Z
+SUMMARY:Badgerland Striders Super Run 5K
+UID:699180bcfc2f09d6205cd27cce8b1336@mke_events.local
+URL:https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=310366&Occurrence=2026-06-03T18:30:00
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee Public Library\nA place to work on your favorite fiber arts or mending project...\n\nLink: https://mpl.libnet.info/event/16220179
+DURATION:PT2H
+LOCATION:Martin Luther King Branch - Study Room 114
+DTSTART:20260602T223000Z
+SUMMARY:King Makers
+UID:8783e07eb4754ccf52d1f6ead8276f73@mke_events.local
+URL:https://mpl.libnet.info/event/16220179
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260607
+DESCRIPTION:Source: Milwaukee Public Library\nAs our nation approaches its 250th birthday in 2026\, we're inviting everyone to reflect on the future we want to build together....\n\nLink: https://mpl.libnet.info/event/16573813
+LOCATION:Good Hope Branch - Other - See description for location
+SUMMARY:Wish Wall - Share your wish for America's 250th!
+UID:9893b21c6b4dda6b32c314fca14fe2dc@mke_events.local
+URL:https://mpl.libnet.info/event/16573813
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: Milwaukee Public Library\nA monthly craft program for older adults. Come for the crafts\, stay for the community!...\n\nLink: https://mpl.libnet.info/event/16144645
@@ -38,75 +72,101 @@ UID:806304b83e968b8b9f9c024ac141a342@mke_events.local
 URL:https://mpl.libnet.info/event/16144645
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nJoin us at the beautiful Central Library for yoga and fellowship. Registration is encouraged. Walk-ins welcome....\n\nLink: https://mpl.libnet.info/event/16250645
+DESCRIPTION:Source: Milwaukee Public Library\nTwo hours. 500 Pieces. Gather some friends and show off your skills!...\n\nLink: https://mpl.libnet.info/event/15765421
 DURATION:PT2H
-LOCATION:Central Library - Rotary Club of Milwaukee Community Room
-DTSTART:20260528T153000Z
-SUMMARY:Chair Yoga - Yoga Class Suitable For People Of All Abilities
-UID:e57b415fbfd5948c499bcb360ac59f96@mke_events.local
-URL:https://mpl.libnet.info/event/16250645
+LOCATION:Mitchell Street Branch - Community Room
+DTSTART:20260606T184500Z
+SUMMARY:Speed-PuzzlePalooza & Jigsaw Puzzle Swap
+UID:a0a44732a45fd9a434fa4d11f2a9a69e@mke_events.local
+URL:https://mpl.libnet.info/event/15765421
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nCome make and enjoy a quick mug meal! All materials provided....\n\nLink: https://mpl.libnet.info/event/14953181
+DESCRIPTION:Source: Milwaukee Public Library\nBring your craft and hang-out for a cozy craft and chat! All-ages program to bring neighborhood crafters together. Every Thursday\, starting June 4th - August 27th\, 4-5pm....\n\nLink: https://mpl.libnet.info/event/15764876
 DURATION:PT2H
-LOCATION:Martin Luther King Branch
-DTSTART:20260529T213000Z
-SUMMARY:Mini Mug Meals!
-UID:611d30530f7415c006ddd7b95df0740c@mke_events.local
-URL:https://mpl.libnet.info/event/14953181
+LOCATION:East Branch - Community Room\, Gift of Lucile Krug
+DTSTART:20260604T210000Z
+SUMMARY:Craft & Chat
+UID:d7f73af3bc847c557495f8535eb55711@mke_events.local
+URL:https://mpl.libnet.info/event/15764876
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nGather the whole family to kick off a summer of learning with hands-on activities for kids & teens\, special exhibits for all to enjoy\, and early registration for the summer reading program....\n\nLink: https://mpl.libnet.info/event/16070227
+DESCRIPTION:Source: Milwaukee County\nJoin Mayor Johnson for a bike ride through Downtown Milwaukee\, in honor of Wisconsin Bike Week. Meet at the park at 10 a.m. The slow-roll ride starts at 10:30 a.m....\n\nLink: https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=475183&Occurrence=2026-06-01T10:00:00
 DURATION:PT2H
-LOCATION:Central Library - Children's Herzfeld Activity Center\,Children's Room\,Children's Room - Back Area\,Children's Story Steps\,Grand Staircase Area\,Main Street - First Floor\,Main Street - Second Floor\,Mozart's Grove\,Paul Gottfried Krikelas Technology Conference Room\,Rotunda
-DTSTART:20260530T150000Z
-SUMMARY:MPL Summer Reading Kickoff
-UID:31c3608c832dcf076395da37d2fc7662@mke_events.local
-URL:https://mpl.libnet.info/event/16070227
+LOCATION:Zeidler Union Square\,  301 W Michigan St\, Milwaukee\, WI 53203
+DTSTART:20260601T150000Z
+SUMMARY:Mayor Cavalier Johnson's Bike Ride
+UID:ddcd7946bd608cf9574b84185bcf85c7@mke_events.local
+URL:https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=475183&Occurrence=2026-06-01T10:00:00
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nJoin us for an evening of gaming at the library....\n\nLink: https://mpl.libnet.info/event/15500065
+DESCRIPTION:Source: Milwaukee County\nJoin the free\, slow-paced\, family-friendly bike ride\, featuring stops highlighting developments in the neighborhood. From 9 to 10 a.m.\, take advantage of the free repair station or check out a bike to use for the event -- a limited number of bikes available! Announcements begin at 10 a.m.\; the ride\,...\n\nLink: https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=385360&Occurrence=2026-06-06T10:00:00
 DURATION:PT2H
-LOCATION:Center Street Branch - Other - See description for location
-DTSTART:20260526T220000Z
-SUMMARY:Game Night
-UID:8faa8c5640ceacabec329631eee05a88@mke_events.local
-URL:https://mpl.libnet.info/event/15500065
+LOCATION:Garden Homes Square\, 2600 W. Atkinson Ave.\, Milwaukee\, WI 53209
+DTSTART:20260606T150000Z
+SUMMARY:Promise Zone Bike Ride
+UID:cf6db75a38680af747fb397dfbd2cf00@mke_events.local
+URL:https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=385360&Occurrence=2026-06-06T10:00:00
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\n"You are what you eat!" This food literacy program is designed for children\, youth\, and families to explore the world of food....\n\nLink: https://mpl.libnet.info/event/15855679
-DURATION:PT2H
-LOCATION:Mitchell Street Branch - Cargill Community Kitchen\,Northwestern Mutual Foundation Studio M Makerspace
-DTSTART:20260526T210000Z
-SUMMARY:Snack Hack: Kids Kitchen
-UID:965294446fa377dc88c903a0924c25a5@mke_events.local
-URL:https://mpl.libnet.info/event/15855679
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nJoin us at Central library for a weekly walk. We will meet under the dome of the Central Library and take a two-mile loop through this historic neighborhood. The club meets rain or shine....\n\nLink: https://mpl.libnet.info/event/15705562
-DURATION:PT2H
-LOCATION:Central Library
-DTSTART:20260527T153000Z
-SUMMARY:Central Library Walking Club
-UID:b902022fcaccd27295058504fb530466@mke_events.local
-URL:https://mpl.libnet.info/event/15705562
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nPractice mindfulness through a variety of physical yoga poses\, breath practices\, stories and games. For ages 2-7 with caregiver....\n\nLink: https://mpl.libnet.info/event/16308965
+DESCRIPTION:Source: Milwaukee Public Library\nLooking for something to do on a Sunday afternoon? Come to the Tippecanoe Branch and find a game to play!...\n\nLink: https://mpl.libnet.info/event/15828734
 DURATION:PT2H
 LOCATION:Tippecanoe Branch - Community Room\, Gift of Heather Hurley
-DTSTART:20260530T150000Z
-SUMMARY:Family Yoga with Cultivate Yoga MKE
-UID:6136ec105eb77a16aa3f12b62738cc35@mke_events.local
-URL:https://mpl.libnet.info/event/16308965
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nLooking for something to do on a Sunday afternoon? Come to the Tippecanoe Branch and find a game to play!...\n\nLink: https://mpl.libnet.info/event/15828733
-DURATION:PT2H
-LOCATION:Tippecanoe Branch - Community Room\, Gift of Heather Hurley
-DTSTART:20260531T170000Z
+DTSTART:20260607T170000Z
 SUMMARY:Games On Sundays at Tippe - Come In And Play!
-UID:6de003aa5c075147ed8936cc2a060faf@mke_events.local
-URL:https://mpl.libnet.info/event/15828733
+UID:fd326bbc8bb042cba450c1e0e512f812@mke_events.local
+URL:https://mpl.libnet.info/event/15828734
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee Public Library\nDrop into the Makerspace to work on your next project. Get hands on with creative activities and explore your interests....\n\nLink: https://mpl.libnet.info/event/16555984
+DURATION:PT2H
+LOCATION:Washington Park Branch - Makerspace
+DTSTART:20260608T182100Z
+SUMMARY:Open Maker Time
+UID:e47946c6a5c9619d999ab69a9f35e225@mke_events.local
+URL:https://mpl.libnet.info/event/16555984
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee Public Library\nIt's Pride Month! Stop in to craft a wearable button and create one to share....\n\nLink: https://mpl.libnet.info/event/16337960
+DURATION:PT2H
+LOCATION:Bay View Branch - Llewellyn Community Room
+DTSTART:20260602T213000Z
+SUMMARY:DIY Pride Buttons
+UID:9ef50986b9d7287e48530bb87c76ea8a@mke_events.local
+URL:https://mpl.libnet.info/event/16337960
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee Public Library\nStand out at your graduation by decorating your grad cap!...\n\nLink: https://mpl.libnet.info/event/16337619
+DURATION:PT2H
+LOCATION:Atkinson Branch - Community Room
+DTSTART:20260605T200000Z
+SUMMARY:Decorate Your Grad Cap
+UID:3592296eefbd1ced313d0851925cfeb1@mke_events.local
+URL:https://mpl.libnet.info/event/16337619
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260606
+DESCRIPTION:Source: Discover the North Shore\n\nLink: https://discoverthenorthshoremke.com/event/bayshore-welcome-summer-dance-party/
+LOCATION:The Yard at Bayshore
+SUMMARY:Bayshore Welcome Summer Dance Party
+UID:7dcdd63f34a8a82886ca41e1ec19e003@mke_events.local
+URL:https://discoverthenorthshoremke.com/event/bayshore-welcome-summer-dance-party/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee Public Library\nRelax and play - drop in at the library to complete a puzzle\, enjoy a crossword\, or challenge your mind with various word games....\n\nLink: https://mpl.libnet.info/event/15744982
+DURATION:PT2H
+LOCATION:Good Hope Branch - Community Room Resource Table
+DTSTART:20260605T160000Z
+SUMMARY:Puzzle Corner
+UID:9cccabee4e6c5792e71666412c9d371b@mke_events.local
+URL:https://mpl.libnet.info/event/15744982
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee County\nJoin County Executive Crowley and the Wisconsin Bike Fed on an all-abilities bike ride through Milwaukee County's trails and parks. This slow-roll\, 6-to 7-mile\, group ride is a perfect way to experience the county's park system. The ride kicks off at 6 p.m....\n\nLink: https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=450675&Occurrence=2026-06-03T17:30:00
+DURATION:PT2H
+LOCATION:Start: Estabrook Beer Garden\, 4600 Estabrook Pkwy\, Milwaukee\, WI 53217
+DTSTART:20260603T223000Z
+SUMMARY:Healthy County Challenge: Bike Ride through the Parks
+UID:258285b558da9cf18971029e6bdf1739@mke_events.local
+URL:https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=450675&Occurrence=2026-06-03T17:30:00
 END:VEVENT
 END:VCALENDAR
