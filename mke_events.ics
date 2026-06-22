@@ -2,181 +2,170 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260618
-DESCRIPTION:Source: Discover the North Shore\n\nLink: https://discoverthenorthshoremke.com/event/acacia-theatre-companys-angel-street-gaslight-weekend-2/
-LOCATION:St. Christopher’s Episcopal Church
-SUMMARY:Acacia Theatre Company's: Angel Street (Gaslight) Weekend 2
-UID:80f1bc4323c6190a8d6e6d4715ab2b75@mke_events.local
-URL:https://discoverthenorthshoremke.com/event/acacia-theatre-companys-angel-street-gaslight-weekend-2/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260619
-DESCRIPTION:Source: Discover the North Shore\n\nLink: https://discoverthenorthshoremke.com/event/meldrop-with-twin-suns/
-LOCATION:The Argo
-SUMMARY:Meldrop with Twin Suns
-UID:f9ff6217b11bf25d9275ea300c34b07e@mke_events.local
-URL:https://discoverthenorthshoremke.com/event/meldrop-with-twin-suns/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260619
-DESCRIPTION:Source: Discover the North Shore\n\nLink: https://discoverthenorthshoremke.com/event/torzala-brewing-beer-garden-whitefish-bay/
-LOCATION:Klode Park
-SUMMARY:Torzala Brewing Beer Garden Whitefish Bay
-UID:42a7430c078e7168066f480a12806f2e@mke_events.local
-URL:https://discoverthenorthshoremke.com/event/torzala-brewing-beer-garden-whitefish-bay/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260621
-DESCRIPTION:Source: Milwaukee Public Library\nAs our nation approaches its 250th birthday in 2026\, we're inviting everyone to reflect on the future we want to build together....\n\nLink: https://mpl.libnet.info/event/16573815
+DTSTART;VALUE=DATE:20260628
+DESCRIPTION:Source: Milwaukee Public Library\nAs our nation approaches its 250th birthday in 2026\, we're inviting everyone to reflect on the future we want to build together....\n\nLink: https://mpl.libnet.info/event/16573822
 LOCATION:Good Hope Branch - Other - See description for location
 SUMMARY:Wish Wall - Share your wish for America's 250th!
-UID:5119e40c28f66f9b54c8af0dd4c36aaa@mke_events.local
-URL:https://mpl.libnet.info/event/16573815
+UID:d40be2c834ed1bc32ace7a872dcc520d@mke_events.local
+URL:https://mpl.libnet.info/event/16573822
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260616
-DESCRIPTION:Source: Milwaukee Public Library\nAs our nation approaches its 250th birthday in 2026\, we're inviting everyone to reflect on the future we want to build together....\n\nLink: https://mpl.libnet.info/event/16573808
-LOCATION:Good Hope Branch - Other - See description for location
-SUMMARY:Wish Wall - Share your wish for America's 250th!
-UID:3684084afb39588d500cc108b9f96669@mke_events.local
-URL:https://mpl.libnet.info/event/16573808
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260616
-DESCRIPTION:Source: Milwaukee Public Library\nAs our nation approaches its 250th birthday in 2026\, we're inviting everyone to reflect on the future we want to build together....\n\nLink: https://mpl.libnet.info/event/16573682
-LOCATION:Washington Park Branch - Other - See description for location
-SUMMARY:Wish Wall - Share your wish for America's 250th!
-UID:3684084afb39588d500cc108b9f96669@mke_events.local
-URL:https://mpl.libnet.info/event/16573682
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260620
-DESCRIPTION:Source: Discover the North Shore\n\nLink: https://discoverthenorthshoremke.com/event/fox-point-farmers-market-june-20/
-LOCATION:North Shore Congregational Church
-SUMMARY:Fox Point Farmers' Market- June 20
-UID:0c05c6418cdac2b1ebcbfed59dd17a9a@mke_events.local
-URL:https://discoverthenorthshoremke.com/event/fox-point-farmers-market-june-20/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nLooking for something to do on a Sunday afternoon? Come to the Tippecanoe Branch and find a game to play!...\n\nLink: https://mpl.libnet.info/event/15828736
+DESCRIPTION:Source: Milwaukee Public Library\nLooking for something to do on a Sunday afternoon? Come to the Tippecanoe Branch and find a game to play!...\n\nLink: https://mpl.libnet.info/event/15828738
 DURATION:PT2H
 LOCATION:Tippecanoe Branch - Community Room\, Gift of Heather Hurley
-DTSTART:20260621T170000Z
+DTSTART:20260628T170000Z
 SUMMARY:Games On Sundays at Tippe - Come In And Play!
-UID:9541398810f32ea45dbdd6f3ebb7ee92@mke_events.local
-URL:https://mpl.libnet.info/event/15828736
+UID:6d2a09810795178a616bf28021a81135@mke_events.local
+URL:https://mpl.libnet.info/event/15828738
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260620
-DESCRIPTION:Source: Milwaukee Public Library\nAs our nation approaches its 250th birthday in 2026\, we're inviting everyone to reflect on the future we want to build together....\n\nLink: https://mpl.libnet.info/event/16573812
-LOCATION:Good Hope Branch - Other - See description for location
-SUMMARY:Wish Wall - Share your wish for America's 250th!
-UID:ab58155a9fea20090072516a0354f443@mke_events.local
-URL:https://mpl.libnet.info/event/16573812
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260620
-DESCRIPTION:Source: Milwaukee Public Library\nAs our nation approaches its 250th birthday in 2026\, we're inviting everyone to reflect on the future we want to build together....\n\nLink: https://mpl.libnet.info/event/16573685
-LOCATION:Washington Park Branch - Other - See description for location
-SUMMARY:Wish Wall - Share your wish for America's 250th!
-UID:ab58155a9fea20090072516a0354f443@mke_events.local
-URL:https://mpl.libnet.info/event/16573685
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260621
-DESCRIPTION:Source: Milwaukee Public Library\nPairing photographs of the Frank family with historical images\, the exhibit shows how targeted people were affected by the political actions of individuals and groups during World War II....\n\nLink: https://mpl.libnet.info/event/16734025
-LOCATION:Central Library - Main Street - Second Floor
-SUMMARY:Anne Frank: A History for Today - Traveling Exhibit
-UID:84593b8a47af8994ddc9b0e6ff5dc991@mke_events.local
-URL:https://mpl.libnet.info/event/16734025
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260615
-DESCRIPTION:Source: Discover the North Shore\n\nLink: https://discoverthenorthshoremke.com/event/trivia-night-at-stone-creek-coffee/
-LOCATION:Stone Creek Coffee Whitefish Bay
-SUMMARY:Trivia Night at Stone Creek Coffee
-UID:ceecc37bf48b599ba37fc77eff9183f4@mke_events.local
-URL:https://discoverthenorthshoremke.com/event/trivia-night-at-stone-creek-coffee/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260622
-DESCRIPTION:Source: Milwaukee Public Library\nAs our nation approaches its 250th birthday in 2026\, we're inviting everyone to reflect on the future we want to build together....\n\nLink: https://mpl.libnet.info/event/16573686
-LOCATION:Washington Park Branch - Other - See description for location
-SUMMARY:Wish Wall - Share your wish for America's 250th!
-UID:b5fa6421b52fd0425afc6533c99d1589@mke_events.local
-URL:https://mpl.libnet.info/event/16573686
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260615
-DESCRIPTION:Source: Discover the North Shore\n\nLink: https://discoverthenorthshoremke.com/event/8th-annual-greyhound-open-golf-outing/
-LOCATION:Brown Deer Park Golf Course
-SUMMARY:8th Annual Greyhound Open Golf Outing
-UID:a35c065078af3164693d28f39fcd7f56@mke_events.local
-URL:https://discoverthenorthshoremke.com/event/8th-annual-greyhound-open-golf-outing/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260618
-DESCRIPTION:Source: Discover the North Shore\n\nLink: https://discoverthenorthshoremke.com/event/charter-senior-living-of-mequon-cornhole-tournament/
-LOCATION:Charter Senior Living of Mequon
-SUMMARY:Charter Senior Living of Mequon Cornhole Tournament
-UID:fe703767c09c0a6d8994f15aa3fcdafc@mke_events.local
-URL:https://discoverthenorthshoremke.com/event/charter-senior-living-of-mequon-cornhole-tournament/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260620
-DESCRIPTION:Source: Milwaukee Public Library\nView display of Chinese American History in Milwaukee\, on loan from the Organization of Chinese Americans-Wisconsin Chapter....\n\nLink: https://mpl.libnet.info/event/16435981
-LOCATION:Central Library - Chinese Room
-SUMMARY:Historic Markers\, Living Legacy Exhibit - Milwaukee's Chinese American Experience
-UID:637f7718eb74771a9b978be7d165f798@mke_events.local
-URL:https://mpl.libnet.info/event/16435981
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260620
-DESCRIPTION:Source: Discover the North Shore\n\nLink: https://discoverthenorthshoremke.com/event/3rd-annual-hildebrand-law-firm-run-walk/
-LOCATION:Estabrook Park
-SUMMARY:3rd Annual Hildebrand Law Firm Run/Walk
-UID:9d83bd82ac7659d4bfbdfe8ad77b420c@mke_events.local
-URL:https://discoverthenorthshoremke.com/event/3rd-annual-hildebrand-law-firm-run-walk/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260617
-DESCRIPTION:Source: Discover the North Shore\n\nLink: https://discoverthenorthshoremke.com/event/bayshore-family-flicks-the-lego-batman-movie/
-LOCATION:The Yard at Bayshore
-SUMMARY:Bayshore Family Flicks: The Lego Batman Movie
-UID:f1e024ae2c45224c137b01e04fc53b3b@mke_events.local
-URL:https://discoverthenorthshoremke.com/event/bayshore-family-flicks-the-lego-batman-movie/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260617
-DESCRIPTION:Source: Discover the North Shore\n\nLink: https://discoverthenorthshoremke.com/event/bayshore-family-flicks-the-lego-batman-movie-2/
-LOCATION:The Yard at Bayshore
-SUMMARY:Bayshore Family Flicks- The Lego Batman Movie
-UID:4eb0c0151b942a18d8800cf672642133@mke_events.local
-URL:https://discoverthenorthshoremke.com/event/bayshore-family-flicks-the-lego-batman-movie-2/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260622
-DESCRIPTION:Source: Milwaukee Public Library\nAs our nation approaches its 250th birthday in 2026\, we're inviting everyone to reflect on the future we want to build together....\n\nLink: https://mpl.libnet.info/event/16573816
-LOCATION:Good Hope Branch - Other - See description for location
-SUMMARY:Wish Wall - Share your wish for America's 250th!
-UID:b5fa6421b52fd0425afc6533c99d1589@mke_events.local
-URL:https://mpl.libnet.info/event/16573816
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nCelebrate the summer solstice with the movement art of yoga in the historic Rotunda at Central Library....\n\nLink: https://mpl.libnet.info/event/16463489
+DESCRIPTION:Source: Milwaukee Public Library\nDrop into the Makerspace to work on your next project. Get hands on with creative activities and explore your interests....\n\nLink: https://mpl.libnet.info/event/16538452
 DURATION:PT2H
-LOCATION:Central Library - Rotunda
-DTSTART:20260621T133000Z
-SUMMARY:Summer Solstice Yoga - with Agape Yogastry
-UID:5cf60f134dbb4fdf159421f202254afe@mke_events.local
-URL:https://mpl.libnet.info/event/16463489
+LOCATION:Good Hope Branch - Makerspace
+DTSTART:20260624T183000Z
+SUMMARY:Open Maker Time
+UID:6134cc98ae5a7aca9cefc8713851fa7b@mke_events.local
+URL:https://mpl.libnet.info/event/16538452
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260621
-DESCRIPTION:Source: Milwaukee Public Library\nView display of Chinese American History in Milwaukee\, on loan from the Organization of Chinese Americans-Wisconsin Chapter....\n\nLink: https://mpl.libnet.info/event/16435982
-LOCATION:Central Library - Chinese Room
-SUMMARY:Historic Markers\, Living Legacy Exhibit - Milwaukee's Chinese American Experience
-UID:926e22859b9fe8fe927c40995bbfb80b@mke_events.local
-URL:https://mpl.libnet.info/event/16435982
+DESCRIPTION:Source: Milwaukee Public Library\nDrop into the Makerspace to work on your next project. Get hands on with creative activities and explore your interests....\n\nLink: https://mpl.libnet.info/event/16537419
+DURATION:PT2H
+LOCATION:Martin Luther King Branch - Makerspace
+DTSTART:20260624T183000Z
+SUMMARY:Open Maker Time
+UID:6134cc98ae5a7aca9cefc8713851fa7b@mke_events.local
+URL:https://mpl.libnet.info/event/16537419
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee Public Library\nDrop into the Makerspace to work on your next project. Get hands on with creative activities and explore your interests....\n\nLink: https://mpl.libnet.info/event/16555987
+DURATION:PT2H
+LOCATION:Washington Park Branch - Makerspace
+DTSTART:20260629T182100Z
+SUMMARY:Open Maker Time
+UID:a86ff648098f9552f5f6776c1aad0233@mke_events.local
+URL:https://mpl.libnet.info/event/16555987
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee Public Library\nDrop into the Makerspace to work on your next project. Get hands on with creative activities and explore your interests....\n\nLink: https://mpl.libnet.info/event/16469797
+DURATION:PT2H
+LOCATION:Good Hope Branch - Makerspace
+DTSTART:20260625T183000Z
+SUMMARY:Open Maker Time
+UID:1a93406e48ac16f77ae768a41332906d@mke_events.local
+URL:https://mpl.libnet.info/event/16469797
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee Public Library\nCome build with us! We'll supply a variety of building materials and you'll bring the creativity. Meet friends and see what you can create together....\n\nLink: https://mpl.libnet.info/event/16362148
+DURATION:PT2H
+LOCATION:Capitol Branch - Children's Area
+DTSTART:20260626T190000Z
+SUMMARY:Builders Club
+UID:77b3e405e1428a9e48a4f9ff990373b8@mke_events.local
+URL:https://mpl.libnet.info/event/16362148
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee Public Library\nCome build with us! We'll supply a variety of building materials and you'll bring the creativity. Meet friends and see what you can create together. Held in the children's room....\n\nLink: https://mpl.libnet.info/event/16377194
+DURATION:PT2H
+LOCATION:Center Street Branch - Other - See description for location
+DTSTART:20260626T203000Z
+SUMMARY:Builders Club
+UID:ec51d0279a0409e325616fd80e3f7378@mke_events.local
+URL:https://mpl.libnet.info/event/16377194
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee Public Library\nDrop into the Makerspace to work on your next project. Get hands on with creative activities and explore your interests....\n\nLink: https://mpl.libnet.info/event/16538364
+DURATION:PT2H
+LOCATION:Good Hope Branch - Makerspace
+DTSTART:20260623T183000Z
+SUMMARY:Open Maker Time
+UID:54749d3f05540bb3b62eb79245d541f9@mke_events.local
+URL:https://mpl.libnet.info/event/16538364
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee Public Library\nDrop into the Makerspace to work on your next project. Get hands on with creative activities and explore your interests....\n\nLink: https://mpl.libnet.info/event/16537401
+DURATION:PT2H
+LOCATION:Martin Luther King Branch - Makerspace
+DTSTART:20260623T183000Z
+SUMMARY:Open Maker Time
+UID:54749d3f05540bb3b62eb79245d541f9@mke_events.local
+URL:https://mpl.libnet.info/event/16537401
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee Public Library\nDrop into the Makerspace to work on your next project. Get hands on with creative activities and explore your interests....\n\nLink: https://mpl.libnet.info/event/16538125
+DURATION:PT2H
+LOCATION:Good Hope Branch - Makerspace
+DTSTART:20260622T183000Z
+SUMMARY:Open Maker Time
+UID:ff66c80b9a4cc4f94677d8b59dce53f8@mke_events.local
+URL:https://mpl.libnet.info/event/16538125
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260627
+DESCRIPTION:Source: Milwaukee Public Library\nAs our nation approaches its 250th birthday in 2026\, we're inviting everyone to reflect on the future we want to build together....\n\nLink: https://mpl.libnet.info/event/16573821
+LOCATION:Good Hope Branch - Other - See description for location
+SUMMARY:Wish Wall - Share your wish for America's 250th!
+UID:efb003fe2d6fe21013d66fd767e8505c@mke_events.local
+URL:https://mpl.libnet.info/event/16573821
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260627
+DESCRIPTION:Source: Milwaukee Public Library\nAs our nation approaches its 250th birthday in 2026\, we're inviting everyone to reflect on the future we want to build together....\n\nLink: https://mpl.libnet.info/event/16573691
+LOCATION:Washington Park Branch - Other - See description for location
+SUMMARY:Wish Wall - Share your wish for America's 250th!
+UID:efb003fe2d6fe21013d66fd767e8505c@mke_events.local
+URL:https://mpl.libnet.info/event/16573691
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260627
+DESCRIPTION:Source: Milwaukee Public Library\nAs our nation approaches its 250th birthday in 2026\, we're inviting everyone to reflect on the future we want to build together....\n\nLink: https://mpl.libnet.info/event/16574051
+LOCATION:Mitchell Street Branch - Other - See description for location
+SUMMARY:Wish Wall - Share your wish for America's 250th!
+UID:efb003fe2d6fe21013d66fd767e8505c@mke_events.local
+URL:https://mpl.libnet.info/event/16574051
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee Public Library\nIn this hands-on demonstration\, registrants will explore the basics of safely making pickles with fresh vegetables. Pre-registration is required. Bring a small\, sturdy box to take your sample home....\n\nLink: https://mpl.libnet.info/event/16634372
+DURATION:PT2H
+LOCATION:East Branch
+DTSTART:20260627T170000Z
+SUMMARY:In a Pickle! with Christina Ward
+UID:51ecc875bdffa7343ec00458970b88f4@mke_events.local
+URL:https://mpl.libnet.info/event/16634372
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee Public Library\nJoin us in learning\, thoughtful discussion and the creation of a community quilt with artist Iris Acevedo and Arts at Large....\n\nLink: https://mpl.libnet.info/event/16284492
+DURATION:PT2H
+LOCATION:Washington Park Branch - Finney Community Room\,Makerspace
+DTSTART:20260625T180000Z
+SUMMARY:Patchwork of Voices: Crafting Our Country's Future Together - An Artist Workshop For America's 250th
+UID:24ec099ceb485e7430ec32451c89066a@mke_events.local
+URL:https://mpl.libnet.info/event/16284492
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee Public Library\nJoin us at Tippecanoe for a friendly but competitive game of Mario Kart. Play against your friends\, your siblings\, or even the Librarian! Winner gets a treat!...\n\nLink: https://mpl.libnet.info/event/16393330
+DURATION:PT2H
+LOCATION:Tippecanoe Branch - Other - See description for location
+DTSTART:20260627T190000Z
+SUMMARY:Mario Kart-apalooza! - Proclaim victory as the Mario Kart Champion!
+UID:f448c29707101663c0bea99ab2a768f7@mke_events.local
+URL:https://mpl.libnet.info/event/16393330
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee Public Library\nDrop into the Makerspace to work on your next project. Get hands on with creative activities and explore your interests....\n\nLink: https://mpl.libnet.info/event/16538139
+DURATION:PT2H
+LOCATION:Good Hope Branch - Makerspace
+DTSTART:20260629T183000Z
+SUMMARY:Open Maker Time
+UID:5d2fb7a7a1312d297e675a7b30bd5d4e@mke_events.local
+URL:https://mpl.libnet.info/event/16538139
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee Public Library\nDrop into the Makerspace to work on your next project. Get hands on with creative activities and explore your interests....\n\nLink: https://mpl.libnet.info/event/16555986
+DURATION:PT2H
+LOCATION:Washington Park Branch - Makerspace
+DTSTART:20260622T182100Z
+SUMMARY:Open Maker Time
+UID:39b741c8a6e444f9fe5976d64ce834bf@mke_events.local
+URL:https://mpl.libnet.info/event/16555986
 END:VEVENT
 END:VCALENDAR
