@@ -2,163 +2,164 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nCome play\, create\, and compete using LEGO® bricks at the Zablocki Library! Budding builders and expert architects alike are welcome. Bring or make a friend as we build together at LEGO® League!...\n\nLink: https://mpl.libnet.info/event/16425125
+DESCRIPTION:Source: Milwaukee County\nExplore the local landscape together with the Milwaukee Nature Journal Club. Whether you're a seasoned nature journaler or you're curious about giving it a try\, all levels of experience are welcomed to this free program. Gather with supportive folks and connect through the love of exploring the wond...\n\nLink: https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=476442&Occurrence=2026-07-18T10:00:00
 DURATION:PT2H
-LOCATION:Zablocki Branch - Children's Area
-DTSTART:20260711T190000Z
-SUMMARY:LEGO® League
-UID:947ad764bc061783ce9aa52db780322d@mke_events.local
-URL:https://mpl.libnet.info/event/16425125
+LOCATION:Wehr Nature Center\, 9701 W College Ave\, Franklin\, WI 53132
+DTSTART:20260718T150000Z
+SUMMARY:Nature Journal Club
+UID:a9f44e5653297c54288f00f195310e8e@mke_events.local
+URL:https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=476442&Occurrence=2026-07-18T10:00:00
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nJoin us every Friday in July to learn some origami! You can even have your work displayed in the library!...\n\nLink: https://mpl.libnet.info/event/16338109
+DESCRIPTION:Source: Milwaukee County\nFamilies\, youths\, community members\, and law enforcement come together for a fun-filled day of connection\, purpose\, and unity....\n\nLink: https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=477384&Occurrence=2026-07-17T11:00:00
 DURATION:PT2H
-LOCATION:Capitol Branch - Community Room
-DTSTART:20260710T200000Z
-SUMMARY:Origami O'Clock
-UID:b69519c43e16e42644f93a6c1c643e78@mke_events.local
-URL:https://mpl.libnet.info/event/16338109
+LOCATION:Cooper Park\, Field #2\, 8701 W Chambers St. Milwaukee\, WI 53222
+DTSTART:20260717T160000Z
+SUMMARY:Cops vs Kids Kickball Game
+UID:cec72fba47fa56bfff4dcf57f15b2931@mke_events.local
+URL:https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=477384&Occurrence=2026-07-17T11:00:00
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260711
-DESCRIPTION:Source: Discover the North Shore\n\nLink: https://discoverthenorthshoremke.com/event/kid-boogie-down-k-pop-dance-party-sing-along/
-LOCATION:The Argo
-SUMMARY:Kid Boogie Down: K-Pop Dance Party Sing Along
-UID:96f5dc3cbcec1b9bd91c9d7675ffdd8c@mke_events.local
-URL:https://discoverthenorthshoremke.com/event/kid-boogie-down-k-pop-dance-party-sing-along/
+DESCRIPTION:Source: Milwaukee County\nCelebrate the culture\, joy\, unity\, styles\, diversity\, and history of Black Culture Roller Skating! Bring your own skates or take advantage of the free skate rentals. and enjoy the live DJ mix! A free community event. Food trucks available just outside the park....\n\nLink: https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=477112&Occurrence=2026-07-18T14:00:00
+DURATION:PT2H
+LOCATION:Red Arrow Park\, 920 N Water St\, Milwaukee\, WI
+DTSTART:20260718T190000Z
+SUMMARY:Skatefest - Celebrating Black Culture Roller Skating
+UID:25b12f925e7086ac673358f1b35934aa@mke_events.local
+URL:https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=477112&Occurrence=2026-07-18T14:00:00
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nStories and a fun letter craft help build pre-reading and fine motor skills to support early literacy. This interactive program focuses on letter recognition. Each week\, learn all about a new letter!...\n\nLink: https://mpl.libnet.info/event/15992641
+DESCRIPTION:Source: Milwaukee Public Library\nJoin us once a month for an evening of crafting! This month we will create Painted Cork Coasters!...\n\nLink: https://mpl.libnet.info/event/15789812
 DURATION:PT2H
-LOCATION:Central Library - Children's Herzfeld Activity Center\,Children's Room - Back Area
-DTSTART:20260711T153000Z
-SUMMARY:ABC Academy
-UID:d6195bb92f14da62be30da5b5ed1ed94@mke_events.local
-URL:https://mpl.libnet.info/event/15992641
+LOCATION:Zablocki Branch - Community Room
+DTSTART:20260720T230000Z
+SUMMARY:Crafty Adults @ Zablocki - Painted Cork Coasters
+UID:3ad3ce643158d19d7daa7551bf8b7742@mke_events.local
+URL:https://mpl.libnet.info/event/15789812
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nDrop into the Makerspace to work on your next project. Get hands on with creative activities and explore your interests....\n\nLink: https://mpl.libnet.info/event/16555988
+DTSTART;VALUE=DATE:20260715
+DESCRIPTION:Source: Discover the North Shore\n\nLink: https://discoverthenorthshoremke.com/event/cancer-awareness-paint-sip/
+LOCATION:Vibez Creative Art Space
+SUMMARY:Cancer Awareness Paint & Sip
+UID:443a76164b1bb48c64c808179d504632@mke_events.local
+URL:https://discoverthenorthshoremke.com/event/cancer-awareness-paint-sip/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee Public Library\nDon't let the kids have all the fun! Join us for adult skill level craft projects and create something you can proudly display in your home. Projects change monthly. Registration recommended....\n\nLink: https://mpl.libnet.info/event/16147479
 DURATION:PT2H
-LOCATION:Washington Park Branch - Makerspace
-DTSTART:20260706T182100Z
+LOCATION:Tippecanoe Branch - Community Room\, Gift of Heather Hurley
+DTSTART:20260714T223000Z
+SUMMARY:Adult Crafting @ Tippe!
+UID:6c7f9e23565f4c6fcd573eac428422d1@mke_events.local
+URL:https://mpl.libnet.info/event/16147479
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee Public Library\nDrop into the Makerspace to work on your next project. Get hands on with creative activities and explore your interests....\n\nLink: https://mpl.libnet.info/event/16537477
+DURATION:PT2H
+LOCATION:Martin Luther King Branch - Makerspace
+DTSTART:20260716T183000Z
 SUMMARY:Open Maker Time
-UID:5a3055ddebf6e6c5644d876f90d77a3b@mke_events.local
-URL:https://mpl.libnet.info/event/16555988
+UID:6ff2efb1f0c870c936fb594fa58486cc@mke_events.local
+URL:https://mpl.libnet.info/event/16537477
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nCome build with us! We'll supply a variety of building materials and you'll bring the creativity. Meet friends and see what you can create together....\n\nLink: https://mpl.libnet.info/event/16362149
+DESCRIPTION:Source: Milwaukee Public Library\nCreate your own charms for your Crocs! Bring your creativity and your favorite pair of Crocs\, we'll handle the rest....\n\nLink: https://mpl.libnet.info/event/16378770
 DURATION:PT2H
-LOCATION:Capitol Branch - Children's Area
-DTSTART:20260710T190000Z
-SUMMARY:Builders Club
-UID:d9625c049c926d644d48ac51f4ee09d2@mke_events.local
-URL:https://mpl.libnet.info/event/16362149
+LOCATION:Center Street Branch - Community Room
+DTSTART:20260717T180000Z
+SUMMARY:Do It yourself Croc Charms
+UID:5b5ed1701964e2d62dcb1bc38a50841c@mke_events.local
+URL:https://mpl.libnet.info/event/16378770
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nDrop into the Makerspace to work on your next project. Get hands on with creative activities and explore your interests....\n\nLink: https://mpl.libnet.info/event/16538165
+DESCRIPTION:Source: Milwaukee Public Library\nLooking for something to do on a Sunday afternoon? Come to the Tippecanoe Branch and find a game to play!...\n\nLink: https://mpl.libnet.info/event/15828741
+DURATION:PT2H
+LOCATION:Tippecanoe Branch - Community Room\, Gift of Heather Hurley
+DTSTART:20260719T170000Z
+SUMMARY:Games On Sundays at Tippe - Come In And Play!
+UID:dc805311afa01e4aa4b4977a80d80e2b@mke_events.local
+URL:https://mpl.libnet.info/event/15828741
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee Public Library\nCome build with us! We'll supply a variety of building materials and you'll bring the creativity. Meet friends and see what you can create together....\n\nLink: https://mpl.libnet.info/event/16363767
+DURATION:PT2H
+LOCATION:Villard Square Branch - Community Room
+DTSTART:20260713T170000Z
+SUMMARY:Builders Club
+UID:001fa3e57b14dc1d23b9cebac025612b@mke_events.local
+URL:https://mpl.libnet.info/event/16363767
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee Public Library\nWalk together through Washington Park....\n\nLink: https://mpl.libnet.info/event/15848070
+DURATION:PT2H
+LOCATION:Washington Park
+DTSTART:20260715T151500Z
+SUMMARY:Stepping Out Walking Club
+UID:3de678badcf00f3b1546b237d83e0eee@mke_events.local
+URL:https://mpl.libnet.info/event/15848070
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee Public Library\nLearn about burials in Ancient Egypt and help create a life-size mummy! (Ages 8+ recommended)...\n\nLink: https://mpl.libnet.info/event/16289823
+DURATION:PT2H
+LOCATION:Zablocki Branch - Community Room
+DTSTART:20260720T190000Z
+SUMMARY:Milwaukee Public Museum: Mummification in Ancient Egypt
+UID:bdc5ae781811b5d381672f47b0ce5122@mke_events.local
+URL:https://mpl.libnet.info/event/16289823
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee Public Library\nSpend the afternoon creating large and small structures\, animals or anything your imagination can think of with cardboard\, child safe saws and reusable screws!...\n\nLink: https://mpl.libnet.info/event/15871609
+DURATION:PT2H
+LOCATION:Good Hope Branch - Community Room
+DTSTART:20260714T180000Z
+SUMMARY:Cardboard Creations
+UID:09146ebdbcb0d991718491976eeefd98@mke_events.local
+URL:https://mpl.libnet.info/event/15871609
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee Public Library\nDrop into the Makerspace to work on your next project. Get hands on with creative activities and explore your interests....\n\nLink: https://mpl.libnet.info/event/16469809
 DURATION:PT2H
 LOCATION:Good Hope Branch - Makerspace
-DTSTART:20260713T183000Z
+DTSTART:20260716T183000Z
 SUMMARY:Open Maker Time
-UID:6dae125570942de9030f06fbffb65df1@mke_events.local
-URL:https://mpl.libnet.info/event/16538165
+UID:6ff2efb1f0c870c936fb594fa58486cc@mke_events.local
+URL:https://mpl.libnet.info/event/16469809
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: Milwaukee Public Library\nDrop into the Makerspace to work on your next project. Get hands on with creative activities and explore your interests....\n\nLink: https://mpl.libnet.info/event/16555989
 DURATION:PT2H
-LOCATION:Washington Park Branch - Makerspace
+LOCATION:Washington Park Branch
 DTSTART:20260713T182100Z
 SUMMARY:Open Maker Time
 UID:1e439c6e3cf9da2ff67e0fc70240722e@mke_events.local
 URL:https://mpl.libnet.info/event/16555989
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nDrop into the Makerspace to work on your next project. Get hands on with creative activities and explore your interests....\n\nLink: https://mpl.libnet.info/event/16538454
-DURATION:PT2H
-LOCATION:Good Hope Branch - Makerspace
-DTSTART:20260708T183000Z
-SUMMARY:Open Maker Time
-UID:ae5d4415daee05ce4c9487e54f89c2c8@mke_events.local
-URL:https://mpl.libnet.info/event/16538454
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nDrop into the Makerspace to work on your next project. Get hands on with creative activities and explore your interests....\n\nLink: https://mpl.libnet.info/event/16537421
-DURATION:PT2H
-LOCATION:Martin Luther King Branch - Makerspace
-DTSTART:20260708T183000Z
-SUMMARY:Open Maker Time
-UID:ae5d4415daee05ce4c9487e54f89c2c8@mke_events.local
-URL:https://mpl.libnet.info/event/16537421
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nJoin Gaming Guide Ira Lee and become part of an adventuring party where you'll use your imagination\, creativity and your wits to explore - and possibly survive - an epic quest in a fantasy world....\n\nLink: https://mpl.libnet.info/event/16047880
-DURATION:PT2H
-LOCATION:Martin Luther King Branch - Study Room 114
-DTSTART:20260711T150000Z
-SUMMARY:Tabletop Role-playing Gaming
-UID:b348b27134252be780925e2e0f8f8f62@mke_events.local
-URL:https://mpl.libnet.info/event/16047880
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nA monthly craft program for older adults. Come for the crafts\, stay for the community!...\n\nLink: https://mpl.libnet.info/event/16169971
-DURATION:PT2H
-LOCATION:Bay View Branch
-DTSTART:20260706T180000Z
-SUMMARY:Crafting Connections - Garden Fresh Tote Bag
-UID:e2159b1590c135860aaa5bf5801c9012@mke_events.local
-URL:https://mpl.libnet.info/event/16169971
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nDrop into the Makerspace to work on your next project. Get hands on with creative activities and explore your interests....\n\nLink: https://mpl.libnet.info/event/16537476
-DURATION:PT2H
-LOCATION:Martin Luther King Branch
-DTSTART:20260709T183000Z
-SUMMARY:Open Maker Time
-UID:fec3b9bf49920651ceecc8f4e5d7e6c4@mke_events.local
-URL:https://mpl.libnet.info/event/16537476
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260711
-DESCRIPTION:Source: Discover the North Shore\n\nLink: https://discoverthenorthshoremke.com/event/tequila-tasting/
-LOCATION:SCOUT Wine Merchants
-SUMMARY:Tequila Tasting
-UID:f1784a00ebc78f4316a4e66b98eec046@mke_events.local
-URL:https://discoverthenorthshoremke.com/event/tequila-tasting/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nDrop into the Makerspace to work on your next project. Get hands on with creative activities and explore your interests....\n\nLink: https://mpl.libnet.info/event/16469808
-DURATION:PT2H
-LOCATION:Good Hope Branch
-DTSTART:20260709T183000Z
-SUMMARY:Open Maker Time
-UID:fec3b9bf49920651ceecc8f4e5d7e6c4@mke_events.local
-URL:https://mpl.libnet.info/event/16469808
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nLooking for something to do on a Sunday afternoon? Come to the Tippecanoe Branch and find a game to play!...\n\nLink: https://mpl.libnet.info/event/15828740
+DESCRIPTION:Source: Milwaukee Public Library\nWe have the supplies\; you bring the talent! Join us as we walk you through the process of painting your pet....\n\nLink: https://mpl.libnet.info/event/16390531
 DURATION:PT2H
 LOCATION:Tippecanoe Branch - Community Room\, Gift of Heather Hurley
-DTSTART:20260712T170000Z
-SUMMARY:Games On Sundays at Tippe - Come In And Play!
-UID:b3094e2cd4f249a2d2e35cea478160e1@mke_events.local
-URL:https://mpl.libnet.info/event/15828740
+DTSTART:20260718T180000Z
+SUMMARY:Paint Your Pet Portrait! - Step-by-step instructions to paint a portrait of your pet!
+UID:a5eadef79152baa3f406cd0008880c8e@mke_events.local
+URL:https://mpl.libnet.info/event/16390531
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nDrop into the Makerspace to work on your next project. Get hands on with creative activities and explore your interests....\n\nLink: https://mpl.libnet.info/event/16538366
+DESCRIPTION:Source: Milwaukee County\nExperience a Latin beach festival through music\, food and culture. Dance to reggaetón\, bachata\, dembow\, and tropical beats all day long! To complete the beach vibe\, teams will compete in a beach volleyball tournament. Mi Gente is gated\, ticketed\, and for adults only (age 18 and up). All tickets must...\n\nLink: https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=455484&Occurrence=2026-07-19T12:00:00
 DURATION:PT2H
-LOCATION:Good Hope Branch - Makerspace
-DTSTART:20260707T183000Z
-SUMMARY:Open Maker Time
-UID:52ade1874aaf1f0bc4a989fe82a5dff6@mke_events.local
-URL:https://mpl.libnet.info/event/16538366
+LOCATION:Bradford Beach\, 2400 N Lincoln Memorial Drive\, Milwaukee\, WI 53202
+DTSTART:20260718T170000Z
+SUMMARY:Mi Gente Latin Beach Festival
+UID:3efeb7b5e2e66a68e47fe6b4ddbbc681@mke_events.local
+URL:https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=455484&Occurrence=2026-07-19T12:00:00
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nDrop into the Makerspace to work on your next project. Get hands on with creative activities and explore your interests....\n\nLink: https://mpl.libnet.info/event/16537403
+DESCRIPTION:Source: Milwaukee County\nExperience a Latin beach festival through music\, food and culture. Dance to reggaetón\, bachata\, dembow\, and tropical beats all day long! To complete the beach vibe\, teams will compete in a beach volleyball tournament. Mi Gente is gated\, ticketed\, and for adults only (age 18 and up). All tickets must...\n\nLink: https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=455484&Occurrence=2026-07-18T12:00:00
 DURATION:PT2H
-LOCATION:Martin Luther King Branch - Makerspace
-DTSTART:20260707T183000Z
-SUMMARY:Open Maker Time
-UID:52ade1874aaf1f0bc4a989fe82a5dff6@mke_events.local
-URL:https://mpl.libnet.info/event/16537403
+LOCATION:Bradford Beach\, 2400 N Lincoln Memorial Drive\, Milwaukee\, WI 53202
+DTSTART:20260718T170000Z
+SUMMARY:Mi Gente Latin Beach Festival
+UID:3efeb7b5e2e66a68e47fe6b4ddbbc681@mke_events.local
+URL:https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=455484&Occurrence=2026-07-18T12:00:00
 END:VEVENT
 END:VCALENDAR
