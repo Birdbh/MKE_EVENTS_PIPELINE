@@ -2,147 +2,93 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nCome build with us! We'll supply a variety of building materials and you'll bring the creativity. Meet friends and see what you can create together....\n\nLink: https://mpl.libnet.info/event/16289785
+DESCRIPTION:Source: Milwaukee Public Library\nDrop into the Makerspace to work on your next project. Get hands on with creative activities and explore your interests....\n\nLink: https://mpl.libnet.info/event/16555992
 DURATION:PT2H
-LOCATION:Mitchell Street Branch - Community Room
-DTSTART:20260724T200000Z
-SUMMARY:Builders Club
-UID:2c2b8c2f27c399b115b5378a6c42cc78@mke_events.local
-URL:https://mpl.libnet.info/event/16289785
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nDrop into the Makerspace to work on your next project. Get hands on with creative activities and explore your interests....\n\nLink: https://mpl.libnet.info/event/16537478
-DURATION:PT2H
-LOCATION:Martin Luther King Branch - Makerspace
-DTSTART:20260723T183000Z
+LOCATION:Washington Park Branch - Makerspace
+DTSTART:20260803T182100Z
 SUMMARY:Open Maker Time
-UID:b6829c7eca48f19b655ddf003a2704ed@mke_events.local
-URL:https://mpl.libnet.info/event/16537478
+UID:373fa6923eaa0f3516237e71364ef3ea@mke_events.local
+URL:https://mpl.libnet.info/event/16555992
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260721
-DESCRIPTION:Source: Discover the North Shore\n\nLink: https://discoverthenorthshoremke.com/event/learn-to-paddle-with-the-village-of-brown-deer-parks-recreation/
-LOCATION:Brown Deer Village Park & Pond
-SUMMARY:Learn to Paddle with The Village of Brown Deer Parks & Recreation
-UID:d10ce7c550300dd34f724219e520b5b0@mke_events.local
-URL:https://discoverthenorthshoremke.com/event/learn-to-paddle-with-the-village-of-brown-deer-parks-recreation/
+DTSTART;VALUE=DATE:20260729
+DESCRIPTION:Source: Discover the North Shore\n\nLink: https://discoverthenorthshoremke.com/event/full-moon-beach-yoga-buck-moon/
+LOCATION:Atwater Beach
+SUMMARY:Full Moon Beach Yoga- Buck Moon
+UID:175a32cd1f4eb57bfa067ba42602103d@mke_events.local
+URL:https://discoverthenorthshoremke.com/event/full-moon-beach-yoga-buck-moon/
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nDrop into the Makerspace to work on your next project. Get hands on with creative activities and explore your interests....\n\nLink: https://mpl.libnet.info/event/16538456
+DESCRIPTION:Source: Milwaukee Public Library\nCome help make Villard Square beautiful!...\n\nLink: https://mpl.libnet.info/event/15744258
 DURATION:PT2H
-LOCATION:Good Hope Branch - Makerspace
-DTSTART:20260722T183000Z
-SUMMARY:Open Maker Time
-UID:5f11bb057e0e125f0c82fcedf3f98667@mke_events.local
-URL:https://mpl.libnet.info/event/16538456
+LOCATION:Villard Square Branch - Community Room
+DTSTART:20260801T170000Z
+SUMMARY:Chalk the Walk
+UID:4389e3aa83cdb1e942dcadec1cb62c5f@mke_events.local
+URL:https://mpl.libnet.info/event/15744258
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nDrop into the Makerspace to work on your next project. Get hands on with creative activities and explore your interests....\n\nLink: https://mpl.libnet.info/event/16537423
-DURATION:PT2H
-LOCATION:Martin Luther King Branch - Makerspace
-DTSTART:20260722T183000Z
-SUMMARY:Open Maker Time
-UID:5f11bb057e0e125f0c82fcedf3f98667@mke_events.local
-URL:https://mpl.libnet.info/event/16537423
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nJoin us every Friday in July to learn some origami! You can even have your work displayed in the library!...\n\nLink: https://mpl.libnet.info/event/16338111
-DURATION:PT2H
-LOCATION:Capitol Branch - Community Room
-DTSTART:20260724T200000Z
-SUMMARY:Origami O'Clock
-UID:bea08c1d9be0437baefcf0ffb3e3a727@mke_events.local
-URL:https://mpl.libnet.info/event/16338111
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nCome build with us! We'll supply the Play Dough and you'll bring the creativity. Meet friends and see what you can create together....\n\nLink: https://mpl.libnet.info/event/16289520
-DURATION:PT2H
-LOCATION:Atkinson Branch - Community Room
-DTSTART:20260725T190000Z
-SUMMARY:Builders' Club with Play Dough
-UID:1a633fd1d76f990b10d2bc1938848023@mke_events.local
-URL:https://mpl.libnet.info/event/16289520
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nPut the phone down and pick up a different kind of controller - puzzle pieces\, Magna-tiles and crayons....\n\nLink: https://mpl.libnet.info/event/16978765
-DURATION:PT2H
-LOCATION:Bay View Branch - Llewellyn Community Room
-DTSTART:20260725T183000Z
-SUMMARY:Log Off\, Level Up - A Library Side Quest - City of Milwaukee
-UID:47b56882248831a1558ed5b1a98e7ba4@mke_events.local
-URL:https://mpl.libnet.info/event/16978765
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nDrop into the Makerspace to work on your next project. Get hands on with creative activities and explore your interests....\n\nLink: https://mpl.libnet.info/event/16555990
-DURATION:PT2H
-LOCATION:Washington Park Branch
-DTSTART:20260720T182100Z
-SUMMARY:Open Maker Time
-UID:34403c823365fe6ac7efb365c0a4ae89@mke_events.local
-URL:https://mpl.libnet.info/event/16555990
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nDrop into the Makerspace to work on your next project. Get hands on with creative activities and explore your interests....\n\nLink: https://mpl.libnet.info/event/16538368
-DURATION:PT2H
-LOCATION:Good Hope Branch - Makerspace
-DTSTART:20260721T183000Z
-SUMMARY:Open Maker Time
-UID:eef79b3994072e364e714671623404eb@mke_events.local
-URL:https://mpl.libnet.info/event/16538368
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Market\n\nLink: https://milwaukeepublicmarket.org/events/free-yoga-at-riverwalk-park
+DESCRIPTION:Source: Milwaukee Public Market\n\nLink: https://milwaukeepublicmarket.org/events/free-yoga-at-riverwalk-park-2
 DURATION:PT2H
 LOCATION:Milwaukee Public Market\, 400 N. Water Street\, Milwaukee\, WI 53202
-DTSTART:20260725T140000Z
+DTSTART:20260801T140000Z
 SUMMARY:Free Yoga at Riverwalk Park
-UID:7e6f1d65d05916bd4f90d8299ca10804@mke_events.local
-URL:https://milwaukeepublicmarket.org/events/free-yoga-at-riverwalk-park
+UID:b683415a21f77545b53407b2af4bd133@mke_events.local
+URL:https://milwaukeepublicmarket.org/events/free-yoga-at-riverwalk-park-2
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nLooking for something to do on a Sunday afternoon? Come to the Tippecanoe Branch and find a game to play!...\n\nLink: https://mpl.libnet.info/event/15828743
+DESCRIPTION:Source: Milwaukee Public Library\nMakerspace activity exploration and stories for ages 2-6...\n\nLink: https://mpl.libnet.info/event/16289675
 DURATION:PT2H
-LOCATION:Tippecanoe Branch - Community Room\, Gift of Heather Hurley
-DTSTART:20260726T170000Z
-SUMMARY:Games On Sundays at Tippe - Come In And Play!
-UID:0f2260889724d2f9339d97e27d5147b5@mke_events.local
-URL:https://mpl.libnet.info/event/15828743
+LOCATION:Martin Luther King Branch - Community Room
+DTSTART:20260731T153000Z
+SUMMARY:Mini Makers
+UID:ae1e604a4f6c98515453e14d098bc2aa@mke_events.local
+URL:https://mpl.libnet.info/event/16289675
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nIn this hands-on demonstration\, registrants will explore the basics of safely making pickles with fresh vegetables. Pre-registration is required. Bring a small\, sturdy box to take your sample home....\n\nLink: https://mpl.libnet.info/event/16634372
+DESCRIPTION:Source: Milwaukee Public Library\nA monthly craft program for older adults. Come for the crafts\, stay for the community!...\n\nLink: https://mpl.libnet.info/event/16555400
 DURATION:PT2H
-LOCATION:East Branch
-DTSTART:20260725T170000Z
-SUMMARY:In a Pickle! with Christina Ward
-UID:49a3017f6f6607502c906a159866ad95@mke_events.local
-URL:https://mpl.libnet.info/event/16634372
+LOCATION:Bay View Branch - Llewellyn Community Room
+DTSTART:20260803T180000Z
+SUMMARY:Crafting Connections - Watercolor Wellness
+UID:a6472d2ec99cdc83d8e6251eb0f222d8@mke_events.local
+URL:https://mpl.libnet.info/event/16555400
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nDrop into the Makerspace to work on your next project. Get hands on with creative activities and explore your interests....\n\nLink: https://mpl.libnet.info/event/16538178
+DESCRIPTION:Source: Milwaukee Public Library\nDrop into the Makerspace to work on your next project. Get hands on with creative activities and explore your interests....\n\nLink: https://mpl.libnet.info/event/16469811
 DURATION:PT2H
 LOCATION:Good Hope Branch - Makerspace
-DTSTART:20260720T183000Z
+DTSTART:20260730T183000Z
 SUMMARY:Open Maker Time
-UID:f78974bba3ec04c1bb70b793f2ae17eb@mke_events.local
-URL:https://mpl.libnet.info/event/16538178
+UID:29a6c88be98722546c4e7fa141643653@mke_events.local
+URL:https://mpl.libnet.info/event/16469811
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nTravel back to a time before computers! Create various crafts using vintage card catalog cards once used to find library books....\n\nLink: https://mpl.libnet.info/event/16373955
+DESCRIPTION:Source: Milwaukee Public Library\nDrop into the Makerspace to work on your next project. Get hands on with creative activities and explore your interests....\n\nLink: https://mpl.libnet.info/event/16537479
 DURATION:PT2H
-LOCATION:Good Hope Branch - Fireplace
-DTSTART:20260727T180000Z
-SUMMARY:Card Catalog Crafts
-UID:a8c3d299eff15388012223733d8d8f6d@mke_events.local
-URL:https://mpl.libnet.info/event/16373955
+LOCATION:Martin Luther King Branch - Makerspace
+DTSTART:20260730T183000Z
+SUMMARY:Open Maker Time
+UID:29a6c88be98722546c4e7fa141643653@mke_events.local
+URL:https://mpl.libnet.info/event/16537479
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nStories and a fun letter craft help build pre-reading and fine motor skills to support early literacy. This interactive program focuses on letter recognition. Each week\, learn all about a new letter!...\n\nLink: https://mpl.libnet.info/event/15992644
+DESCRIPTION:Source: Milwaukee Public Library\nDrop into the Makerspace to work on your next project. Get hands on with creative activities and explore your interests....\n\nLink: https://mpl.libnet.info/event/16537406
 DURATION:PT2H
-LOCATION:Central Library - Children's Herzfeld Activity Center\,Children's Room - Back Area
-DTSTART:20260725T153000Z
-SUMMARY:ABC Academy
-UID:a10c8e051c9fd492b0597c98b58c88e9@mke_events.local
-URL:https://mpl.libnet.info/event/15992644
+LOCATION:Martin Luther King Branch - Makerspace
+DTSTART:20260728T183000Z
+SUMMARY:Open Maker Time
+UID:08b9423d5e149525fcfd2c60d779cc55@mke_events.local
+URL:https://mpl.libnet.info/event/16537406
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee Public Library\nDrop into the Makerspace to work on your next project. Get hands on with creative activities and explore your interests....\n\nLink: https://mpl.libnet.info/event/16538369
+DURATION:PT2H
+LOCATION:Good Hope Branch - Makerspace
+DTSTART:20260728T183000Z
+SUMMARY:Open Maker Time
+UID:08b9423d5e149525fcfd2c60d779cc55@mke_events.local
+URL:https://mpl.libnet.info/event/16538369
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: Milwaukee Public Library\nDrop into the Makerspace to work on your next project. Get hands on with creative activities and explore your interests....\n\nLink: https://mpl.libnet.info/event/16555991
@@ -154,12 +100,39 @@ UID:688eb4983daad881099ec27cd6149bc8@mke_events.local
 URL:https://mpl.libnet.info/event/16555991
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nDrop into the Makerspace to work on your next project. Get hands on with creative activities and explore your interests....\n\nLink: https://mpl.libnet.info/event/16469810
+DESCRIPTION:Source: Milwaukee Public Library\nTravel back to a time before computers! Create various crafts using vintage card catalog cards once used to find library books....\n\nLink: https://mpl.libnet.info/event/16373955
+DURATION:PT2H
+LOCATION:Good Hope Branch - Fireplace
+DTSTART:20260727T180000Z
+SUMMARY:Card Catalog Crafts
+UID:a8c3d299eff15388012223733d8d8f6d@mke_events.local
+URL:https://mpl.libnet.info/event/16373955
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee Public Library\nJoin us every Friday in July to learn some origami! You can even have your work displayed in the library!...\n\nLink: https://mpl.libnet.info/event/16338112
+DURATION:PT2H
+LOCATION:Capitol Branch - Community Room
+DTSTART:20260731T200000Z
+SUMMARY:Origami O'Clock
+UID:e724b35a540700362fb9d153ea3543a1@mke_events.local
+URL:https://mpl.libnet.info/event/16338112
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee Public Library\nStories and a fun letter craft help build pre-reading and fine motor skills to support early literacy. This interactive program focuses on letter recognition. Each week\, learn all about a new letter!...\n\nLink: https://mpl.libnet.info/event/15992645
+DURATION:PT2H
+LOCATION:Central Library - Children's Herzfeld Activity Center\,Children's Room - Back Area
+DTSTART:20260801T153000Z
+SUMMARY:ABC Academy
+UID:b3a8cb4ad6a0f5acea3d94a5d5118e93@mke_events.local
+URL:https://mpl.libnet.info/event/15992645
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee Public Library\nDrop into the Makerspace to work on your next project. Get hands on with creative activities and explore your interests....\n\nLink: https://mpl.libnet.info/event/16538457
 DURATION:PT2H
 LOCATION:Good Hope Branch - Makerspace
-DTSTART:20260723T183000Z
+DTSTART:20260729T183000Z
 SUMMARY:Open Maker Time
-UID:b6829c7eca48f19b655ddf003a2704ed@mke_events.local
-URL:https://mpl.libnet.info/event/16469810
+UID:85fc0db5cff216504abe98761a02c3b7@mke_events.local
+URL:https://mpl.libnet.info/event/16538457
 END:VEVENT
 END:VCALENDAR
