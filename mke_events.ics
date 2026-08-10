@@ -2,40 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nEnjoy a chance to visit and be crafty with other adults. This summer the focus will be on using recycled materials to create arts and crafts\, but you can always bring your own projects....\n\nLink: https://mpl.libnet.info/event/16033693
+DESCRIPTION:Source: Milwaukee County\nWalk to support families affected by violence. Victims of Milwaukee Violence\, a community-based organization\, provides healing\, informational resources\, advocacy\, and prevention strategies for individuals and families impacted by violence in Milwaukee....\n\nLink: https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=476326&Occurrence=2026-08-15T10:00:00
 DURATION:PT2H
-LOCATION:Capitol Branch - Conference Room
-DTSTART:20260806T180000Z
-SUMMARY:Crafting Club
-UID:5bc5228842132604db5bfe591ab32c8e@mke_events.local
-URL:https://mpl.libnet.info/event/16033693
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee County\nDiscover a small outdoor DIY music and arts festival. The event brings together local and regional bands\, artists\, and vendors to create a community-driven space for connection and creative expression. Free admission\, but donations are welcomed!...\n\nLink: https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=479094&Occurrence=2026-08-08T15:00:00
-DURATION:PT2H
-LOCATION:Estabrook Park\, Skate Park\, 4400 N Estabrook Drive\, Milwaukee\, WI 53211
-DTSTART:20260808T200000Z
-SUMMARY:Gut Fest
-UID:539d9a32e71996cc1bc0968cad8eb6ff@mke_events.local
-URL:https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=479094&Occurrence=2026-08-08T15:00:00
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nCome build with us! We'll supply a variety of building materials and you'll bring the creativity. Meet friends and see what you can create together....\n\nLink: https://mpl.libnet.info/event/16289661
-DURATION:PT2H
-LOCATION:Martin Luther King Branch - Children's Area
-DTSTART:20260804T170000Z
-SUMMARY:Builders Club
-UID:fa3432996c4024524b080e6518e0f255@mke_events.local
-URL:https://mpl.libnet.info/event/16289661
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nDrop into the Makerspace to work on your next project. Get hands on with creative activities and explore your interests....\n\nLink: https://mpl.libnet.info/event/16555992
-DURATION:PT2H
-LOCATION:Washington Park Branch - Makerspace
-DTSTART:20260803T182100Z
-SUMMARY:Open Maker Time
-UID:373fa6923eaa0f3516237e71364ef3ea@mke_events.local
-URL:https://mpl.libnet.info/event/16555992
+LOCATION:Lake Park\, 2975 N. Lake Park Rd.\, Milwaukee\, WI 53211
+DTSTART:20260815T150000Z
+SUMMARY:Walk a Mile in My Shoes
+UID:0c87f1a222cbb717e29dc3c71e91b128@mke_events.local
+URL:https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=476326&Occurrence=2026-08-15T10:00:00
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: Milwaukee Public Library\nCome build with us! We'll supply a variety of building materials and you'll bring the creativity. Meet friends and see what you can create together....\n\nLink: https://mpl.libnet.info/event/16363768
@@ -47,76 +20,130 @@ UID:cbb1959bea4559b43ca0ef43bde25825@mke_events.local
 URL:https://mpl.libnet.info/event/16363768
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nDrop into the Makerspace to work on your next project. Get hands on with creative activities and explore your interests....\n\nLink: https://mpl.libnet.info/event/16538370
+DESCRIPTION:Source: Milwaukee Public Library\nDrop into the Makerspace to work on your next project. Get hands on with creative activities and explore your interests....\n\nLink: https://mpl.libnet.info/event/16538193
 DURATION:PT2H
 LOCATION:Good Hope Branch - Makerspace
-DTSTART:20260804T183000Z
+DTSTART:20260817T183000Z
 SUMMARY:Open Maker Time
-UID:cbb30f1b9bd84e7eef1bb7778b61e7b1@mke_events.local
-URL:https://mpl.libnet.info/event/16538370
+UID:da5e44ac6cd063c09728bc205cf4b820@mke_events.local
+URL:https://mpl.libnet.info/event/16538193
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nDrop into the Makerspace to work on your next project. Get hands on with creative activities and explore your interests....\n\nLink: https://mpl.libnet.info/event/16538458
+DESCRIPTION:Source: Milwaukee Public Library\nMakerspace activity exploration and stories for ages 2-6...\n\nLink: https://mpl.libnet.info/event/16289677
+DURATION:PT2H
+LOCATION:Martin Luther King Branch - Community Room
+DTSTART:20260814T153000Z
+SUMMARY:Mini Makers
+UID:69a9358db8846d64a445dfaff25120a8@mke_events.local
+URL:https://mpl.libnet.info/event/16289677
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee County\nEveryone is welcome to this day of building and strengthening connections\, living healthy\, and creating opportunities. Admission is free! Guests of all ages are invited to play kickball and to enjoy live music and good vibes. Meet and support local vendors. Visit the BMO Banking Truck and have real ...\n\nLink: https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=480274&Occurrence=2026-08-15T12:00:00
+DURATION:PT2H
+LOCATION:Kops Park\, 3321 N. 86 St.\, Milwaukee\, WI 53222
+DTSTART:20260815T170000Z
+SUMMARY:Community in Motion
+UID:3e8fffca4ed49ecc67b6155e20b9923f@mke_events.local
+URL:https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=480274&Occurrence=2026-08-15T12:00:00
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee County\nThe focus of the series is experimental and ambient music\, poetry and performance art -- all taking place in parks green spaces. By uniting poets\, musicians\, and performance artists from the Midwest\, Out There creates an immersive experience that highlights the interconnections between nature and so...\n\nLink: https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=475316&Occurrence=2026-08-15T14:00:00
+DURATION:PT2H
+LOCATION:Aug. 15 (new date): Community Music Performance & Art-Making\, Estabrook Park\, Area #5\, 4400 N Eastabrook Drive\, Milwaukee\, WI 53211 \nAug. 30: Swans\, Veterans Park\, Lagoon\, 1010 N Lincoln Memorial Drive\, Milwaukee\, WI 53202 \nSept. 26: Music & Poetry Performance\, plus Soundwalk Grant Park\, Area #6\, 100 E Hawthorne Ave\, South Milwaukee\, WI 53172
+DTSTART:20260815T190000Z
+SUMMARY:Out There Series: Experimental Music\, Poetry\, Performance Art
+UID:19aac63333324603c1d6008c7be7b898@mke_events.local
+URL:https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=475316&Occurrence=2026-08-15T14:00:00
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee County\nThe focus of the series is experimental and ambient music\, poetry and performance art -- all taking place in parks green spaces. By uniting poets\, musicians\, and performance artists from the Midwest\, Out There creates an immersive experience that highlights the interconnections between nature and so...\n\nLink: https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=475316&Occurrence=2026-08-30T14:00:00
+DURATION:PT2H
+LOCATION:Aug. 15 (new date): Community Music Performance & Art-Making\, Estabrook Park\, Area #5\, 4400 N Eastabrook Drive\, Milwaukee\, WI 53211 \nAug. 30: Swans\, Veterans Park\, Lagoon\, 1010 N Lincoln Memorial Drive\, Milwaukee\, WI 53202 \nSept. 26: Music & Poetry Performance\, plus Soundwalk Grant Park\, Area #6\, 100 E Hawthorne Ave\, South Milwaukee\, WI 53172
+DTSTART:20260815T190000Z
+SUMMARY:Out There Series: Experimental Music\, Poetry\, Performance Art
+UID:19aac63333324603c1d6008c7be7b898@mke_events.local
+URL:https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=475316&Occurrence=2026-08-30T14:00:00
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee Public Library\nFind your new favorite book series by participating in art projects\, science experiments\, and imaginative play!...\n\nLink: https://mpl.libnet.info/event/16289744
+DURATION:PT2H
+LOCATION:Martin Luther King Branch - Community Room
+DTSTART:20260811T170000Z
+SUMMARY:Series Celebrations!
+UID:623bc4a0d76bf8da53de87a6dfffb8ea@mke_events.local
+URL:https://mpl.libnet.info/event/16289744
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Discover the North Shore\n\nLink: https://discoverthenorthshoremke.com/event/free-outdoor-community-yoga/
+DURATION:PT2H
+LOCATION:Klode Park
+DTSTART:20260811T140000Z
+SUMMARY:Free Outdoor Community Yoga
+UID:687902340aaa0b796188f918b1aa6337@mke_events.local
+URL:https://discoverthenorthshoremke.com/event/free-outdoor-community-yoga/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee Public Library\nLooking for something to do on a Sunday afternoon? Come to the Tippecanoe Branch and find a game to play!...\n\nLink: https://mpl.libnet.info/event/15828745
+DURATION:PT2H
+LOCATION:Tippecanoe Branch - Community Room\, Gift of Heather Hurley
+DTSTART:20260816T170000Z
+SUMMARY:Games On Sundays at Tippe - Come In And Play!
+UID:4b14b7fbd52296f1952deb3917cb8f9e@mke_events.local
+URL:https://mpl.libnet.info/event/15828745
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee Public Library\nDrop into the Makerspace to work on your next project. Get hands on with creative activities and explore your interests....\n\nLink: https://mpl.libnet.info/event/16469813
 DURATION:PT2H
 LOCATION:Good Hope Branch - Makerspace
-DTSTART:20260805T183000Z
+DTSTART:20260813T183000Z
 SUMMARY:Open Maker Time
-UID:a2c5707a45d4d92673bbb03c928e7615@mke_events.local
-URL:https://mpl.libnet.info/event/16538458
+UID:ce4b5b80b651a19ea60226f85ed5079a@mke_events.local
+URL:https://mpl.libnet.info/event/16469813
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nDrop into the Makerspace to work on your next project. Get hands on with creative activities and explore your interests....\n\nLink: https://mpl.libnet.info/event/16537425
+DESCRIPTION:Source: Milwaukee Public Library\nDrop into the Makerspace to work on your next project. Get hands on with creative activities and explore your interests....\n\nLink: https://mpl.libnet.info/event/16537481
 DURATION:PT2H
 LOCATION:Martin Luther King Branch - Makerspace
-DTSTART:20260805T183000Z
+DTSTART:20260813T183000Z
 SUMMARY:Open Maker Time
-UID:a2c5707a45d4d92673bbb03c928e7615@mke_events.local
-URL:https://mpl.libnet.info/event/16537425
+UID:ce4b5b80b651a19ea60226f85ed5079a@mke_events.local
+URL:https://mpl.libnet.info/event/16537481
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nCome build with us! We'll supply a variety of building materials and you'll bring the creativity. Meet friends and see what you can create together....\n\nLink: https://mpl.libnet.info/event/16289786
-DURATION:PT2H
-LOCATION:Mitchell Street Branch - Community Room
-DTSTART:20260807T200000Z
-SUMMARY:Builders Club
-UID:a1002166309badc398d6c2fe419c939b@mke_events.local
-URL:https://mpl.libnet.info/event/16289786
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nDrop into the Makerspace to work on your next project. Get hands on with creative activities and explore your interests....\n\nLink: https://mpl.libnet.info/event/16469812
+DESCRIPTION:Source: Milwaukee Public Library\nDrop into the Makerspace to work on your next project. Get hands on with creative activities and explore your interests....\n\nLink: https://mpl.libnet.info/event/16538459
 DURATION:PT2H
 LOCATION:Good Hope Branch - Makerspace
-DTSTART:20260806T183000Z
+DTSTART:20260812T183000Z
 SUMMARY:Open Maker Time
-UID:4bcf5b62ab204957fea2a3c9e26437c8@mke_events.local
-URL:https://mpl.libnet.info/event/16469812
+UID:c8774a45237a9591c327f87b16450f9f@mke_events.local
+URL:https://mpl.libnet.info/event/16538459
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nCome build with us! We'll supply a variety of building materials and you'll bring the creativity. Meet friends and see what you can create together....\n\nLink: https://mpl.libnet.info/event/16362150
+DESCRIPTION:Source: Milwaukee Public Library\nDrop into the Makerspace to work on your next project. Get hands on with creative activities and explore your interests....\n\nLink: https://mpl.libnet.info/event/16537426
 DURATION:PT2H
-LOCATION:Capitol Branch - Children's Area
-DTSTART:20260807T190000Z
+LOCATION:Martin Luther King Branch - Makerspace
+DTSTART:20260812T183000Z
+SUMMARY:Open Maker Time
+UID:c8774a45237a9591c327f87b16450f9f@mke_events.local
+URL:https://mpl.libnet.info/event/16537426
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee Public Library\nCome build with us! We'll supply a variety of building materials and you'll bring the creativity. Meet friends and see what you can create together. Held in the children's room....\n\nLink: https://mpl.libnet.info/event/16377201
+DURATION:PT2H
+LOCATION:Center Street Branch - Other - See description for location
+DTSTART:20260814T203000Z
 SUMMARY:Builders Club
-UID:af8684ab0c67350e22d4b905c80ff887@mke_events.local
-URL:https://mpl.libnet.info/event/16362150
+UID:abda5ea8a13be4e586aee9f4799d445a@mke_events.local
+URL:https://mpl.libnet.info/event/16377201
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee County\nWalk the 2-mile route or run the timed 5K or to raise awareness (and funds) for those affected by migraine and headache disease. Funds raised support local migraine research\, education for doctors receiving specialty training in the field of headache medicine\, and Miles for Migraine programming in W...\n\nLink: https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=448096&Occurrence=2026-08-09T09:30:00
+DESCRIPTION:Source: Milwaukee Public Library\nDrop into the Makerspace to work on your next project. Get hands on with creative activities and explore your interests....\n\nLink: https://mpl.libnet.info/event/16555994
 DURATION:PT2H
-LOCATION:Start: Hart Park\, 7300 W Chestnut St\,\, Milwaukee\, WI 53213
-DTSTART:20260809T143000Z
-SUMMARY:Miles for Migraine - Walk\, Run\, Relax
-UID:d47ad7774e55d84125870f8bbffba2de@mke_events.local
-URL:https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=448096&Occurrence=2026-08-09T09:30:00
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee County\nBring the family to Wilson Pool this Summer for a Water Safety Day!...\n\nLink: https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=476669&Occurrence=2026-08-08T12:00:00
-DURATION:PT2H
-LOCATION:Wilson Pool. 1601 W Howard Ave.\, Milwaukee
-DTSTART:20260808T170000Z
-SUMMARY:Water Safety Day at Wilson Pool
-UID:478911733499c0ac3bcc67b6127c2882@mke_events.local
-URL:https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=476669&Occurrence=2026-08-08T12:00:00
+LOCATION:Washington Park Branch - Makerspace
+DTSTART:20260817T182100Z
+SUMMARY:Open Maker Time
+UID:b9dc534802061af5c8bfeb99efdb1e17@mke_events.local
+URL:https://mpl.libnet.info/event/16555994
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: Milwaukee Public Library\nDrop into the Makerspace to work on your next project. Get hands on with creative activities and explore your interests....\n\nLink: https://mpl.libnet.info/event/16555993
@@ -128,21 +155,12 @@ UID:33ce382d6ad2e7cd71ad3dfdd50ee532@mke_events.local
 URL:https://mpl.libnet.info/event/16555993
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nJoin Gaming Guide Ira Lee and become part of an adventuring party where you'll use your imagination\, creativity and your wits to explore - and possibly survive - an epic quest in a fantasy world....\n\nLink: https://mpl.libnet.info/event/16047881
+DESCRIPTION:Source: Milwaukee County\nJoin the Arthritis Foundation's 5K Run/Walk along Milwaukee's beautiful lakefront and raise funds to support the millions of people with arthritis\, America’s #1 cause of disability. All registered participants receive free admission to Irish Fest\, the 2026 T-shirt\, one post-race adult beverage (for ...\n\nLink: https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=313064&Occurrence=2026-08-15T08:00:00
 DURATION:PT2H
-LOCATION:Martin Luther King Branch - Study Room 114
-DTSTART:20260808T150000Z
-SUMMARY:Tabletop Role-playing Gaming
-UID:039fb5180197be7bb6ecdc1308ac5da9@mke_events.local
-URL:https://mpl.libnet.info/event/16047881
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nDrop into the Makerspace to work on your next project. Get hands on with creative activities and explore your interests....\n\nLink: https://mpl.libnet.info/event/16538191
-DURATION:PT2H
-LOCATION:Good Hope Branch - Makerspace
-DTSTART:20260803T183000Z
-SUMMARY:Open Maker Time
-UID:fe55e9e08046a6083e181b371bfb1955@mke_events.local
-URL:https://mpl.libnet.info/event/16538191
+LOCATION:Start: Urban Park\, 1070 E Michigan St\, Milwaukee\, WI 53202
+DTSTART:20260815T130000Z
+SUMMARY:5K Run-Walk to Milwaukee Irish Fest
+UID:e1ea0b6660f1f950566d0af158a2b7a8@mke_events.local
+URL:https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=313064&Occurrence=2026-08-15T08:00:00
 END:VEVENT
 END:VCALENDAR
