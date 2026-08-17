@@ -2,22 +2,93 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee County\nWalk to support families affected by violence. Victims of Milwaukee Violence\, a community-based organization\, provides healing\, informational resources\, advocacy\, and prevention strategies for individuals and families impacted by violence in Milwaukee....\n\nLink: https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=476326&Occurrence=2026-08-15T10:00:00
+DESCRIPTION:Source: Milwaukee Public Library\nEnjoy a peaceful "triathlon" of relaxation crafts three calming art projects designed to help you unwind-both here in the library and at home....\n\nLink: https://mpl.libnet.info/event/16860041
 DURATION:PT2H
-LOCATION:Lake Park\, 2975 N. Lake Park Rd.\, Milwaukee\, WI 53211
-DTSTART:20260815T150000Z
-SUMMARY:Walk a Mile in My Shoes
-UID:0c87f1a222cbb717e29dc3c71e91b128@mke_events.local
-URL:https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=476326&Occurrence=2026-08-15T10:00:00
+LOCATION:Center Street Branch - Community Room
+DTSTART:20260818T180000Z
+SUMMARY:Relaxation Through Creativity - A triathlon of crafts
+UID:320a3ba8747ed97f9a1b289cdc3cd604@mke_events.local
+URL:https://mpl.libnet.info/event/16860041
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nCome build with us! We'll supply a variety of building materials and you'll bring the creativity. Meet friends and see what you can create together....\n\nLink: https://mpl.libnet.info/event/16363768
+DESCRIPTION:Source: Milwaukee Public Library\nDrop into the Makerspace to work on your next project. Get hands on with creative activities and explore your interests....\n\nLink: https://mpl.libnet.info/event/16469814
 DURATION:PT2H
-LOCATION:Villard Square Branch - Children's Room
-DTSTART:20260810T170000Z
-SUMMARY:Builders Club
-UID:cbb1959bea4559b43ca0ef43bde25825@mke_events.local
-URL:https://mpl.libnet.info/event/16363768
+LOCATION:Good Hope Branch - Makerspace
+DTSTART:20260820T183000Z
+SUMMARY:Open Maker Time
+UID:f2e1cd4e81347c5ffb65036e97d1cfb2@mke_events.local
+URL:https://mpl.libnet.info/event/16469814
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260820
+DESCRIPTION:Source: Discover the North Shore\n\nLink: https://discoverthenorthshoremke.com/event/salsa-dancing-night/
+LOCATION:The Argo
+SUMMARY:Salsa Dancing Night
+UID:578bfd3682138feef8b08cf06ac47db5@mke_events.local
+URL:https://discoverthenorthshoremke.com/event/salsa-dancing-night/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee Public Library\nJoin us as La Familia de Arte guides you in inscribing your very own tile which will be a part of the Secret Garden forever!...\n\nLink: https://mpl.libnet.info/event/16980000
+DURATION:PT2H
+LOCATION:Tippecanoe Branch - Community Room\, Gift of Heather Hurley
+DTSTART:20260822T170000Z
+SUMMARY:La Familia de Arte & Tippecanoe Make Art! - Join us to inscribe a clay tile!
+UID:e57add7d926e9e899abc9c54e7c1721d@mke_events.local
+URL:https://mpl.libnet.info/event/16980000
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee Public Library\nReady to look back on all the fun you had this summer? Come in to create a scrapbook of your summer memories! Supplies will be provided and bringing pictures from home is encouraged\, but not required....\n\nLink: https://mpl.libnet.info/event/15942741
+DURATION:PT2H
+LOCATION:Central Library - Children's Herzfeld Activity Center
+DTSTART:20260824T210000Z
+SUMMARY:Scrapbook Your Summer!
+UID:dbd3ec10eb3a2244b76b1aea94e54493@mke_events.local
+URL:https://mpl.libnet.info/event/15942741
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee County\nRun for the Kids\, Run for the Doctors\, Run for the Research! Join the fun run with 100 percent of funds raised going to life-saving research for pediatric cancer at Children's Wisconsin. The run is open to people of all ages and running abilities!...\n\nLink: https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=417214&Occurrence=2026-08-22T09:00:00
+DURATION:PT2H
+LOCATION:Veterans Park\, 1010 N Lincoln Memorial Dr.\, Milwaukee\, WI 53202
+DTSTART:20260822T140000Z
+SUMMARY:Run with All your Heart 5K
+UID:c8993bad8bd833a3e76f1ff4200dd69f@mke_events.local
+URL:https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=417214&Occurrence=2026-08-22T09:00:00
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee Public Library\nBabies\, toddlers\, and preschoolers are invited to drop-in and play with sensory toys and activities. Recommended for children 6 months to 5 years old with a caregiver....\n\nLink: https://mpl.libnet.info/event/16392007
+DURATION:PT2H
+LOCATION:Tippecanoe Branch - Community Room\, Gift of Heather Hurley
+DTSTART:20260821T153000Z
+SUMMARY:Sensory Play Time
+UID:3b524b5faf332fe435aa4282aedd7b25@mke_events.local
+URL:https://mpl.libnet.info/event/16392007
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee County\nTake part in this fun summer event that is perfect for the whole family. The event includes a designer shirt\, custom medal\, chip-timing with live results\, awards\, free photos\, and treats--including Kona Ice-- at the finish line....\n\nLink: https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=451951&Occurrence=2026-08-22T07:00:00
+DURATION:PT2H
+LOCATION:Milwaukee County Sports Complex\, 6000 W Ryan Road\, Franklin\, WI 53132
+DTSTART:20260822T120000Z
+SUMMARY:Summer Sizzler 5- 10 & 15-K
+UID:f03f7004ab59f06d6a4ae7b867eb112f@mke_events.local
+URL:https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=451951&Occurrence=2026-08-22T07:00:00
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee Public Library\nAll summer we have been making different fabric designs\, dyes\, embroidery and more. Join us on this day as we sew all of our designs together to make a community quilt....\n\nLink: https://mpl.libnet.info/event/16470651
+DURATION:PT2H
+LOCATION:Washington Park Branch - Makerspace
+DTSTART:20260819T200000Z
+SUMMARY:Teen Maker Lab: Summer Camp Creations - Community Quilt Sewing Day
+UID:7476c35f7723e05c61df639f8be3e738@mke_events.local
+URL:https://mpl.libnet.info/event/16470651
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee Public Library\nAll summer we have been making different fabric designs\, dyes\, embroidery and more. Join us on this day as we sew all of our designs together to make a community quilt....\n\nLink: https://mpl.libnet.info/event/16539326
+DURATION:PT2H
+LOCATION:Mitchell Street Branch - Northwestern Mutual Foundation Studio M Makerspace
+DTSTART:20260819T200000Z
+SUMMARY:Teen Maker Lab: Summer Camp Creations - Community Quilt Sewing Day
+UID:7476c35f7723e05c61df639f8be3e738@mke_events.local
+URL:https://mpl.libnet.info/event/16539326
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: Milwaukee Public Library\nDrop into the Makerspace to work on your next project. Get hands on with creative activities and explore your interests....\n\nLink: https://mpl.libnet.info/event/16538193
@@ -29,112 +100,31 @@ UID:da5e44ac6cd063c09728bc205cf4b820@mke_events.local
 URL:https://mpl.libnet.info/event/16538193
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nMakerspace activity exploration and stories for ages 2-6...\n\nLink: https://mpl.libnet.info/event/16289677
+DESCRIPTION:Source: Milwaukee County\nCelebrate the start of the upcoming school year! Join the 5K fun run or 1.5-mile walk. Both routes go through scenic Washington Park. Great activities follow the race. Support our young people\, teachers\, and MPS staff!  Event proceeds support MPS youth sports\, wellness\, and recreation programs....\n\nLink: https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=313637&Occurrence=2026-08-22T09:00:00
 DURATION:PT2H
-LOCATION:Martin Luther King Branch - Community Room
-DTSTART:20260814T153000Z
-SUMMARY:Mini Makers
-UID:69a9358db8846d64a445dfaff25120a8@mke_events.local
-URL:https://mpl.libnet.info/event/16289677
+LOCATION:Start: MPS Central Services Building (5225 W. Vliet St.)
+DTSTART:20260822T140000Z
+SUMMARY:MPS Run Back to School
+UID:b90630136f0b0e89cdb81b6c1cbf69d8@mke_events.local
+URL:https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=313637&Occurrence=2026-08-22T09:00:00
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee County\nEveryone is welcome to this day of building and strengthening connections\, living healthy\, and creating opportunities. Admission is free! Guests of all ages are invited to play kickball and to enjoy live music and good vibes. Meet and support local vendors. Visit the BMO Banking Truck and have real ...\n\nLink: https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=480274&Occurrence=2026-08-15T12:00:00
-DURATION:PT2H
-LOCATION:Kops Park\, 3321 N. 86 St.\, Milwaukee\, WI 53222
-DTSTART:20260815T170000Z
-SUMMARY:Community in Motion
-UID:3e8fffca4ed49ecc67b6155e20b9923f@mke_events.local
-URL:https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=480274&Occurrence=2026-08-15T12:00:00
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee County\nThe focus of the series is experimental and ambient music\, poetry and performance art -- all taking place in parks green spaces. By uniting poets\, musicians\, and performance artists from the Midwest\, Out There creates an immersive experience that highlights the interconnections between nature and so...\n\nLink: https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=475316&Occurrence=2026-08-15T14:00:00
-DURATION:PT2H
-LOCATION:Aug. 15 (new date): Community Music Performance & Art-Making\, Estabrook Park\, Area #5\, 4400 N Eastabrook Drive\, Milwaukee\, WI 53211 \nAug. 30: Swans\, Veterans Park\, Lagoon\, 1010 N Lincoln Memorial Drive\, Milwaukee\, WI 53202 \nSept. 26: Music & Poetry Performance\, plus Soundwalk Grant Park\, Area #6\, 100 E Hawthorne Ave\, South Milwaukee\, WI 53172
-DTSTART:20260815T190000Z
-SUMMARY:Out There Series: Experimental Music\, Poetry\, Performance Art
-UID:19aac63333324603c1d6008c7be7b898@mke_events.local
-URL:https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=475316&Occurrence=2026-08-15T14:00:00
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee County\nThe focus of the series is experimental and ambient music\, poetry and performance art -- all taking place in parks green spaces. By uniting poets\, musicians\, and performance artists from the Midwest\, Out There creates an immersive experience that highlights the interconnections between nature and so...\n\nLink: https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=475316&Occurrence=2026-08-30T14:00:00
-DURATION:PT2H
-LOCATION:Aug. 15 (new date): Community Music Performance & Art-Making\, Estabrook Park\, Area #5\, 4400 N Eastabrook Drive\, Milwaukee\, WI 53211 \nAug. 30: Swans\, Veterans Park\, Lagoon\, 1010 N Lincoln Memorial Drive\, Milwaukee\, WI 53202 \nSept. 26: Music & Poetry Performance\, plus Soundwalk Grant Park\, Area #6\, 100 E Hawthorne Ave\, South Milwaukee\, WI 53172
-DTSTART:20260815T190000Z
-SUMMARY:Out There Series: Experimental Music\, Poetry\, Performance Art
-UID:19aac63333324603c1d6008c7be7b898@mke_events.local
-URL:https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=475316&Occurrence=2026-08-30T14:00:00
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nFind your new favorite book series by participating in art projects\, science experiments\, and imaginative play!...\n\nLink: https://mpl.libnet.info/event/16289744
-DURATION:PT2H
-LOCATION:Martin Luther King Branch - Community Room
-DTSTART:20260811T170000Z
-SUMMARY:Series Celebrations!
-UID:623bc4a0d76bf8da53de87a6dfffb8ea@mke_events.local
-URL:https://mpl.libnet.info/event/16289744
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Discover the North Shore\n\nLink: https://discoverthenorthshoremke.com/event/free-outdoor-community-yoga/
-DURATION:PT2H
-LOCATION:Klode Park
-DTSTART:20260811T140000Z
-SUMMARY:Free Outdoor Community Yoga
-UID:687902340aaa0b796188f918b1aa6337@mke_events.local
-URL:https://discoverthenorthshoremke.com/event/free-outdoor-community-yoga/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nLooking for something to do on a Sunday afternoon? Come to the Tippecanoe Branch and find a game to play!...\n\nLink: https://mpl.libnet.info/event/15828745
+DESCRIPTION:Source: Milwaukee Public Library\nLooking for something to do on a Sunday afternoon? Come to the Tippecanoe Branch and find a game to play!...\n\nLink: https://mpl.libnet.info/event/15828746
 DURATION:PT2H
 LOCATION:Tippecanoe Branch - Community Room\, Gift of Heather Hurley
-DTSTART:20260816T170000Z
+DTSTART:20260823T170000Z
 SUMMARY:Games On Sundays at Tippe - Come In And Play!
-UID:4b14b7fbd52296f1952deb3917cb8f9e@mke_events.local
-URL:https://mpl.libnet.info/event/15828745
+UID:e0ea962129226fd54d88d0b63d0f5621@mke_events.local
+URL:https://mpl.libnet.info/event/15828746
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nDrop into the Makerspace to work on your next project. Get hands on with creative activities and explore your interests....\n\nLink: https://mpl.libnet.info/event/16469813
+DESCRIPTION:Source: Milwaukee County\nJoin the late-summer half marathon that starts and finishes at the Estabrook Park Beer Garden. The race features the mostly shaded Oak Leak Trail for much of the course. After the event\, enjoy a great post-race party\, with a hot breakfast\, beverages\, beer\, and music!...\n\nLink: https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=313373&Occurrence=2026-08-22T07:00:00
 DURATION:PT2H
-LOCATION:Good Hope Branch - Makerspace
-DTSTART:20260813T183000Z
-SUMMARY:Open Maker Time
-UID:ce4b5b80b651a19ea60226f85ed5079a@mke_events.local
-URL:https://mpl.libnet.info/event/16469813
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nDrop into the Makerspace to work on your next project. Get hands on with creative activities and explore your interests....\n\nLink: https://mpl.libnet.info/event/16537481
-DURATION:PT2H
-LOCATION:Martin Luther King Branch - Makerspace
-DTSTART:20260813T183000Z
-SUMMARY:Open Maker Time
-UID:ce4b5b80b651a19ea60226f85ed5079a@mke_events.local
-URL:https://mpl.libnet.info/event/16537481
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nDrop into the Makerspace to work on your next project. Get hands on with creative activities and explore your interests....\n\nLink: https://mpl.libnet.info/event/16538459
-DURATION:PT2H
-LOCATION:Good Hope Branch - Makerspace
-DTSTART:20260812T183000Z
-SUMMARY:Open Maker Time
-UID:c8774a45237a9591c327f87b16450f9f@mke_events.local
-URL:https://mpl.libnet.info/event/16538459
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nDrop into the Makerspace to work on your next project. Get hands on with creative activities and explore your interests....\n\nLink: https://mpl.libnet.info/event/16537426
-DURATION:PT2H
-LOCATION:Martin Luther King Branch - Makerspace
-DTSTART:20260812T183000Z
-SUMMARY:Open Maker Time
-UID:c8774a45237a9591c327f87b16450f9f@mke_events.local
-URL:https://mpl.libnet.info/event/16537426
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nCome build with us! We'll supply a variety of building materials and you'll bring the creativity. Meet friends and see what you can create together. Held in the children's room....\n\nLink: https://mpl.libnet.info/event/16377201
-DURATION:PT2H
-LOCATION:Center Street Branch - Other - See description for location
-DTSTART:20260814T203000Z
-SUMMARY:Builders Club
-UID:abda5ea8a13be4e586aee9f4799d445a@mke_events.local
-URL:https://mpl.libnet.info/event/16377201
+LOCATION:Estabrook Park\, 4400 Estabrook Pkwy\, Milwaukee\, WI 53211
+DTSTART:20260822T120000Z
+SUMMARY:Strider Half Marathon
+UID:cc3a82a669f8daf1b961c26a8bb75456@mke_events.local
+URL:https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=313373&Occurrence=2026-08-22T07:00:00
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: Milwaukee Public Library\nDrop into the Makerspace to work on your next project. Get hands on with creative activities and explore your interests....\n\nLink: https://mpl.libnet.info/event/16555994
@@ -146,21 +136,48 @@ UID:b9dc534802061af5c8bfeb99efdb1e17@mke_events.local
 URL:https://mpl.libnet.info/event/16555994
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nDrop into the Makerspace to work on your next project. Get hands on with creative activities and explore your interests....\n\nLink: https://mpl.libnet.info/event/16555993
+DESCRIPTION:Source: Milwaukee County\nTake the whole family for an afternoon of fun\, food\, and community! Free backpacks and school supplies for the kids. Free food for all. Also bouncy houses\, face painting\, games\, and music! Let’s get the kids ready for an amazing school year—together!...\n\nLink: https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=455528&Occurrence=2026-08-23T12:00:00
 DURATION:PT2H
-LOCATION:Washington Park Branch - Makerspace
-DTSTART:20260810T182100Z
-SUMMARY:Open Maker Time
-UID:33ce382d6ad2e7cd71ad3dfdd50ee532@mke_events.local
-URL:https://mpl.libnet.info/event/16555993
+LOCATION:Jackson Park\, Area #2\, 3500 W. Forest Home Ave\, Milwaukee\, WI 53215
+DTSTART:20260823T170000Z
+SUMMARY:Back to School with Love: Backpack Giveaway
+UID:0ceadcb27aa469d47431b1763142e9c3@mke_events.local
+URL:https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=455528&Occurrence=2026-08-23T12:00:00
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee County\nJoin the Arthritis Foundation's 5K Run/Walk along Milwaukee's beautiful lakefront and raise funds to support the millions of people with arthritis\, America’s #1 cause of disability. All registered participants receive free admission to Irish Fest\, the 2026 T-shirt\, one post-race adult beverage (for ...\n\nLink: https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=313064&Occurrence=2026-08-15T08:00:00
+DESCRIPTION:Source: Discover the North Shore\n\nLink: https://discoverthenorthshoremke.com/event/free-outdoor-community-yoga/
 DURATION:PT2H
-LOCATION:Start: Urban Park\, 1070 E Michigan St\, Milwaukee\, WI 53202
-DTSTART:20260815T130000Z
-SUMMARY:5K Run-Walk to Milwaukee Irish Fest
-UID:e1ea0b6660f1f950566d0af158a2b7a8@mke_events.local
-URL:https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=313064&Occurrence=2026-08-15T08:00:00
+LOCATION:Klode Park
+DTSTART:20260818T140000Z
+SUMMARY:Free Outdoor Community Yoga
+UID:7122b83f18f138f68c59080af3f2710e@mke_events.local
+URL:https://discoverthenorthshoremke.com/event/free-outdoor-community-yoga/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee County\nStart your day with a sunrise salutation! This free class is presented by Cathy Stadler Yoga (registration required). Return to the park at 11:45 a.m. for Office Challenge Games\, the Bucks Basketball Shootout\, live music\, lunch giveaways to the first 1\,000 people\, and an ice-cream social....\n\nLink: https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=372636&Occurrence=2026-08-21T07:00:00
+DURATION:PT2H
+LOCATION:Pere Marquette Park\, 900 N. Plankinton Ave.\, Milwaukee\, WI 53203
+DTSTART:20260821T120000Z
+SUMMARY:Downtown Employee Appreciation Week: Yoga & More
+UID:471cb52fac267dc6888027643a33ac9e@mke_events.local
+URL:https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=372636&Occurrence=2026-08-21T07:00:00
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee Public Library\nKnit\, crochet\, embroider\, tat\, sew\, mend\, or work on other fiber-related projects in community....\n\nLink: https://mpl.libnet.info/event/15746180
+DURATION:PT2H
+LOCATION:Good Hope Branch - Community Room
+DTSTART:20260824T223000Z
+SUMMARY:Knot Just Knitting
+UID:a940da21da733aed7606abbf50080a10@mke_events.local
+URL:https://mpl.libnet.info/event/15746180
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee County\nHonor our nation’s heroes\, support life-changing journeys for US Veterans\, and come together as a community with purpose....\n\nLink: https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=457140&Occurrence=2026-08-23T09:00:00
+DURATION:PT2H
+LOCATION:Veterans Park\, 1010 N. Lincoln Memorial Drive\, Milwaukee\, WI 53202
+DTSTART:20260823T140000Z
+SUMMARY:Stars & Stripes Honor Flight 5K Run/ 1-Mile Walk
+UID:c2c1cbbfbdfb573e157c7fd3162f2972@mke_events.local
+URL:https://county.milwaukee.gov/EN/News--Events/Events/Event-Detail?DataID=457140&Occurrence=2026-08-23T09:00:00
 END:VEVENT
 END:VCALENDAR
