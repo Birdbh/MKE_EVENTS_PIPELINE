@@ -2,118 +2,144 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nWhooose bones are those? Learn about owl digestive systems\, the animals they eat\, and build your own animal skeleton. It'll be a hoot! Supplies are limited. Participation is first come\, first serve....\n\nLink: https://mpl.libnet.info/event/15859154
-DURATION:PT2H
-LOCATION:Central Library - Children's Herzfeld Activity Center
-DTSTART:20260831T210000Z
-SUMMARY:Owl Pellet Dissection
-UID:a4e1ba665bc13d4714664c0f7bb45565@mke_events.local
-URL:https://mpl.libnet.info/event/15859154
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nUnwind after work with a relaxing social bike ride. We'll explore downtown on purpose-built cycling infrastructure in a safe group setting....\n\nLink: https://mpl.libnet.info/event/17162526
-DURATION:PT2H
-LOCATION:Central Library - Other - See description for location
-DTSTART:20260903T224500Z
-SUMMARY:Downtown Bike Ride - with Wisconsin Bike Fed and Bublr Bikes
-UID:c59308b9e7829c2a616586d949f3a5b5@mke_events.local
-URL:https://mpl.libnet.info/event/17162526
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260905
-DESCRIPTION:Source: Discover the North Shore\n\nLink: https://discoverthenorthshoremke.com/event/fox-point-farmers-market-september-5/
-LOCATION:North Shore Congregational Church
-SUMMARY:Fox Point Farmers' Market- September 5
-UID:127195d4652550c1d21c23aa786d1e28@mke_events.local
-URL:https://discoverthenorthshoremke.com/event/fox-point-farmers-market-september-5/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nWalk together through Washington Park....\n\nLink: https://mpl.libnet.info/event/16946683
-DURATION:PT2H
-LOCATION:Washington Park
-DTSTART:20260902T151500Z
-SUMMARY:Stepping Out Walking Club
-UID:81eae991df6750ea18ca25b498b9f86f@mke_events.local
-URL:https://mpl.libnet.info/event/16946683
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nGet simple clothes repairs done for free....\n\nLink: https://mpl.libnet.info/event/16946811
-DURATION:PT2H
-LOCATION:Washington Park Branch - Other - See description for location
-DTSTART:20260901T220000Z
-SUMMARY:Mind your Mending: Clothes Repair
-UID:4cf19a9d342ac432c0de2da7cde536d0@mke_events.local
-URL:https://mpl.libnet.info/event/16946811
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260905
-DESCRIPTION:Source: Discover the North Shore\n\nLink: https://discoverthenorthshoremke.com/event/whitefish-bay-farmers-market-september-5/
-LOCATION:Whitefish Bay Farmers Market
-SUMMARY:Whitefish Bay Farmers Market: September 5
-UID:e47e8f8b0df2a0f2cb6a433f237be5c3@mke_events.local
-URL:https://discoverthenorthshoremke.com/event/whitefish-bay-farmers-market-september-5/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Discover the North Shore\n\nLink: https://discoverthenorthshoremke.com/event/shorewood-farmers-market/
-DURATION:PT2H
+DTSTART;VALUE=DATE:20260912
+DESCRIPTION:Source: Discover the North Shore\n\nLink: https://discoverthenorthshoremke.com/event/tour-de-taps-2026/
 LOCATION:Estabrook Park
-DTSTART:20260906T143000Z
-SUMMARY:Shorewood Farmer's Market
-UID:d19e1cdc9d8ba3fd538b0169573fed17@mke_events.local
-URL:https://discoverthenorthshoremke.com/event/shorewood-farmers-market/
+SUMMARY:Tour de Taps 2026
+UID:8ed70e2ddc7b75534724797aa4d2ad54@mke_events.local
+URL:https://discoverthenorthshoremke.com/event/tour-de-taps-2026/
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Market\n\nLink: https://milwaukeepublicmarket.org/events/free-yoga-at-riverwalk-park-5
+DESCRIPTION:Source: Milwaukee Public Library\nA monthly craft program for older adults. Come for the crafts\, stay for the community!...\n\nLink: https://mpl.libnet.info/event/16957304
 DURATION:PT2H
-LOCATION:Milwaukee Public Market\, 400 N. Water Street\, Milwaukee\, WI 53202
-DTSTART:20260905T140000Z
-SUMMARY:Free Yoga at Riverwalk Park
-UID:b2ae1e15f28c2235076b2ba36b190e24@mke_events.local
-URL:https://milwaukeepublicmarket.org/events/free-yoga-at-riverwalk-park-5
+LOCATION:Bay View Branch - Llewellyn Community Room
+DTSTART:20260914T180000Z
+SUMMARY:Crafting Connections - Monarch Butterfly Window Clings
+UID:7b8e29e28a91dcd9b5feff3878716a76@mke_events.local
+URL:https://mpl.libnet.info/event/16957304
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nJoin us once a month for an evening of crafting! This month we will be creating Stained Glass Windows using Tin Foil....\n\nLink: https://mpl.libnet.info/event/15790170
-DURATION:PT2H
-LOCATION:Zablocki Branch - Community Room
-DTSTART:20260831T230000Z
-SUMMARY:Crafty Adults @ Zablocki - Tin Foil Stained Glass
-UID:1a33331f751da8f591864a809f4ca11b@mke_events.local
-URL:https://mpl.libnet.info/event/15790170
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nA place to work on your favorite fiber arts or mending project...\n\nLink: https://mpl.libnet.info/event/16220182
-DURATION:PT2H
-LOCATION:Martin Luther King Branch - Community Room
-DTSTART:20260901T223000Z
-SUMMARY:King Makers
-UID:c7f63bd50bf840cc69efe8706eb74363@mke_events.local
-URL:https://mpl.libnet.info/event/16220182
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nEnjoy a chance to visit and be crafty with other adults. This summer the focus will be on using recycled materials to create arts and crafts\, but you can always bring your own projects....\n\nLink: https://mpl.libnet.info/event/17089215
+DESCRIPTION:Source: Milwaukee Public Library\nLearn simple computer science\, while making your own personalized keychain. Use pony beads to create your own binary code based on your initials....\n\nLink: https://mpl.libnet.info/event/16586970
 DURATION:PT2H
 LOCATION:Capitol Branch - Community Room
-DTSTART:20260903T180000Z
-SUMMARY:Crafting Club
-UID:88112b63a1859d312c41a40c46951b31@mke_events.local
-URL:https://mpl.libnet.info/event/17089215
+DTSTART:20260910T210000Z
+SUMMARY:Binary Code Keychains
+UID:d304f0424e2d46668e52efd5ba4cce1a@mke_events.local
+URL:https://mpl.libnet.info/event/16586970
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nCome build with us! We'll supply a variety of building materials and you'll bring the creativity. Meet friends and see what you can create together....\n\nLink: https://mpl.libnet.info/event/16856869
+DESCRIPTION:Source: Milwaukee Public Market\n\nLink: https://milwaukeepublicmarket.org/events/free-yoga-at-riverwalk-park-6
+DURATION:PT2H
+LOCATION:Milwaukee Public Market\, 400 N. Water Street\, Milwaukee\, WI 53202
+DTSTART:20260912T140000Z
+SUMMARY:Free Yoga at Riverwalk Park
+UID:b372b616f05221da446512b638aa83a4@mke_events.local
+URL:https://milwaukeepublicmarket.org/events/free-yoga-at-riverwalk-park-6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee Public Library\nPin your personality! Design and press a one-of-a-kind button to wear or share....\n\nLink: https://mpl.libnet.info/event/16366473
+DURATION:PT2H
+LOCATION:Martin Luther King Branch - Study Room 117
+DTSTART:20260908T210000Z
+SUMMARY:Push the Button
+UID:e680685ff62c36c16feb3c65a44404d4@mke_events.local
+URL:https://mpl.libnet.info/event/16366473
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee Public Library\nCalling all makers and artists! Do you love creating? Want to try to learn a new skill but don't know where to start? Join us for a monthly maker session to try a new creative outlet each month!...\n\nLink: https://mpl.libnet.info/event/16883161
+DURATION:PT2H
+LOCATION:Central Library - Children's Herzfeld Activity Center
+DTSTART:20260908T210000Z
+SUMMARY:Monthly Makers
+UID:861430ef58abbf702601f9288ace8593@mke_events.local
+URL:https://mpl.libnet.info/event/16883161
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee Public Library\nEnjoy a tour of the library's Green Roof!...\n\nLink: https://mpl.libnet.info/event/15995288
+DURATION:PT2H
+LOCATION:Central Library - Green Roof
+DTSTART:20260912T183000Z
+SUMMARY:Green Roof Tour
+UID:81e905b83872f87d6cb2d41edd153196@mke_events.local
+URL:https://mpl.libnet.info/event/15995288
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee Public Library\nSponsored and staffed by The Friends of the MPL volunteers\, the very popular quarterly Book Sales feature thousands of books marked down to bargain prices....\n\nLink: https://mpl.libnet.info/event/17178732
+DURATION:PT2H
+LOCATION:Central Library - Other - See description for location
+DTSTART:20260911T180000Z
+SUMMARY:Fall 2026 Friends of MPL Used Book Sale
+UID:8d3af3e510e9d21cf6ef3169e157df4f@mke_events.local
+URL:https://mpl.libnet.info/event/17178732
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260909
+DESCRIPTION:Source: Discover the North Shore\n\nLink: https://discoverthenorthshoremke.com/event/estabrook-park-wildlife-photography/
+LOCATION:Glendale Senior Citizens’ Clubroom
+SUMMARY:Estabrook Park Wildlife Photography
+UID:152cda4b5c98be338b2ec4ba4b481d9a@mke_events.local
+URL:https://discoverthenorthshoremke.com/event/estabrook-park-wildlife-photography/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee Public Library\nListed on the National Register of Historic Places\, Central Library has many significant architectural features. Join a Docent Tour Guide as they share the splendor of Central Library's past!...\n\nLink: https://mpl.libnet.info/event/15546392
+DURATION:PT2H
+LOCATION:Central Library - Central Library Tours
+DTSTART:20260912T160000Z
+SUMMARY:Central Library Architectural Tour
+UID:3e90387d6f89790780f2f028668e56a5@mke_events.local
+URL:https://mpl.libnet.info/event/15546392
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Discover the North Shore\n\nLink: https://discoverthenorthshoremke.com/event/americas-pub-quiz-trivia-monday-nights/
+DURATION:PT2H
+LOCATION:Estabrook Park
+DTSTART:20260907T230000Z
+SUMMARY:America's Pub Quiz Trivia- Monday Nights
+UID:776ed02f5fe5754a29e663e87527eaa9@mke_events.local
+URL:https://discoverthenorthshoremke.com/event/americas-pub-quiz-trivia-monday-nights/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260912
+DESCRIPTION:Source: Discover the North Shore\n\nLink: https://discoverthenorthshoremke.com/event/fox-point-farmers-market-september-12/
+LOCATION:North Shore Congregational Church
+SUMMARY:Fox Point Farmers' Market- September 12
+UID:2eac97097d667b39fd95fae21fbe5de9@mke_events.local
+URL:https://discoverthenorthshoremke.com/event/fox-point-farmers-market-september-12/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee Public Library\nThe Makerspaces are back with a bang and joining in on the back-to-school festivities all month long....\n\nLink: https://mpl.libnet.info/event/17308102
+DURATION:PT2H
+LOCATION:Martin Luther King Branch - Makerspace
+DTSTART:20260914T203000Z
+SUMMARY:Open Maker Time: Back with a Bang
+UID:d955131a58bae5933d0696c155a18b79@mke_events.local
+URL:https://mpl.libnet.info/event/17308102
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee Public Library\nCrafternoon is a time for you to learn a new craft\, try out new art supplies\, and learn new techniques for creative expression!...\n\nLink: https://mpl.libnet.info/event/16976284
+DURATION:PT2H
+LOCATION:Center Street Branch - Conference Room
+DTSTART:20260910T200000Z
+SUMMARY:Crafteroon
+UID:974e6e501f5841664f538b8cf921ce4c@mke_events.local
+URL:https://mpl.libnet.info/event/16976284
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee Public Library\nCome build with us! We'll supply a variety of building materials and you'll bring the creativity. Meet friends and see what you can create together....\n\nLink: https://mpl.libnet.info/event/16856870
 DURATION:PT2H
 LOCATION:Central Library - Children's Room - Back Area
-DTSTART:20260902T210000Z
+DTSTART:20260909T210000Z
 SUMMARY:Builder's Club
-UID:61664d22a174c265c6b9f88d1c999413@mke_events.local
-URL:https://mpl.libnet.info/event/16856869
+UID:ba5d6c1b3e10689bb1cbd0793bba35da@mke_events.local
+URL:https://mpl.libnet.info/event/16856870
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Discover the North Shore\n\nLink: https://discoverthenorthshoremke.com/event/music-bingo-at-sprecher-brewery/
+DESCRIPTION:Source: Discover the North Shore\n\nLink: https://discoverthenorthshoremke.com/event/trivia-night-at-stone-creek-coffee/
 DURATION:PT2H
-LOCATION:Sprecher Brewery
-DTSTART:20260904T230000Z
-SUMMARY:Music Bingo at Sprecher Brewery
-UID:b6136c23801f476335505bf01300e23d@mke_events.local
-URL:https://discoverthenorthshoremke.com/event/music-bingo-at-sprecher-brewery/
+LOCATION:Stone Creek Coffee Whitefish Bay
+DTSTART:20260907T230000Z
+SUMMARY:Trivia Night at Stone Creek Coffee
+UID:89e402c41ab8db26375507a40781d4a0@mke_events.local
+URL:https://discoverthenorthshoremke.com/event/trivia-night-at-stone-creek-coffee/
 END:VEVENT
 END:VCALENDAR
