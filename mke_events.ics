@@ -2,12 +2,22 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260912
-DESCRIPTION:Source: Discover the North Shore\n\nLink: https://discoverthenorthshoremke.com/event/tour-de-taps-2026/
-LOCATION:Estabrook Park
-SUMMARY:Tour de Taps 2026
-UID:8ed70e2ddc7b75534724797aa4d2ad54@mke_events.local
-URL:https://discoverthenorthshoremke.com/event/tour-de-taps-2026/
+DESCRIPTION:Source: Milwaukee Public Library\nJoin us for Teen Makers Art Cafe! Get inspired to create a new art project each month. Get your craft on while enjoying light refreshments and meeting new friends....\n\nLink: https://mpl.libnet.info/event/16615321
+DURATION:PT2H
+LOCATION:Bay View Branch - Llewellyn Community Room
+DTSTART:20260915T210000Z
+SUMMARY:Teen Makers Art Cafe
+UID:5e08e59973a70a93825512e5cda91f68@mke_events.local
+URL:https://mpl.libnet.info/event/16615321
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee Public Library\nMakerspace activity exploration and stories for ages 2-6...\n\nLink: https://mpl.libnet.info/event/16711948
+DURATION:PT2H
+LOCATION:Martin Luther King Branch - Community Room
+DTSTART:20260918T153000Z
+SUMMARY:Mini Makers
+UID:26cc4e55e8e678ac56e51d05dfe8441f@mke_events.local
+URL:https://mpl.libnet.info/event/16711948
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: Milwaukee Public Library\nA monthly craft program for older adults. Come for the crafts\, stay for the community!...\n\nLink: https://mpl.libnet.info/event/16957304
@@ -19,127 +29,126 @@ UID:7b8e29e28a91dcd9b5feff3878716a76@mke_events.local
 URL:https://mpl.libnet.info/event/16957304
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nLearn simple computer science\, while making your own personalized keychain. Use pony beads to create your own binary code based on your initials....\n\nLink: https://mpl.libnet.info/event/16586970
+DESCRIPTION:Source: Milwaukee Public Library\nBring your projects for a monthly social fiber arts get-together! All experience levels encouraged. We welcome knitting\, crochet\, tatting\, sewing\, mending or other fiber-related projects....\n\nLink: https://mpl.libnet.info/event/16819408
 DURATION:PT2H
-LOCATION:Capitol Branch - Community Room
-DTSTART:20260910T210000Z
-SUMMARY:Binary Code Keychains
-UID:d304f0424e2d46668e52efd5ba4cce1a@mke_events.local
-URL:https://mpl.libnet.info/event/16586970
+LOCATION:Tippecanoe Branch - Community Room\, Gift of Heather Hurley
+DTSTART:20260917T214500Z
+SUMMARY:Fiber Arts with Friends
+UID:64f7c70bfd350453c97b6e2d60406a62@mke_events.local
+URL:https://mpl.libnet.info/event/16819408
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Market\n\nLink: https://milwaukeepublicmarket.org/events/free-yoga-at-riverwalk-park-6
+DESCRIPTION:Source: Milwaukee Public Library\nCome make your own keychain to add a unique statement to your own backpack!...\n\nLink: https://mpl.libnet.info/event/16677774
 DURATION:PT2H
-LOCATION:Milwaukee Public Market\, 400 N. Water Street\, Milwaukee\, WI 53202
-DTSTART:20260912T140000Z
-SUMMARY:Free Yoga at Riverwalk Park
-UID:b372b616f05221da446512b638aa83a4@mke_events.local
-URL:https://milwaukeepublicmarket.org/events/free-yoga-at-riverwalk-park-6
+LOCATION:East Branch - Community Room\, Gift of Lucile Krug
+DTSTART:20260916T203000Z
+SUMMARY:Back-to-School Backpack Charms
+UID:d6d557d599f4935841fb4ca3208ab1ce@mke_events.local
+URL:https://mpl.libnet.info/event/16677774
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nPin your personality! Design and press a one-of-a-kind button to wear or share....\n\nLink: https://mpl.libnet.info/event/16366473
+DESCRIPTION:Source: Milwaukee Public Library\nCome build with us! We'll supply a variety of building materials and you'll bring the creativity. Meet friends and see what you can create together. Held in the children's room....\n\nLink: https://mpl.libnet.info/event/17283678
 DURATION:PT2H
-LOCATION:Martin Luther King Branch - Study Room 117
-DTSTART:20260908T210000Z
-SUMMARY:Push the Button
-UID:e680685ff62c36c16feb3c65a44404d4@mke_events.local
-URL:https://mpl.libnet.info/event/16366473
+LOCATION:Center Street Branch - Other - See description for location
+DTSTART:20260914T200000Z
+SUMMARY:Builders Club
+UID:db808e7c76997df770f49749263aa9da@mke_events.local
+URL:https://mpl.libnet.info/event/17283678
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nCalling all makers and artists! Do you love creating? Want to try to learn a new skill but don't know where to start? Join us for a monthly maker session to try a new creative outlet each month!...\n\nLink: https://mpl.libnet.info/event/16883161
+DESCRIPTION:Source: Milwaukee Public Library\nDrop by the children's room to play a game\, make a craft\, hear about great new books\, and meet children's librarian Liz!...\n\nLink: https://mpl.libnet.info/event/16585167
 DURATION:PT2H
-LOCATION:Central Library - Children's Herzfeld Activity Center
-DTSTART:20260908T210000Z
-SUMMARY:Monthly Makers
-UID:861430ef58abbf702601f9288ace8593@mke_events.local
-URL:https://mpl.libnet.info/event/16883161
+LOCATION:Bay View Branch - Other - See description for location
+DTSTART:20260917T203000Z
+SUMMARY:Read\, Play\, Create!
+UID:3fe9757bd9dd3545c0d800a270df8b9e@mke_events.local
+URL:https://mpl.libnet.info/event/16585167
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nEnjoy a tour of the library's Green Roof!...\n\nLink: https://mpl.libnet.info/event/15995288
+DESCRIPTION:Source: Milwaukee Public Library\nLet's work together on the farm! We will pretend to be farmers as we plant\, care for\, and pick our harvest. Then\, we'll sell the fruits and vegetables to customers at our farmer's market....\n\nLink: https://mpl.libnet.info/event/16393286
 DURATION:PT2H
-LOCATION:Central Library - Green Roof
-DTSTART:20260912T183000Z
-SUMMARY:Green Roof Tour
-UID:81e905b83872f87d6cb2d41edd153196@mke_events.local
-URL:https://mpl.libnet.info/event/15995288
+LOCATION:Tippecanoe Branch - Community Room\, Gift of Heather Hurley
+DTSTART:20260918T153000Z
+SUMMARY:Family Play and Learn - Down on the Farm
+UID:8f0f9f4cab245b66ca999cc356013f6c@mke_events.local
+URL:https://mpl.libnet.info/event/16393286
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nSponsored and staffed by The Friends of the MPL volunteers\, the very popular quarterly Book Sales feature thousands of books marked down to bargain prices....\n\nLink: https://mpl.libnet.info/event/17178732
+DESCRIPTION:Source: Milwaukee Public Library\nShow off your style in this hands-on workshop where you'll customize your own sneakers with creative techniques and materials....\n\nLink: https://mpl.libnet.info/event/16788460
 DURATION:PT2H
-LOCATION:Central Library - Other - See description for location
-DTSTART:20260911T180000Z
-SUMMARY:Fall 2026 Friends of MPL Used Book Sale
-UID:8d3af3e510e9d21cf6ef3169e157df4f@mke_events.local
-URL:https://mpl.libnet.info/event/17178732
+LOCATION:Atkinson Branch - Community Room
+DTSTART:20260919T190000Z
+SUMMARY:Customize Your Kicks
+UID:39b161ef7b3de74758b3b3634a869ba6@mke_events.local
+URL:https://mpl.libnet.info/event/16788460
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260909
-DESCRIPTION:Source: Discover the North Shore\n\nLink: https://discoverthenorthshoremke.com/event/estabrook-park-wildlife-photography/
-LOCATION:Glendale Senior Citizens’ Clubroom
-SUMMARY:Estabrook Park Wildlife Photography
-UID:152cda4b5c98be338b2ec4ba4b481d9a@mke_events.local
-URL:https://discoverthenorthshoremke.com/event/estabrook-park-wildlife-photography/
+DTSTART;VALUE=DATE:20260919
+DESCRIPTION:Source: Discover the North Shore\n\nLink: https://discoverthenorthshoremke.com/event/brown-deer-k9-cornhole-tournament/
+SUMMARY:Brown Deer K9 Cornhole Tournament
+UID:4b9e356037e5a198aa37635d312abcd4@mke_events.local
+URL:https://discoverthenorthshoremke.com/event/brown-deer-k9-cornhole-tournament/
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nListed on the National Register of Historic Places\, Central Library has many significant architectural features. Join a Docent Tour Guide as they share the splendor of Central Library's past!...\n\nLink: https://mpl.libnet.info/event/15546392
+DESCRIPTION:Source: Milwaukee Public Library\nCome build with us! We'll supply a variety of building materials and you'll bring the creativity. Meet friends and see what you can create together. Held in the children's room....\n\nLink: https://mpl.libnet.info/event/17283679
 DURATION:PT2H
-LOCATION:Central Library - Central Library Tours
-DTSTART:20260912T160000Z
-SUMMARY:Central Library Architectural Tour
-UID:3e90387d6f89790780f2f028668e56a5@mke_events.local
-URL:https://mpl.libnet.info/event/15546392
+LOCATION:Center Street Branch - Other - See description for location
+DTSTART:20260921T200000Z
+SUMMARY:Builders Club
+UID:b6d544ee9f3cd2541737bebd74cd924b@mke_events.local
+URL:https://mpl.libnet.info/event/17283679
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Discover the North Shore\n\nLink: https://discoverthenorthshoremke.com/event/americas-pub-quiz-trivia-monday-nights/
+DESCRIPTION:Source: Milwaukee Public Library\nCome play\, create\, and compete using LEGO® bricks at the Zablocki Library! Budding builders and expert architects alike are welcome. Bring or make a friend as we build together at LEGO® League!...\n\nLink: https://mpl.libnet.info/event/16567975
 DURATION:PT2H
-LOCATION:Estabrook Park
-DTSTART:20260907T230000Z
-SUMMARY:America's Pub Quiz Trivia- Monday Nights
-UID:776ed02f5fe5754a29e663e87527eaa9@mke_events.local
-URL:https://discoverthenorthshoremke.com/event/americas-pub-quiz-trivia-monday-nights/
+LOCATION:Zablocki Branch - Children's Area
+DTSTART:20260919T190000Z
+SUMMARY:LEGO® League
+UID:954c8c4b8d61e8d8fa1c3557387fff7f@mke_events.local
+URL:https://mpl.libnet.info/event/16567975
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260912
-DESCRIPTION:Source: Discover the North Shore\n\nLink: https://discoverthenorthshoremke.com/event/fox-point-farmers-market-september-12/
-LOCATION:North Shore Congregational Church
-SUMMARY:Fox Point Farmers' Market- September 12
-UID:2eac97097d667b39fd95fae21fbe5de9@mke_events.local
-URL:https://discoverthenorthshoremke.com/event/fox-point-farmers-market-september-12/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nThe Makerspaces are back with a bang and joining in on the back-to-school festivities all month long....\n\nLink: https://mpl.libnet.info/event/17308102
+DESCRIPTION:Source: Milwaukee Public Library\nJoin us once a month for an evening of crafting! This month we will be decorating Ceramic Sugar Skulls in celebration of Hispanic Heritage Month....\n\nLink: https://mpl.libnet.info/event/16712246
 DURATION:PT2H
-LOCATION:Martin Luther King Branch - Makerspace
-DTSTART:20260914T203000Z
-SUMMARY:Open Maker Time: Back with a Bang
-UID:d955131a58bae5933d0696c155a18b79@mke_events.local
-URL:https://mpl.libnet.info/event/17308102
+LOCATION:Zablocki Branch - Community Room
+DTSTART:20260921T230000Z
+SUMMARY:Crafty Adults @ Zablocki - Ceramic Sugar Skulls
+UID:22e865f92dc22d00d1902d74f45f2ee7@mke_events.local
+URL:https://mpl.libnet.info/event/16712246
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nCrafternoon is a time for you to learn a new craft\, try out new art supplies\, and learn new techniques for creative expression!...\n\nLink: https://mpl.libnet.info/event/16976284
-DURATION:PT2H
-LOCATION:Center Street Branch - Conference Room
-DTSTART:20260910T200000Z
-SUMMARY:Crafteroon
-UID:974e6e501f5841664f538b8cf921ce4c@mke_events.local
-URL:https://mpl.libnet.info/event/16976284
+DTSTART;VALUE=DATE:20260919
+DESCRIPTION:Source: Discover the North Shore\n\nLink: https://discoverthenorthshoremke.com/event/pio-paws-garden-adventure/
+LOCATION:Lynden Sculpture Garden
+SUMMARY:Pio Paws Garden Adventure
+UID:6ab27e477707286601a9b5b10876b9e2@mke_events.local
+URL:https://discoverthenorthshoremke.com/event/pio-paws-garden-adventure/
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nCome build with us! We'll supply a variety of building materials and you'll bring the creativity. Meet friends and see what you can create together....\n\nLink: https://mpl.libnet.info/event/16856870
+DESCRIPTION:Source: Milwaukee Public Library\nCelebrate Hispanic Heritage Month by creating a vibrant yarn-painting inspired by the Nierikas or sacred yarn paintings of the Huichol people of Mexico....\n\nLink: https://mpl.libnet.info/event/16573589
 DURATION:PT2H
-LOCATION:Central Library - Children's Room - Back Area
-DTSTART:20260909T210000Z
-SUMMARY:Builder's Club
-UID:ba5d6c1b3e10689bb1cbd0793bba35da@mke_events.local
-URL:https://mpl.libnet.info/event/16856870
+LOCATION:Villard Square Branch - Community Room
+DTSTART:20260915T213000Z
+SUMMARY:Huichol Yarn Painting
+UID:6860d3c4eeff913ede53305f729fea81@mke_events.local
+URL:https://mpl.libnet.info/event/16573589
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Discover the North Shore\n\nLink: https://discoverthenorthshoremke.com/event/trivia-night-at-stone-creek-coffee/
+DESCRIPTION:Source: Milwaukee Public Library\nChildren ages 2 to 10 are invited to run\, kick\, jump\, and read at the library with the Special Olympics Young Athletes Program!...\n\nLink: https://mpl.libnet.info/event/17392922
 DURATION:PT2H
-LOCATION:Stone Creek Coffee Whitefish Bay
-DTSTART:20260907T230000Z
-SUMMARY:Trivia Night at Stone Creek Coffee
-UID:89e402c41ab8db26375507a40781d4a0@mke_events.local
-URL:https://discoverthenorthshoremke.com/event/trivia-night-at-stone-creek-coffee/
+LOCATION:Martin Luther King Branch - Children's Area
+DTSTART:20260919T143000Z
+SUMMARY:Special Olympics Young Athletes
+UID:1a51532cfecae6cd0ee8ceafa34bc81d@mke_events.local
+URL:https://mpl.libnet.info/event/17392922
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee Public Library\nBuild\, create and play at the Zablocki Library every Wednesday afternoon after school!...\n\nLink: https://mpl.libnet.info/event/16568009
+DURATION:PT2H
+LOCATION:Zablocki Branch - Children's Area
+DTSTART:20260916T193000Z
+SUMMARY:Midweek Makers
+UID:c73456cb5916fc03238518785dae52ad@mke_events.local
+URL:https://mpl.libnet.info/event/16568009
 END:VEVENT
 END:VCALENDAR
