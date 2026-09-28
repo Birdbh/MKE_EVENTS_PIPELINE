@@ -2,163 +2,127 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260926
-DESCRIPTION:Source: Milwaukee Public Library\nCar Crash Tragedies is a community art project and memorial to loved ones lost to traffic violence in our community and bring healing to survivors\, while inspiring everyone to act for safer streets....\n\nLink: https://mpl.libnet.info/event/17399483
-LOCATION:Central Library - Main Street - First Floor
-SUMMARY:Patches of Peace: A Community Quilt of Love\, Memory and Hope - Traveling Exhibit
-UID:6affe3526559fbfe2026285cfbf5239d@mke_events.local
-URL:https://mpl.libnet.info/event/17399483
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260927
-DESCRIPTION:Source: Milwaukee Public Library\nCar Crash Tragedies is a community art project and memorial to loved ones lost to traffic violence in our community and bring healing to survivors\, while inspiring everyone to act for safer streets....\n\nLink: https://mpl.libnet.info/event/17399484
-LOCATION:Central Library - Main Street - First Floor
-SUMMARY:Patches of Peace: A Community Quilt of Love\, Memory and Hope - Traveling Exhibit
-UID:2c523470675974c7243a6d8c6ffa7717@mke_events.local
-URL:https://mpl.libnet.info/event/17399484
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260923
-DESCRIPTION:Source: Discover the North Shore\n\nLink: https://discoverthenorthshoremke.com/event/teacher-fest-2026/
-LOCATION:Schlitz Audubon Nature Center
-SUMMARY:Teacher Fest 2026
-UID:cf51325ec9346f5738d89885bf012196@mke_events.local
-URL:https://discoverthenorthshoremke.com/event/teacher-fest-2026/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nChildren ages 2 to 10 are invited to run\, kick\, jump\, and read at the library during this 8-week Special Olympics Young Athletes Program....\n\nLink: https://mpl.libnet.info/event/16675925
+DESCRIPTION:Source: Milwaukee Public Library\nThe Makerspaces are back with a bang and joining in on the back-to-school festivities all month long....\n\nLink: https://mpl.libnet.info/event/17308110
 DURATION:PT2H
-LOCATION:Good Hope Branch - Community Room
-DTSTART:20260926T143000Z
-SUMMARY:Special Olympics Young Athletes
-UID:0ec07237042ae3b63e55f742f7027a9e@mke_events.local
-URL:https://mpl.libnet.info/event/16675925
+LOCATION:Martin Luther King Branch - Makerspace
+DTSTART:20260929T203000Z
+SUMMARY:Open Maker Time: Back with a Bang
+UID:ad9061c1f780c40dc3428fe945a67b57@mke_events.local
+URL:https://mpl.libnet.info/event/17308110
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260925
+DESCRIPTION:Source: Milwaukee Public Library\nCome build with us! We'll supply a variety of building materials and you'll bring the creativity. Meet friends and see what you can create together. Held in the children's room....\n\nLink: https://mpl.libnet.info/event/17283681
+DURATION:PT2H
+LOCATION:Center Street Branch - Other - See description for location
+DTSTART:20261005T200000Z
+SUMMARY:Builders Club
+UID:a34f4614f1d3720284e52e1b1cf9f3b8@mke_events.local
+URL:https://mpl.libnet.info/event/17283681
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee Public Market\n\nLink: https://milwaukeepublicmarket.org/events/masquerade-murder-mystery-dinner-with-chef-adam-pawlak
+DURATION:PT2H
+LOCATION:Milwaukee Public Market\, 400 N. Water Street\, Milwaukee\, WI 53202
+DTSTART:20261003T234500Z
+SUMMARY:Masquerade Murder Mystery Dinner with Chef Adam Pawlak
+UID:01a5f6e6ba4df4a8496090ba0496626b@mke_events.local
+URL:https://milwaukeepublicmarket.org/events/masquerade-murder-mystery-dinner-with-chef-adam-pawlak
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee Public Library\nGame\, snack\, hang. Bring a friend to your local library to decompress!...\n\nLink: https://mpl.libnet.info/event/16814264
+DURATION:PT2H
+LOCATION:Martin Luther King Branch - Study Room 115 and 117
+DTSTART:20261002T203000Z
+SUMMARY:Teen Zone
+UID:58dd410548f339946b04f80d66506f8e@mke_events.local
+URL:https://mpl.libnet.info/event/16814264
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee Public Library\nEnjoy a chance to visit and be crafty with other adults. This summer the focus will be on using recycled materials to create arts and crafts\, but you can always bring your own projects....\n\nLink: https://mpl.libnet.info/event/17089216
+DURATION:PT2H
+LOCATION:Capitol Branch - Community Room
+DTSTART:20261001T180000Z
+SUMMARY:Crafting Club
+UID:f38ae2b5b06bead802f1785386bac30b@mke_events.local
+URL:https://mpl.libnet.info/event/17089216
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee Public Library\nCome build with us! We'll supply a variety of building materials and you'll bring the creativity. Meet friends and see what you can create together. Held in the children's room....\n\nLink: https://mpl.libnet.info/event/17283680
+DURATION:PT2H
+LOCATION:Center Street Branch - Other - See description for location
+DTSTART:20260928T200000Z
+SUMMARY:Builders Club
+UID:653c1970f5537630b22c4f28f3e4f905@mke_events.local
+URL:https://mpl.libnet.info/event/17283680
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee Public Library\nLearn about and make a paper arpillera using various materials to celebrate National Hispanic Heritage Month....\n\nLink: https://mpl.libnet.info/event/16835291
+DURATION:PT2H
+LOCATION:Zablocki Branch - Community Room
+DTSTART:20260929T203000Z
+SUMMARY:Arpillera Art
+UID:69f44a0a3ee005398c64e5cfab0eeed3@mke_events.local
+URL:https://mpl.libnet.info/event/16835291
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee Public Library\nBuild\, create and play at the Zablocki Library every Wednesday afternoon after school!...\n\nLink: https://mpl.libnet.info/event/16568011
+DURATION:PT2H
+LOCATION:Zablocki Branch - Children's Area
+DTSTART:20260930T193000Z
+SUMMARY:Midweek Makers
+UID:9a0650174724ca7510e4b7e125b68a34@mke_events.local
+URL:https://mpl.libnet.info/event/16568011
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261003
+DESCRIPTION:Source: Discover the North Shore\n\nLink: https://discoverthenorthshoremke.com/event/fox-point-beer-garden-october-3/
+LOCATION:Longacre Skating Pavilion
+SUMMARY:Fox Point Beer Garden- October 3
+UID:cf56f22d4bbc2df88b6fa090a891c69b@mke_events.local
+URL:https://discoverthenorthshoremke.com/event/fox-point-beer-garden-october-3/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261002
 DESCRIPTION:Source: Discover the North Shore\n\nLink: https://discoverthenorthshoremke.com/event/milwaukee-original-oktoberfest/
 LOCATION:The Bavarian Bierhaus
 SUMMARY:Milwaukee' Original Oktoberfest
-UID:0a33ca09e4faa8b8cdebb14893490bac@mke_events.local
+UID:99962380a10a4791d5d02730be7038e8@mke_events.local
 URL:https://discoverthenorthshoremke.com/event/milwaukee-original-oktoberfest/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260926
-DESCRIPTION:Source: Discover the North Shore\n\nLink: https://discoverthenorthshoremke.com/event/whitefish-bay-farmers-market-september-26/
-LOCATION:Whitefish Bay Farmers Market
-SUMMARY:Dogs Rule at the Whitefish Bay Farmers Market: September 26
-UID:bbbccaa2e23e95614b3592abe3bd2394@mke_events.local
-URL:https://discoverthenorthshoremke.com/event/whitefish-bay-farmers-market-september-26/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Discover the North Shore\n\nLink: https://discoverthenorthshoremke.com/event/brown-deer-farmers-market-wednesdays-june-24-october-14/
+DESCRIPTION:Source: Milwaukee Public Library\nA monthly craft program for older adults. Come for the crafts\, stay for the community!...\n\nLink: https://mpl.libnet.info/event/16957586
 DURATION:PT2H
-LOCATION:Brown Deer Village Park & Pond
-DTSTART:20260923T150000Z
-SUMMARY:Brown Deer Farmers' Market- Wednesdays- June 24-October 14
-UID:fa6f2306317d4e02202fed8ec73dac4a@mke_events.local
-URL:https://discoverthenorthshoremke.com/event/brown-deer-farmers-market-wednesdays-june-24-october-14/
+LOCATION:Bay View Branch - Llewellyn Community Room
+DTSTART:20261005T180000Z
+SUMMARY:Crafting Connections - Spooky Wine Cork Decor
+UID:2f92a9f2887c211f9d63f494ac32e602@mke_events.local
+URL:https://mpl.libnet.info/event/16957586
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nAnnual Doors Open event - behind the scenes tours...\n\nLink: https://mpl.libnet.info/event/17306480
+DESCRIPTION:Source: Milwaukee Public Library\nThe Makerspaces are Back With a Bang and joining in on the back-to-school festivities all month long....\n\nLink: https://mpl.libnet.info/event/17219536
 DURATION:PT2H
-LOCATION:Central Library - Other - See description for location
-DTSTART:20260927T150000Z
-SUMMARY:Doors Open - Central Library - Multiple tours at Central Library
-UID:6e5f9f21aa1e5e8d673820a562f3ebb4@mke_events.local
-URL:https://mpl.libnet.info/event/17306480
+LOCATION:Martin Luther King Branch - Makerspace
+DTSTART:20260930T203000Z
+SUMMARY:Open Maker Time: Back with a Bang
+UID:43319c3b5e76ff33d12c43a6ded5aa64@mke_events.local
+URL:https://mpl.libnet.info/event/17219536
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260922
-DESCRIPTION:Source: Milwaukee Public Library\nCar Crash Tragedies is a community art project and memorial to loved ones lost to traffic violence in our community and bring healing to survivors\, while inspiring everyone to act for safer streets....\n\nLink: https://mpl.libnet.info/event/17399479
-LOCATION:Central Library - Main Street - First Floor
-SUMMARY:Patches of Peace: A Community Quilt of Love\, Memory and Hope - Traveling Exhibit
-UID:f5b04a6df25a1cf24a6c50b05b12e7c2@mke_events.local
-URL:https://mpl.libnet.info/event/17399479
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260921
-DESCRIPTION:Source: Discover the North Shore\n\nLink: https://discoverthenorthshoremke.com/event/heart-2-heart-compassionate-widows-circle-tea-talk-series-2/
-LOCATION:Hildebrand Law Firm\, LLC
-SUMMARY:Heart 2 Heart Compassionate Widow's Circle Tea Talk Series
-UID:6d5ca15467a182a893b816bfc9f5e436@mke_events.local
-URL:https://discoverthenorthshoremke.com/event/heart-2-heart-compassionate-widows-circle-tea-talk-series-2/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nA Goodwill Consultant will be available to provide job search assistance\, resume-building help\, and interview preparation....\n\nLink: https://mpl.libnet.info/event/16871564
+DESCRIPTION:Source: Milwaukee Public Library\nDrop by the children's room to play a game\, make a craft\, hear about great new books\, and meet children's librarian Liz!...\n\nLink: https://mpl.libnet.info/event/16585169
 DURATION:PT2H
-LOCATION:Central Library - Innovation and Learning Lab
-DTSTART:20260928T180000Z
-SUMMARY:Job Search and Resume Assistance - Provided by Goodwill Workforce Connection Center
-UID:c5019a2fa0ebc4de677eaefc4f79ec63@mke_events.local
-URL:https://mpl.libnet.info/event/16871564
+LOCATION:Bay View Branch
+DTSTART:20261001T203000Z
+SUMMARY:Read\, Play\, Create!
+UID:e75b8900f7023e93de23e796e37ed194@mke_events.local
+URL:https://mpl.libnet.info/event/16585169
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260924
-DESCRIPTION:Source: Discover the North Shore\n\nLink: https://discoverthenorthshoremke.com/event/st-christophers-episcopal-church-blood-drive/
-LOCATION:St. Christopher’s Episcopal Church
-SUMMARY:St. Christopher's Episcopal Church Blood Drive
-UID:2232b2492c56afa3fbd596502e526166@mke_events.local
-URL:https://discoverthenorthshoremke.com/event/st-christophers-episcopal-church-blood-drive/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Discover the North Shore\n\nLink: https://discoverthenorthshoremke.com/event/trivia-night-at-stone-creek-coffee/
+DESCRIPTION:Source: Milwaukee Public Library\nThe Makerspaces are back with a bang and joining in on the back-to-school festivities all month long....\n\nLink: https://mpl.libnet.info/event/17308104
 DURATION:PT2H
-LOCATION:Stone Creek Coffee Whitefish Bay
-DTSTART:20260921T230000Z
-SUMMARY:Trivia Night at Stone Creek Coffee
-UID:b101febd09a4a6d730e48712c19355e9@mke_events.local
-URL:https://discoverthenorthshoremke.com/event/trivia-night-at-stone-creek-coffee/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260928
-DESCRIPTION:Source: Milwaukee Public Library\nCar Crash Tragedies is a community art project and memorial to loved ones lost to traffic violence in our community and bring healing to survivors\, while inspiring everyone to act for safer streets....\n\nLink: https://mpl.libnet.info/event/17399485
-LOCATION:Central Library - Main Street - First Floor
-SUMMARY:Patches of Peace: A Community Quilt of Love\, Memory and Hope - Traveling Exhibit
-UID:6375ec5d4ee0d03437597912079403e5@mke_events.local
-URL:https://mpl.libnet.info/event/17399485
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nA 20-minute story time for young children is followed by open play time. For children ages 3 and under\, with a caregiver....\n\nLink: https://mpl.libnet.info/event/16839861
-DURATION:PT2H
-LOCATION:Central Library - Children's Herzfeld Activity Center
-DTSTART:20260922T153000Z
-SUMMARY:Story Time and Play Group
-UID:0e0355ee24e1ae50edcd948f10acd8bb@mke_events.local
-URL:https://mpl.libnet.info/event/16839861
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Discover the North Shore\n\nLink: https://discoverthenorthshoremke.com/event/music-bingo-at-sprecher-brewery/
-DURATION:PT2H
-LOCATION:Sprecher Brewery
-DTSTART:20260925T230000Z
-SUMMARY:Music Bingo at Sprecher Brewery
-UID:262da14a225e2ab7a51aadee945ac7b7@mke_events.local
-URL:https://discoverthenorthshoremke.com/event/music-bingo-at-sprecher-brewery/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nPractice mindfulness through a variety of physical yoga poses\, breath practices\, stories and games. For ages 2-7 with caregiver. Please bring one yoga mat per participant\, if possible....\n\nLink: https://mpl.libnet.info/event/16840309
-DURATION:PT2H
-LOCATION:Tippecanoe Branch - Community Room\, Gift of Heather Hurley
-DTSTART:20260926T150000Z
-SUMMARY:Family Yoga with Cultivate Yoga MKE
-UID:babe099cd267e0f95a2be0cfbaa620e9@mke_events.local
-URL:https://mpl.libnet.info/event/16840309
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260926
-DESCRIPTION:Source: Discover the North Shore\n\nLink: https://discoverthenorthshoremke.com/event/fox-point-farmers-market-september-26/
-LOCATION:North Shore Congregational Church
-SUMMARY:Fox Point Farmers' Market- September 26
-UID:2031dfa3d4df48bb430ffa80662c4183@mke_events.local
-URL:https://discoverthenorthshoremke.com/event/fox-point-farmers-market-september-26/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260924
-DESCRIPTION:Source: Discover the North Shore\n\nLink: https://discoverthenorthshoremke.com/event/north-shore-chamber-of-commerce-annual-awards-banquet/
-LOCATION:Four Points Sheraton Milwaukee North Shore
-SUMMARY:North Shore Chamber of Commerce's Annual Awards Banquet
-UID:4067ec5a527bcd7dc1218f9d69b9c9e9@mke_events.local
-URL:https://discoverthenorthshoremke.com/event/north-shore-chamber-of-commerce-annual-awards-banquet/
+LOCATION:Martin Luther King Branch - Makerspace
+DTSTART:20260928T203000Z
+SUMMARY:Open Maker Time: Back with a Bang
+UID:ffd26b8910e0fe6ccd09a9fe374762fc@mke_events.local
+URL:https://mpl.libnet.info/event/17308104
 END:VEVENT
 END:VCALENDAR
