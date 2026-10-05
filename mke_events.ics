@@ -2,13 +2,31 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nThe Makerspaces are back with a bang and joining in on the back-to-school festivities all month long....\n\nLink: https://mpl.libnet.info/event/17308110
+DESCRIPTION:Source: Milwaukee Public Library\nLooking for something to do on a Sunday afternoon? Come to the Tippecanoe Branch and find a game to play!...\n\nLink: https://mpl.libnet.info/event/16816763
 DURATION:PT2H
-LOCATION:Martin Luther King Branch - Makerspace
-DTSTART:20260929T203000Z
-SUMMARY:Open Maker Time: Back with a Bang
-UID:ad9061c1f780c40dc3428fe945a67b57@mke_events.local
-URL:https://mpl.libnet.info/event/17308110
+LOCATION:Tippecanoe Branch - Community Room\, Gift of Heather Hurley
+DTSTART:20261011T180000Z
+SUMMARY:Games on Sundays at Tippe!
+UID:ea349f972e51c8376384a420610c05a3@mke_events.local
+URL:https://mpl.libnet.info/event/16816763
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee Public Library\nLearn a variety of simple but creative story time props to develop early literacy skills that can be made using open-access online finds and some recyclables....\n\nLink: https://mpl.libnet.info/event/14948384
+DURATION:PT2H
+LOCATION:Martin Luther King Branch - Community Room
+DTSTART:20261010T150000Z
+SUMMARY:Teaching with Hidden Treasures - Martin Luther King
+UID:6ddc9838f5a913f2ef093859c597bb93@mke_events.local
+URL:https://mpl.libnet.info/event/14948384
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee Public Library\nJoin us at the beautiful Central Library for yoga and fellowship. Registration is encouraged. Walk-ins welcome....\n\nLink: https://mpl.libnet.info/event/17102419
+DURATION:PT2H
+LOCATION:Central Library - Rotary Club of Milwaukee Community Room
+DTSTART:20261008T153000Z
+SUMMARY:Chair Yoga - Yoga Class Suitable For People Of All Abilities
+UID:895438c1224bf27ab765fc139e7e7543@mke_events.local
+URL:https://mpl.libnet.info/event/17102419
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: Milwaukee Public Library\nCome build with us! We'll supply a variety of building materials and you'll bring the creativity. Meet friends and see what you can create together. Held in the children's room....\n\nLink: https://mpl.libnet.info/event/17283681
@@ -20,74 +38,22 @@ UID:a34f4614f1d3720284e52e1b1cf9f3b8@mke_events.local
 URL:https://mpl.libnet.info/event/17283681
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Market\n\nLink: https://milwaukeepublicmarket.org/events/masquerade-murder-mystery-dinner-with-chef-adam-pawlak
+DESCRIPTION:Source: Milwaukee Public Library\nCome build with us! We'll supply a variety of building materials and you'll bring the creativity. Meet friends and see what you can create together....\n\nLink: https://mpl.libnet.info/event/16922456
 DURATION:PT2H
-LOCATION:Milwaukee Public Market\, 400 N. Water Street\, Milwaukee\, WI 53202
-DTSTART:20261003T234500Z
-SUMMARY:Masquerade Murder Mystery Dinner with Chef Adam Pawlak
-UID:01a5f6e6ba4df4a8496090ba0496626b@mke_events.local
-URL:https://milwaukeepublicmarket.org/events/masquerade-murder-mystery-dinner-with-chef-adam-pawlak
+LOCATION:Villard Square Branch - Community Room
+DTSTART:20261012T200000Z
+SUMMARY:Builders Club
+UID:b4e6fb4ac44613c0fb5cab0a0a80dd0c@mke_events.local
+URL:https://mpl.libnet.info/event/16922456
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nGame\, snack\, hang. Bring a friend to your local library to decompress!...\n\nLink: https://mpl.libnet.info/event/16814264
-DURATION:PT2H
-LOCATION:Martin Luther King Branch - Study Room 115 and 117
-DTSTART:20261002T203000Z
-SUMMARY:Teen Zone
-UID:58dd410548f339946b04f80d66506f8e@mke_events.local
-URL:https://mpl.libnet.info/event/16814264
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nEnjoy a chance to visit and be crafty with other adults. This summer the focus will be on using recycled materials to create arts and crafts\, but you can always bring your own projects....\n\nLink: https://mpl.libnet.info/event/17089216
-DURATION:PT2H
-LOCATION:Capitol Branch - Community Room
-DTSTART:20261001T180000Z
-SUMMARY:Crafting Club
-UID:f38ae2b5b06bead802f1785386bac30b@mke_events.local
-URL:https://mpl.libnet.info/event/17089216
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nCome build with us! We'll supply a variety of building materials and you'll bring the creativity. Meet friends and see what you can create together. Held in the children's room....\n\nLink: https://mpl.libnet.info/event/17283680
+DESCRIPTION:Source: Milwaukee Public Library\nCome build with us! We'll supply a variety of building materials and you'll bring the creativity. Meet friends and see what you can create together. Held in the children's room....\n\nLink: https://mpl.libnet.info/event/17283682
 DURATION:PT2H
 LOCATION:Center Street Branch - Other - See description for location
-DTSTART:20260928T200000Z
+DTSTART:20261012T200000Z
 SUMMARY:Builders Club
-UID:653c1970f5537630b22c4f28f3e4f905@mke_events.local
-URL:https://mpl.libnet.info/event/17283680
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nLearn about and make a paper arpillera using various materials to celebrate National Hispanic Heritage Month....\n\nLink: https://mpl.libnet.info/event/16835291
-DURATION:PT2H
-LOCATION:Zablocki Branch - Community Room
-DTSTART:20260929T203000Z
-SUMMARY:Arpillera Art
-UID:69f44a0a3ee005398c64e5cfab0eeed3@mke_events.local
-URL:https://mpl.libnet.info/event/16835291
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nBuild\, create and play at the Zablocki Library every Wednesday afternoon after school!...\n\nLink: https://mpl.libnet.info/event/16568011
-DURATION:PT2H
-LOCATION:Zablocki Branch - Children's Area
-DTSTART:20260930T193000Z
-SUMMARY:Midweek Makers
-UID:9a0650174724ca7510e4b7e125b68a34@mke_events.local
-URL:https://mpl.libnet.info/event/16568011
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261003
-DESCRIPTION:Source: Discover the North Shore\n\nLink: https://discoverthenorthshoremke.com/event/fox-point-beer-garden-october-3/
-LOCATION:Longacre Skating Pavilion
-SUMMARY:Fox Point Beer Garden- October 3
-UID:cf56f22d4bbc2df88b6fa090a891c69b@mke_events.local
-URL:https://discoverthenorthshoremke.com/event/fox-point-beer-garden-october-3/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261002
-DESCRIPTION:Source: Discover the North Shore\n\nLink: https://discoverthenorthshoremke.com/event/milwaukee-original-oktoberfest/
-LOCATION:The Bavarian Bierhaus
-SUMMARY:Milwaukee' Original Oktoberfest
-UID:99962380a10a4791d5d02730be7038e8@mke_events.local
-URL:https://discoverthenorthshoremke.com/event/milwaukee-original-oktoberfest/
+UID:b4e6fb4ac44613c0fb5cab0a0a80dd0c@mke_events.local
+URL:https://mpl.libnet.info/event/17283682
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: Milwaukee Public Library\nA monthly craft program for older adults. Come for the crafts\, stay for the community!...\n\nLink: https://mpl.libnet.info/event/16957586
@@ -99,30 +65,126 @@ UID:2f92a9f2887c211f9d63f494ac32e602@mke_events.local
 URL:https://mpl.libnet.info/event/16957586
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nThe Makerspaces are Back With a Bang and joining in on the back-to-school festivities all month long....\n\nLink: https://mpl.libnet.info/event/17219536
+DESCRIPTION:Source: Milwaukee Public Library\nWalk together through Washington Park....\n\nLink: https://mpl.libnet.info/event/16946688
 DURATION:PT2H
-LOCATION:Martin Luther King Branch - Makerspace
-DTSTART:20260930T203000Z
-SUMMARY:Open Maker Time: Back with a Bang
-UID:43319c3b5e76ff33d12c43a6ded5aa64@mke_events.local
-URL:https://mpl.libnet.info/event/17219536
+LOCATION:Washington Park
+DTSTART:20261007T151500Z
+SUMMARY:Stepping Out Walking Club
+UID:abb481744b0ebb0c9b25f1b48c5f0315@mke_events.local
+URL:https://mpl.libnet.info/event/16946688
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nDrop by the children's room to play a game\, make a craft\, hear about great new books\, and meet children's librarian Liz!...\n\nLink: https://mpl.libnet.info/event/16585169
+DESCRIPTION:Source: Discover the North Shore\n\nLink: https://discoverthenorthshoremke.com/event/bayshore-fall-fest/
 DURATION:PT2H
-LOCATION:Bay View Branch
-DTSTART:20261001T203000Z
-SUMMARY:Read\, Play\, Create!
-UID:e75b8900f7023e93de23e796e37ed194@mke_events.local
-URL:https://mpl.libnet.info/event/16585169
+LOCATION:BAYSHORE
+DTSTART:20261010T160000Z
+SUMMARY:Bayshore Fall Fest
+UID:ee6f1a729698ba7dce21f2860d2665f8@mke_events.local
+URL:https://discoverthenorthshoremke.com/event/bayshore-fall-fest/
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nThe Makerspaces are back with a bang and joining in on the back-to-school festivities all month long....\n\nLink: https://mpl.libnet.info/event/17308104
+DESCRIPTION:Source: Milwaukee Public Library\nThe Makerspace is open in October for all of your cozy\, cute\, and creepy creations....\n\nLink: https://mpl.libnet.info/event/17310711
+DURATION:PT2H
+LOCATION:Washington Park Branch - Makerspace
+DTSTART:20261006T203000Z
+SUMMARY:Open Maker Time: Cozy\, Cute & Creepy
+UID:af5433f13b1d6533a6dd1b6d716225bc@mke_events.local
+URL:https://mpl.libnet.info/event/17310711
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee Public Library\nMake some Boba Tea style slime with us at the library! You will also get to try some real bubble tea and check out our Manga collection. Supplies are first come\, first served....\n\nLink: https://mpl.libnet.info/event/16573633
+DURATION:PT2H
+LOCATION:Villard Square Branch - Community Room
+DTSTART:20261009T213000Z
+SUMMARY:Boba Slime
+UID:5cd0ab3ed376358ab2d30baca9780744@mke_events.local
+URL:https://mpl.libnet.info/event/16573633
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee Public Library\nUse your creativity to create a fun\, unique and spooky pumpkin for Halloween!...\n\nLink: https://mpl.libnet.info/event/16921951
+DURATION:PT2H
+LOCATION:East Branch - Community Room\, Gift of Lucile Krug
+DTSTART:20261010T170000Z
+SUMMARY:Mini Pumpkin Painting
+UID:2fc8f68bc79b6eb03586d0c710c64ef1@mke_events.local
+URL:https://mpl.libnet.info/event/16921951
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261010
+DESCRIPTION:Source: Discover the North Shore\n\nLink: https://discoverthenorthshoremke.com/event/date-night-paint-sip/
+LOCATION:Vibez Creative Art Space
+SUMMARY:Date Night Paint & Sip
+UID:f88f00a6481d1e4378d0aced2461d2cd@mke_events.local
+URL:https://discoverthenorthshoremke.com/event/date-night-paint-sip/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Discover the North Shore\n\nLink: https://discoverthenorthshoremke.com/event/shorewood-farmers-market/
+DURATION:PT2H
+LOCATION:Estabrook Park
+DTSTART:20261011T143000Z
+SUMMARY:Shorewood Farmer's Market
+UID:d29f5ab89452d0d7c0aa9f816a3b9a4a@mke_events.local
+URL:https://discoverthenorthshoremke.com/event/shorewood-farmers-market/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee Public Library\nJoin us at Central library for a weekly walk. We will meet under the dome of the Central Library and take a two-mile loop through this historic neighborhood. The club meets rain or shine....\n\nLink: https://mpl.libnet.info/event/15705581
+DURATION:PT2H
+LOCATION:Central Library
+DTSTART:20261007T153000Z
+SUMMARY:Central Library Walking Club
+UID:ea14aa25de985ec3c1c109e48564050b@mke_events.local
+URL:https://mpl.libnet.info/event/15705581
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee Public Library\nLearn the art of making tortillas from scratch\, then add cheese to make your own quesadillas. Skilled cooks will guide you through the process of turning flour or masa (corn dough) into a meal....\n\nLink: https://mpl.libnet.info/event/16920894
+DURATION:PT2H
+LOCATION:Mitchell Street Branch - Cargill Community Kitchen\,Northwestern Mutual Foundation Studio M Makerspace
+DTSTART:20261010T190000Z
+SUMMARY:DIY Tortillas
+UID:338dd49ee33d99103dea856afc3f7598@mke_events.local
+URL:https://mpl.libnet.info/event/16920894
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee Public Library\nJoin the Milwaukee Public Library for a Walking Book Club at Havenwoods State Forest! Come for a relaxed walk through the trails while discussing what you are currently reading....\n\nLink: https://mpl.libnet.info/event/16633266
+DURATION:PT2H
+LOCATION:Havenwoods State Forest - Havenwoods Environmental Awareness Center
+DTSTART:20261008T150000Z
+SUMMARY:Havenwoods Walking Club - At Havenwoods State Forest
+UID:097116cb9b59bc57a8acf75025480bc4@mke_events.local
+URL:https://mpl.libnet.info/event/16633266
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Discover the North Shore\n\nLink: https://discoverthenorthshoremke.com/event/music-bingo-at-sprecher-brewery/
+DURATION:PT2H
+LOCATION:Sprecher Brewery
+DTSTART:20261009T230000Z
+SUMMARY:Music Bingo at Sprecher Brewery
+UID:f5d850e669bbc7c1e116611c8e0a70bd@mke_events.local
+URL:https://discoverthenorthshoremke.com/event/music-bingo-at-sprecher-brewery/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261011
+DESCRIPTION:Source: Milwaukee Public Library\nDo Androids Dream of Electric Cats is an interactive sculpture by the Steel Tigerlillies\, a Milwaukee-based metal arts collective....\n\nLink: https://mpl.libnet.info/event/17520990
+LOCATION:Central Library - Mozart's Grove
+SUMMARY:Do Androids Dream of Electric Cats - Sculpture Exhibit
+UID:b9ef9eef8d054fff7c237a4feda644ef@mke_events.local
+URL:https://mpl.libnet.info/event/17520990
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261011
+DESCRIPTION:Source: Discover the North Shore\n\nLink: https://discoverthenorthshoremke.com/event/midtoberfest/
+LOCATION:The Bavarian Bierhaus
+SUMMARY:Midtoberfest
+UID:fe90f9651c821a313de497cecf8d10b7@mke_events.local
+URL:https://discoverthenorthshoremke.com/event/midtoberfest/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee Public Library\nThe Makerspace is open in October for all of your cozy\, cute\, and creepy creations....\n\nLink: https://mpl.libnet.info/event/17308219
 DURATION:PT2H
 LOCATION:Martin Luther King Branch - Makerspace
-DTSTART:20260928T203000Z
-SUMMARY:Open Maker Time: Back with a Bang
-UID:ffd26b8910e0fe6ccd09a9fe374762fc@mke_events.local
-URL:https://mpl.libnet.info/event/17308104
+DTSTART:20261006T203000Z
+SUMMARY:Open Maker Time: Cozy\, Cute & Creepy
+UID:af5433f13b1d6533a6dd1b6d716225bc@mke_events.local
+URL:https://mpl.libnet.info/event/17308219
 END:VEVENT
 END:VCALENDAR
