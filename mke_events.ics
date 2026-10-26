@@ -2,57 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nCrafternoon is a time for you to learn a new craft\, try out new art supplies\, and learn new techniques for creative expression!...\n\nLink: https://mpl.libnet.info/event/16924482
+DESCRIPTION:Source: Milwaukee Public Library\nNo art skills? No problem! Bring your friends and/or loved one to make the most atrocious art you can out of random\, goofy supplies....\n\nLink: https://mpl.libnet.info/event/16549345
 DURATION:PT2H
-LOCATION:Center Street Branch - Conference Room
-DTSTART:20261022T203000Z
-SUMMARY:Crafternoon
-UID:9cd733d0e63c2bfc8937c1c3c312398c@mke_events.local
-URL:https://mpl.libnet.info/event/16924482
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nJoin a guest artist from Artists Working in Education for a family maker time project in the library makerspace....\n\nLink: https://mpl.libnet.info/event/17597078
-DURATION:PT2H
-LOCATION:Mitchell Street Branch - Northwestern Mutual Foundation Studio M Makerspace
-DTSTART:20261024T153000Z
-SUMMARY:Family Open Maker Time with Artists Working in Education
-UID:f8b31a9c7ca46c22d48e76ab48ce8794@mke_events.local
-URL:https://mpl.libnet.info/event/17597078
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nStop by the library to play in a new way! We will explore interactive stations with a shared theme designed to inspire creativity....\n\nLink: https://mpl.libnet.info/event/16686127
-DURATION:PT2H
-LOCATION:Center Street Branch - Conference Room
-DTSTART:20261024T180000Z
-SUMMARY:Pop-In Play
-UID:34fa16f40b178d270fda49d9669d0edb@mke_events.local
-URL:https://mpl.libnet.info/event/16686127
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261024
-DESCRIPTION:Source: Discover the North Shore\n\nLink: https://discoverthenorthshoremke.com/event/trick-or-treat-on-silver-spring-drive/
-LOCATION:E. Silver Spring Drive
-SUMMARY:Trick or Treat on Silver Spring Drive
-UID:35c0a3821478dac77beffce6676a05ff@mke_events.local
-URL:https://discoverthenorthshoremke.com/event/trick-or-treat-on-silver-spring-drive/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nThe Makerspace is open in October for all of your cozy\, cute\, and creepy creations....\n\nLink: https://mpl.libnet.info/event/17308078
-DURATION:PT2H
-LOCATION:Martin Luther King Branch - Makerspace
-DTSTART:20261021T203000Z
-SUMMARY:Open Maker Time: Cozy\, Cute & Creepy
-UID:11ccba70ea03f213abe4d697392c3691@mke_events.local
-URL:https://mpl.libnet.info/event/17308078
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nBuild\, create and play at the Zablocki Library every Wednesday afternoon after school!...\n\nLink: https://mpl.libnet.info/event/16568014
-DURATION:PT2H
-LOCATION:Zablocki Branch - Children's Area
-DTSTART:20261021T193000Z
-SUMMARY:Midweek Makers
-UID:9b49d44cee6f19b011c0b4e36472e08a@mke_events.local
-URL:https://mpl.libnet.info/event/16568014
+LOCATION:East Branch - Community Room\, Gift of Lucile Krug
+DTSTART:20261027T230000Z
+SUMMARY:Bad Art Night
+UID:3f80fe100bdcb72c35c812f108bb9b22@mke_events.local
+URL:https://mpl.libnet.info/event/16549345
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: Milwaukee Public Library\nKnit\, crochet\, embroider\, tat\, sew\, mend\, or work on other fiber-related projects in community....\n\nLink: https://mpl.libnet.info/event/16658342
@@ -64,13 +20,21 @@ UID:3fd611d33012f95aed9b6a95fc3e378b@mke_events.local
 URL:https://mpl.libnet.info/event/16658342
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nCome build with us! We'll supply a variety of building materials and you'll bring the creativity. Meet friends and see what you can create together. Held in the children's room....\n\nLink: https://mpl.libnet.info/event/17283683
+DESCRIPTION:Source: Milwaukee Public Library\nJoin a guest artist from Artists Working in Education for a family maker time project in the library makerspace....\n\nLink: https://mpl.libnet.info/event/17596968
 DURATION:PT2H
-LOCATION:Center Street Branch - Other - See description for location
-DTSTART:20261019T200000Z
-SUMMARY:Builders Club
-UID:01e59c6c84134d2511f24c90c2ed34b0@mke_events.local
-URL:https://mpl.libnet.info/event/17283683
+LOCATION:Martin Luther King Branch - Makerspace
+DTSTART:20261031T153000Z
+SUMMARY:Family Open Maker Time with Artists Working in Education
+UID:dbd198b5acf0c9a5a020d976bbf4227e@mke_events.local
+URL:https://mpl.libnet.info/event/17596968
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261031
+DESCRIPTION:Source: Milwaukee Public Library\nDo Androids Dream of Electric Cats is an interactive sculpture by the Steel Tigerlillies\, a Milwaukee-based metal arts collective....\n\nLink: https://mpl.libnet.info/event/17521010
+LOCATION:Central Library - Mozart's Grove
+SUMMARY:Do Androids Dream of Electric Cats - Sculpture Exhibit
+UID:46a8e29e8ce3ea17dbc817f65307249f@mke_events.local
+URL:https://mpl.libnet.info/event/17521010
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: Milwaukee Public Library\nMake works of art with one-of-a-kind stamps\, learn inking techniques\, or carve a stamp from scratch with help from multimedia artist\, educator\, and former MPL Artist-in-Residence Celeste Contreras....\n\nLink: https://mpl.libnet.info/event/16969793
@@ -82,80 +46,97 @@ UID:ecd2b4334da76d8f384af85c81a67b95@mke_events.local
 URL:https://mpl.libnet.info/event/16969793
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261023
-DESCRIPTION:Source: Discover the North Shore\n\nLink: https://discoverthenorthshoremke.com/event/acrylic-pouring-with-artist-chrishella-roche/
+DTSTART;VALUE=DATE:20261028
+DESCRIPTION:Source: Discover the North Shore\n\nLink: https://discoverthenorthshoremke.com/event/breast-cancer-awareness-paint-sip/
 LOCATION:Vibez Creative Art Space
-SUMMARY:Acrylic Pouring with Artist Chrishella Roché
-UID:f52b4ed1478f602d90be9f16922036c6@mke_events.local
-URL:https://discoverthenorthshoremke.com/event/acrylic-pouring-with-artist-chrishella-roche/
+SUMMARY:Breast Cancer Awareness Paint & Sip
+UID:1012faae539e14909b889ef5998d77d2@mke_events.local
+URL:https://discoverthenorthshoremke.com/event/breast-cancer-awareness-paint-sip/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261024
-DESCRIPTION:Source: Milwaukee Public Library\nDo Androids Dream of Electric Cats is an interactive sculpture by the Steel Tigerlillies\, a Milwaukee-based metal arts collective....\n\nLink: https://mpl.libnet.info/event/17521003
+DTSTART;VALUE=DATE:20261030
+DESCRIPTION:Source: Discover the North Shore\n\nLink: https://discoverthenorthshoremke.com/event/elite-spooktacular/
+LOCATION:Elite Sports Club- River Glen
+SUMMARY:Elite Spooktacular
+UID:ebcfd385709aa621af61d5f185d35066@mke_events.local
+URL:https://discoverthenorthshoremke.com/event/elite-spooktacular/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261030
+DESCRIPTION:Source: Milwaukee Public Library\nDo Androids Dream of Electric Cats is an interactive sculpture by the Steel Tigerlillies\, a Milwaukee-based metal arts collective....\n\nLink: https://mpl.libnet.info/event/17521009
 LOCATION:Central Library - Mozart's Grove
 SUMMARY:Do Androids Dream of Electric Cats - Sculpture Exhibit
-UID:35974d5acd4f956659327ff49c685e86@mke_events.local
-URL:https://mpl.libnet.info/event/17521003
+UID:aa267a9f85717e6531f1810b964f182a@mke_events.local
+URL:https://mpl.libnet.info/event/17521009
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nLet's work together on the farm! We will pretend to be farmers as we plant\, care for\, and pick our harvest. Then\, we'll sell the fruits and vegetables to customers at our farmer's market....\n\nLink: https://mpl.libnet.info/event/16276230
+DESCRIPTION:Source: Milwaukee Public Library\nJoin us at the beautiful Central Library for yoga and fellowship. Registration is encouraged. Walk-ins welcome....\n\nLink: https://mpl.libnet.info/event/17102421
 DURATION:PT2H
-LOCATION:Bay View Branch - Llewellyn Community Room
-DTSTART:20261022T153000Z
-SUMMARY:Family Play and Learn - Down on the Farm
-UID:79a2b106d7449571c08c83c4d7a987ba@mke_events.local
-URL:https://mpl.libnet.info/event/16276230
+LOCATION:Central Library - Rotary Club of Milwaukee Community Room
+DTSTART:20261029T153000Z
+SUMMARY:Chair Yoga - Yoga Class Suitable For People Of All Abilities
+UID:4b8cefbc27a59b94c2e946d86efb1691@mke_events.local
+URL:https://mpl.libnet.info/event/17102421
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261025
-DESCRIPTION:Source: Milwaukee Public Library\nDo Androids Dream of Electric Cats is an interactive sculpture by the Steel Tigerlillies\, a Milwaukee-based metal arts collective....\n\nLink: https://mpl.libnet.info/event/17521004
-LOCATION:Central Library - Mozart's Grove
-SUMMARY:Do Androids Dream of Electric Cats - Sculpture Exhibit
-UID:1d1f8602b65d950c54ea41aeedc5bbdb@mke_events.local
-URL:https://mpl.libnet.info/event/17521004
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261024
-DESCRIPTION:Source: Discover the North Shore\n\nLink: https://discoverthenorthshoremke.com/event/whitefish-bay-farmers-market-annual-harvest-festival/
-LOCATION:Whitefish Bay Farmers Market
-SUMMARY:Whitefish Bay Farmers Market Annual Harvest Festival
-UID:75eb038a5b70fb0362ad208ebbc33239@mke_events.local
-URL:https://discoverthenorthshoremke.com/event/whitefish-bay-farmers-market-annual-harvest-festival/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nThe Makerspace is open in October for all of your cozy\, cute\, and creepy creations....\n\nLink: https://mpl.libnet.info/event/17308221
+DESCRIPTION:Source: Milwaukee Public Library\nWalk together through Washington Park....\n\nLink: https://mpl.libnet.info/event/16946691
 DURATION:PT2H
-LOCATION:Martin Luther King Branch - Makerspace
-DTSTART:20261020T203000Z
-SUMMARY:Open Maker Time: Cozy\, Cute & Creepy
-UID:c1790cd10571b5427a3fd48a74739444@mke_events.local
-URL:https://mpl.libnet.info/event/17308221
+LOCATION:Washington Park
+DTSTART:20261028T151500Z
+SUMMARY:Stepping Out Walking Club
+UID:2bde4e7b60822c999f15f53520409ece@mke_events.local
+URL:https://mpl.libnet.info/event/16946691
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nImagine being buried alive...in candy! Come plot your own delicious grave using pudding\, cookies\, gummy worms\, and other sweet things\, if you dare......\n\nLink: https://mpl.libnet.info/event/16976413
+DESCRIPTION:Source: Milwaukee Public Library\nCome create a fun Halloween-themed craft\, while learning about the human body. Create your own skeleton using q-tips....\n\nLink: https://mpl.libnet.info/event/16853023
 DURATION:PT2H
 LOCATION:Capitol Branch - Community Room
-DTSTART:20261023T200000Z
-SUMMARY:R.I.P (Rest in Pudding)
-UID:25fa39ad87a7dcda74f471121bc73deb@mke_events.local
-URL:https://mpl.libnet.info/event/16976413
+DTSTART:20261029T210000Z
+SUMMARY:Halloween Craftapalooza: Skeletons
+UID:69793455fd4a729cb61dbe41af248085@mke_events.local
+URL:https://mpl.libnet.info/event/16853023
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nThe Makerspace is open in October for all of your cozy\, cute\, and creepy creations....\n\nLink: https://mpl.libnet.info/event/17310713
-DURATION:PT2H
-LOCATION:Washington Park Branch - Makerspace
-DTSTART:20261020T203000Z
-SUMMARY:Open Maker Time: Cozy\, Cute & Creepy
-UID:c1790cd10571b5427a3fd48a74739444@mke_events.local
-URL:https://mpl.libnet.info/event/17310713
+DTSTART;VALUE=DATE:20261031
+DESCRIPTION:Source: Discover the North Shore\n\nLink: https://discoverthenorthshoremke.com/event/kid-boogie-downs-halloween-spooktacular-dance-party/
+LOCATION:The Argo
+SUMMARY:Kid Boogie Down's Halloween Spooktacular Dance Party
+UID:b031a9662a016943055608f2c5f173c8@mke_events.local
+URL:https://discoverthenorthshoremke.com/event/kid-boogie-downs-halloween-spooktacular-dance-party/
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: Milwaukee Public Library\nThe Makerspace is open in October for all of your cozy\, cute\, and creepy creations....\n\nLink: https://mpl.libnet.info/event/17308094
+DESCRIPTION:Source: Milwaukee Public Library\nGet comfy\, craft\, and meet up with friends and neighbors at Central Library!...\n\nLink: https://mpl.libnet.info/event/17054855
 DURATION:PT2H
-LOCATION:Martin Luther King Branch - Makerspace
-DTSTART:20261019T203000Z
-SUMMARY:Open Maker Time: Cozy\, Cute & Creepy
-UID:48ec40029530960f0f856d3f9a23cfc9@mke_events.local
-URL:https://mpl.libnet.info/event/17308094
+LOCATION:Central Library - Frank P. Zeidler Humanities Room
+DTSTART:20261102T233000Z
+SUMMARY:Cozy Crafting
+UID:946e5d23ff7f25b35035662cea461355@mke_events.local
+URL:https://mpl.libnet.info/event/17054855
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee Public Library\nCome build with us! We'll supply a variety of building materials and you'll bring the creativity. Meet friends and see what you can create together. Held in the children's room....\n\nLink: https://mpl.libnet.info/event/17283685
+DURATION:PT2H
+LOCATION:Center Street Branch - Other - See description for location
+DTSTART:20261102T210000Z
+SUMMARY:Builders Club
+UID:77249bb33cd01ef53e180a1e41503355@mke_events.local
+URL:https://mpl.libnet.info/event/17283685
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261031
+DESCRIPTION:Source: Discover the North Shore\n\nLink: https://discoverthenorthshoremke.com/event/halloween-karaoke-costume-contest-21/
+LOCATION:The Argo
+SUMMARY:Halloween Karaoke & Costume Contest (21+)
+UID:15fb6abeb1a8822184096e0fd6c3f641@mke_events.local
+URL:https://discoverthenorthshoremke.com/event/halloween-karaoke-costume-contest-21/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: Milwaukee Public Library\nIn this class\, we'll dive into how AI tools like ChatGPT and Suno can help us create lyrics and songs from the ground up....\n\nLink: https://mpl.libnet.info/event/17642574
+DURATION:PT2H
+LOCATION:Central Library - Innovation and Learning Lab
+DTSTART:20261027T180000Z
+SUMMARY:Sound Experiments - Exploring song creation with AI
+UID:ed1d04c1ee52daad931b8564dceb64d8@mke_events.local
+URL:https://mpl.libnet.info/event/17642574
 END:VEVENT
 END:VCALENDAR
